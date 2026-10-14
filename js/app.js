@@ -3,7 +3,7 @@ const S = (label, text) => ({label, text});
 // *stars* mark must-say key points
 const DEFAULTS = [
   { id:"flow", type:"flow", name:"Counseling flow", sections:[
-    S("Intro","Hi, *my name is Crystal*. I'm the *pharmacy intern* who will be counseling you today. Before we go over your medication, I'd like to ask you a few questions to make sure everything is *safe and appropriate* for you."),
+    S("Intro","Hi, *my name is [your name]*. I'm the *pharmacy intern* who will be counseling you today. Before we go over your medication, I'd like to ask you a few questions to make sure everything is *safe and appropriate* for you."),
     S("Verify info","*Is the medication for you?* Can I get your *full name and date of birth*? Your *address and phone number*?"),
     S("Questions","Have you taken any medications in the past to *treat the same condition*? Are you taking any *other medications, OTC medications, vitamins, or supplements*? Do you have any *allergies*? *What reaction* did you have? Do you have any *other medical conditions*? Are you *pregnant, planning to become pregnant, or breastfeeding*?"),
     S("Purpose","Thank you! So today I am going to be going over your medication with you, including *what it is for*, *how to take it*, important *side effects and interactions*, and other information to make you feel comfortable with the medication."),
@@ -110,7 +110,18 @@ const BADGES = [
 
 // ---------- state ----------
 const strip = t => t.replace(/\*/g,"");
+// Study sets, newest first. To add a new one, add a line at the top with the date it was added.
+const SECTIONS=[
+  {id:"e1",      name:"PHAR 131 · Exam 1",  added:"2026-10-13"},
+  {id:"exam",    name:"PHAR 117",           added:"2026-10-07"},
+  {id:"counsel", name:"Counseling scripts", added:"2026-10-06"},
+].sort((a,b)=>b.added.localeCompare(a.added));
 let state = load();
+state.section = SECTIONS[0].id; // always open on the newest study set
+(function(){ const sel=document.getElementById("sectsel");
+  const fmtD=d=>new Date(d+"T12:00:00").toLocaleDateString(undefined,{month:"short",day:"numeric"});
+  sel.innerHTML=SECTIONS.map((x,i)=>`<option value="${x.id}">${x.name} · ${fmtD(x.added)}</option>`).join("");
+  sel.addEventListener("change",()=>{ state.section=sel.value; save(); if(typeof stopMic==="function") stopMic(); render(); window.scrollTo(0,0); }); })();
 let mode="read", editing=false, confirmDel=false, revealed=new Set(), fadeSeed=1, lastCheck=null;
 let reciteSec="all", quiz=null, quizAll=false, quizView="cards", order=null, mock=null, tick=null;
 let sample=null, aiCtl=null, aiBusy=false, rec=null, listening=false, micBroken=false, confirmReset=false;
@@ -257,6 +268,7 @@ function gaps(s){
 function render(){
   const sec=state.section||"counsel", ex=sec!=="counsel";
   document.querySelectorAll("[data-sect]").forEach(b=>b.setAttribute("aria-pressed", b.dataset.sect===sec));
+  { const ss=document.getElementById("sectsel"); if(ss&&ss.value!==sec) ss.value=sec; }
   document.getElementById("cwrap").hidden=ex; document.getElementById("xbar").hidden=sec!=="exam"; document.getElementById("e1bar").hidden=sec!=="e1";
   if(ex){ if(tick){ clearInterval(tick); tick=null; } stopMic();
     if(sec==="exam"&&typeof renderExam==="function") renderExam();
@@ -374,7 +386,7 @@ function renderRecite(card,s){
       <div class="ctrl"><label class="lbl" for="page">Patient age</label><input type="number" id="page" min="1" max="110" inputmode="numeric" value="${p.age}">
         <label class="toggle"><input type="checkbox" id="phoh" ${p.hoh?"checked":""}> Hard of hearing</label></div>
       <p class="hint"><b>${esc(t.name)}:</b> volume ${fmtDb(t.vol[0])} to ${fmtDb(t.vol[1])} dB vs her normal voice, pace ${t.pace[0]}–${t.pace[1]} words/min. ${t.tip}</p>
-      ${state.calib==null?`<div class="note">To grade volume, calibrate once: tap <b>Calibrate</b> and say “Hi, my name is Crystal, I'm the pharmacy intern who will be counseling you today” at her normal talking volume, phone held where she'll hold it.</div>`:""}
+      ${state.calib==null?`<div class="note">To grade volume, calibrate once: tap <b>Calibrate</b> and say “Hi, my name is [your name], I'm the pharmacy intern who will be counseling you today” at her normal talking volume, phone held where she'll hold it.</div>`:""}
       <div class="row left">${GUM&&!levelBroken?`<button id="calib">${state.calib==null?"Calibrate":"Recalibrate"} normal voice</button>`:`<span class="hint">Volume can't be measured on this device.</span>`}</div>
     </div>
     ${micOK?`<div class="mic"><button class="micbtn ${listening?"on":""}" id="mic" aria-label="${listening?"Stop recording":"Start recording"}">${MIC_SVG}</button>
@@ -629,7 +641,7 @@ function renderProgress(card){
       <details><summary class="lbl" style="cursor:pointer">Set a reward</summary>
         <div style="display:flex;flex-direction:column;gap:10px;margin-top:10px">
           <p class="hint">Something real she unlocks when overall mastery hits the goal. A boba run, a dinner, a day off from dishes.</p>
-          <div class="ctrl"><input type="text" id="rwtext" value="${esc(rw.text)}" placeholder="e.g. Sushi dinner, Alvin's treat">
+          <div class="ctrl"><input type="text" id="rwtext" value="${esc(rw.text)}" placeholder="e.g. Sushi dinner">
           <select id="rwgoal">${[60,70,80,90].map(g=>`<option ${g===rw.goal?"selected":""}>${g}</option>`).join("")}</select><span class="lbl">%</span></div>
           <div class="row"><button class="primary" id="rwsave">Save reward</button></div></div></details>
       <details><summary class="lbl" style="cursor:pointer">Reset progress</summary>

@@ -116,6 +116,8 @@ The button turns into **☁ Synced**. From then on her progress saves to the clo
 
 **New exam (Exam 2) or a new course:** that's a code change, not just a content file. Ask Claude to "add an Exam 2 section like Exam 1" and give it `js/exam1.js` and `index.html`.
 
+**Study-set dropdown:** the "Study set" menu at the top lists sections newest first, and the app always opens on the newest one. The list is `SECTIONS` near the top of `js/app.js`; a new section gets one line there with the date it was added.
+
 ---
 
 ## Good to know

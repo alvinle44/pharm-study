@@ -171,6 +171,8 @@ input[type=number]{width:5.5em;border:1px solid var(--line);border-radius:8px;pa
 .reward .r{font-family:var(--f-display);font-weight:800;font-size:1.3rem;color:var(--gold)}
 .stack{display:flex;flex-direction:column;gap:14px}
 [hidden]{display:none!important}
+.sectpick{display:flex;flex-direction:column;gap:4px}
+.sectpick select{width:100%;font:inherit;font-weight:700;font-size:16px;padding:12px 40px 12px 14px;border-radius:10px;border:1px solid var(--line);background:var(--surface);color:var(--ink);appearance:none;-webkit-appearance:none;background-image:linear-gradient(45deg,transparent 50%,var(--muted) 50%),linear-gradient(135deg,var(--muted) 50%,transparent 50%);background-position:calc(100% - 20px) 52%,calc(100% - 14px) 52%;background-size:6px 6px;background-repeat:no-repeat}
 .sect{display:grid;grid-template-columns:1fr 1fr 1fr;gap:4px;background:var(--surface);border:1px solid var(--line);border-radius:10px;padding:4px}
 .sect button{border:0;background:transparent;font-weight:700;color:var(--muted);padding:10px 4px}
 .sect button[aria-pressed="true"]{background:var(--ink);color:var(--bg)}
@@ -226,7 +228,7 @@ input[type=number]{width:5.5em;border:1px solid var(--line);border-radius:8px;pa
     <h1>Script <span>Drill</span></h1>
     <div class="stats" id="stats"></div>
   </header>
-  <div class="sect" role="group" aria-label="Section"><button data-sect="counsel">Counseling</button><button data-sect="e1">Exam 1</button><button data-sect="exam">PHAR 117</button></div>
+  <label class="sectpick"><span class="lbl">Study set · newest first</span><select id="sectsel" aria-label="Choose what to study"></select></label>
 
   <div id="cwrap" class="stack">
   <button class="overall" id="overall" aria-label="Open progress"></button>

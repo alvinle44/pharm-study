@@ -191,10 +191,10 @@ E1_DATA.push({
      "simple": "**In plain English:** The calendar has buttons like **Optimize** and **Alphabetize** (sorts meds A–Z). It can also be printed in another language; the slide example was in Vietnamese. **Example:** You save the calendar under Optimize, then print one copy in English and one in Vietnamese for the patient's family. **Remember:** **Optimize, Alphabetize, other languages**. Your homework is saved under Optimize."
     },
     {
-     "x": "The calendar's **ID (e.g., Y253RLJP)** in the upper right is red-boxed: it **is recorded in the Medicare Passport** and **also recorded by the Medicare student**.",
+     "x": "The calendar's **ID (e.g., X123ABCD)** in the upper right is red-boxed: it **is recorded in the Medicare Passport** and **also recorded by the Medicare student**.",
      "s": 1,
      "note": "Hidden slide text: \"This will be recorded in the Medicare Passport / This will also be recorded by the Medicare student\"",
-     "simple": "**In plain English:** Each calendar has an **ID** (e.g., Y253RLJP) in the upper-right corner. It's red-boxed because it **gets recorded in the Medicare Passport** and **also recorded by the Medicare student**, so the calendar can be found again. **Example:** Like a receipt number: write it on the patient's passport so anyone later can pull up the same calendar. **Remember:** Calendar ID → **Passport + Medicare student** both record it."
+     "simple": "**In plain English:** Each calendar has an **ID** (e.g., X123ABCD) in the upper-right corner. It's red-boxed because it **gets recorded in the Medicare Passport** and **also recorded by the Medicare student**, so the calendar can be found again. **Example:** Like a receipt number: write it on the patient's passport so anyone later can pull up the same calendar. **Remember:** Calendar ID → **Passport + Medicare student** both record it."
     },
     {
      "x": "Student handwritten note: \"① add new med → look up med\".",
@@ -635,10 +635,10 @@ E1_DATA.push({
    "**In plain English:** The calendar breaks the day into four columns: **Morning, Noon, Evening, Bedtime**, and lists which meds to take in each. **Example:** Like a school schedule with four periods; each pill sits in the period you take it. **Remember:** **M-N-E-B**: Morning, Noon, Evening, Bedtime."
   ],
   [
-   "The calendar ID (e.g., Y253RLJP) is recorded where?",
+   "The calendar ID (e.g., X123ABCD) is recorded where?",
    "In the **Medicare Healthcare Passport** (as the meducation password) and **by the Medicare student**",
    1,
-   "**In plain English:** The ID in the calendar's upper right (e.g., Y253RLJP) acts as the Meducation password. It's recorded in the **Medicare Healthcare Passport** and also recorded **by the Medicare student**. **Example:** Like a confirmation number: it goes on the patient's paperwork and the Medicare student writes it down too. **Remember:** Calendar ID goes in the **Passport + Medicare student**. It is NOT the Passport ID# (like 26-4235)."
+   "**In plain English:** The ID in the calendar's upper right (e.g., X123ABCD) acts as the Meducation password. It's recorded in the **Medicare Healthcare Passport** and also recorded **by the Medicare student**. **Example:** Like a confirmation number: it goes on the patient's paperwork and the Medicare student writes it down too. **Remember:** Calendar ID goes in the **Passport + Medicare student**. It is NOT the Passport ID# (like 26-4235)."
   ],
   [
    "Meducation: which meds must you enter?",
@@ -1260,7 +1260,7 @@ E1_DATA.push({
   },
   {
    "type": "single",
-   "q": "A Meducation calendar printed for a patient shows 'ID: Y253RLJP' in the upper right corner. What should happen with this ID?",
+   "q": "A Meducation calendar printed for a patient shows 'ID: X123ABCD' in the upper right corner. What should happen with this ID?",
    "o": [
     "It is discarded; it is for internal FDB use only",
     "It is written on the Vaccine Administration Form as the Passport ID#",
