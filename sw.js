@@ -1,6 +1,6 @@
 // Offline support. Network first (so updates show up right away), cached copy when offline.
 // When you add or rename a file, add it to FILES and bump VERSION.
-const VERSION = "v1";
+const VERSION = "v2";
 const FILES = [
   "./",
   "index.html",

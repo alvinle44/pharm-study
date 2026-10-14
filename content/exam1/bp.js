@@ -8,7 +8,7 @@ E1_DATA.push({
  "guide": [
   {
    "t": "Basics, terms & why BP matters",
-   "src": "BP_LEC.pdf p.2–9",
+   "src": "BP_LEC.pdf p.2–8",
    "pts": [
     {
      "x": "Objectives: demonstrate **seated and standing** BP with both a **sphygmomanometer** and an **automated** machine; know health issues HTN contributes to, factors for accurate measurement, **interpret readings into BP categories**, and discuss lifestyle mods, **orthostatic hypotension**, **white coat HTN**, **wrist cuff use**.",
@@ -17,7 +17,7 @@ E1_DATA.push({
     {
      "x": "**BP** = force of blood being pumped by the heart. Units: **mmHg** (millimeters of mercury).",
      "s": 0,
-     "note": "mmHg = mL/mercury (student note: \"ml/mercury\")"
+     "note": "Student wrote \"ml/mercury\" – mmHg = MILLIMETERS of mercury (not mL)"
     },
     {
      "x": "**SBP (systolic)** = pressure against vessel walls caused by the heart **contracting** (systole). **DBP (diastolic)** = pressure against vessels when the heart is **at rest/relaxing** (diastole).",
@@ -33,8 +33,9 @@ E1_DATA.push({
      "s": 0
     },
     {
-     "x": "CDC facts: HTN puts you at risk for **heart disease and stroke** (leading causes of death in US). In 2024 HTN was a primary/contributing cause of **680,179** deaths. Nearly half of adults (**48.1%, 119.9 million**) have HTN, defined as SBP >130 or DBP >80 or on BP meds. Only **~1 in 4 (22.5%)** have it controlled. ~45% of uncontrolled have BP **≥140/90** (37 million).",
-     "s": 0
+     "x": "CDC facts: HTN puts you at risk for **heart disease and stroke** (leading causes of death in US). In 2024 HTN was a primary/contributing cause of **680,179** deaths. Nearly half of adults (**48.1%, 119.9 million**) have HTN, defined (slide wording) as SBP >130 or DBP >80 or on BP meds. Only **~1 in 4 (22.5%)** have it controlled. ~45% of uncontrolled have BP **≥140/90** (37 million).",
+     "s": 0,
+     "note": "Slide says \">130 / >80\"; CDC/AHA actually use ≥130 or ≥80 (Stage 1 starts AT 130 or 80). Use the category table (p.29) for classifying."
     },
     {
      "x": "BP is used to: **assess CVD risk**, **diagnose HTN**, **adjust anti-HTN medication**.",
@@ -265,7 +266,7 @@ E1_DATA.push({
     {
      "x": "**Hypertensive crisis:** SBP **>180 AND/OR** DBP **>120** – consult doctor immediately.",
      "s": 1,
-     "note": "\"and/or\" circled"
+     "note": "\"and/or\" circled. Current AHA chart (2025 AHA/ACC guideline) keeps all cutoffs but splits >180/>120 into \"severe hypertension\" (no symptoms → recheck, call HCP) vs \"hypertensive emergency\" (symptoms/organ damage → 911). Use lecture term \"hypertensive crisis\" on the exam."
     }
    ]
   },
@@ -275,7 +276,8 @@ E1_DATA.push({
    "pts": [
     {
      "x": "**Orthostatic/postural hypotension (OH):** **≥20 mmHg ↓ SBP** or **≥10 mmHg ↓ DBP** from sitting (to standing). Sitting→standing BP must be measured **within 5 minutes**.",
-     "s": 1
+     "s": 1,
+     "note": "Lecture = within 5 min (exam answer). FYI standard consensus/AHA definition: drop within 3 min of standing."
     },
     {
      "x": "OH symptoms: **lightheadedness, fainting, blurry vision**. Cause: heart can't adequately pump blood to the brain after a posture change (sitting/lying → standing).",
@@ -284,7 +286,7 @@ E1_DATA.push({
     {
      "x": "**White coat HTN:** BP higher in clinic but normal outside; **~13%** of patients. Official definition: **≥3 separate clinic readings >140/90** AND **≥2 non-clinic readings <140/90**.",
      "s": 1,
-     "note": "Student: \"get nervous when they see doctor\""
+     "note": "Student: \"get nervous when they see doctor\". Lecture uses the older 140/90 cutoff (exam answer); 2017/2025 ACC/AHA use office ≥130/80 with out-of-office <130/80."
     },
     {
      "x": "**Wrist cuff:** **NOT recommended by AHA**; restrict to patients whose **arms are too large** for available arm cuffs. Wrist BP usually **reads higher** and is **less accurate** than a well-performed arm BP. Counsel: **bring the wrist cuff to the doctor** so it can be compared with in-office devices.",
@@ -347,7 +349,7 @@ E1_DATA.push({
   ],
   [
    "CDC HTN definition used in the facts slide",
-   "SBP >130 **or** DBP >80 **or** taking BP meds",
+   "SBP >130 **or** DBP >80 **or** taking BP meds (slide wording; actual stage 1 starts at ≥130 or ≥80)",
    0
   ],
   [
@@ -567,7 +569,7 @@ E1_DATA.push({
   ],
   [
    "Hypertensive crisis",
-   "SBP **>180 and/or** DBP **>120** – see doctor immediately",
+   "SBP **>180 and/or** DBP **>120** – see doctor immediately (2025 AHA chart renames this severe HTN vs hypertensive emergency; same cutoffs)",
    1
   ],
   [
@@ -577,7 +579,7 @@ E1_DATA.push({
   ],
   [
    "Orthostatic hypotension criteria",
-   "**≥20 mmHg ↓ SBP** or **≥10 mmHg ↓ DBP** from sitting; standing BP within **5 min**",
+   "**≥20 mmHg ↓ SBP** or **≥10 mmHg ↓ DBP** from sitting; standing BP within **5 min** (per lecture; consensus definition says within 3 min)",
    1
   ],
   [
@@ -660,7 +662,7 @@ E1_DATA.push({
    "a": [
     1
    ],
-   "w": "SBP >180 and/or DBP >120 = hypertensive crisis; the chart says consult your doctor immediately.",
+   "w": "SBP >180 and/or DBP >120 = hypertensive crisis; the chart says consult your doctor immediately. Stage 2 also has SBP ≥140, but >180/>120 is the higher category and needs immediate action, not a 1-year recheck. Note: the 2025 AHA chart keeps these cutoffs but calls it severe hypertension (no symptoms) vs hypertensive emergency (symptoms → 911).",
    "src": "BP_LEC.pdf p.29"
   },
   {
@@ -883,7 +885,7 @@ E1_DATA.push({
    "a": [
     1
    ],
-   "w": "122/80→116/72: SBP ↓6, DBP ↓8 – neither threshold met. Others: SBP ↓22; DBP ↓12; SBP ↓22.",
+   "w": "122/80→116/72: SBP ↓6, DBP ↓8 – neither threshold met. The others all qualify: 140/88→118/84 (SBP ↓22), 130/86→120/74 (DBP ↓12), 150/90→128/88 (SBP ↓22). Only one criterion is needed.",
    "src": "BP_LEC.pdf p.30"
   },
   {
@@ -916,7 +918,7 @@ E1_DATA.push({
    "a": [
     0
    ],
-   "w": "Sitting to standing BP must be measured within 5 minutes.",
+   "w": "Per lecture, sitting to standing BP must be measured within 5 minutes. (FYI: the standard consensus definition uses a drop within 3 minutes of standing – answer 5 min on this exam.)",
    "src": "BP_LEC.pdf p.30"
   },
   {
@@ -931,7 +933,7 @@ E1_DATA.push({
    "a": [
     3
    ],
-   "w": "White coat HTN = ≥3 separate clinic measurements >140/90 AND ≥2 non-clinic <140/90. Affects ~13% of patients.",
+   "w": "White coat HTN = ≥3 separate clinic measurements >140/90 AND ≥2 non-clinic <140/90 (lecture definition). Affects ~13% of patients. OH is a standing drop and crisis needs >180/>120; a home cuff reading too HIGH would not explain lower home values. Note: current ACC/AHA (2017/2025) use 130/80 cutoffs, under which these home readings (≥130 or ≥80) would not count as normal – answer per lecture.",
    "src": "BP_LEC.pdf p.31"
   },
   {
@@ -1312,7 +1314,7 @@ E1_DATA.push({
    "a": [
     3
    ],
-   "w": "Manual BP is recorded in even numbers, to the nearest 2 mmHg; SBP/DBP order. 132/86 follows this; 131/87 uses odd numbers.",
+   "w": "Manual BP is recorded in even numbers, to the nearest 2 mmHg, in SBP/DBP order. 131 → 132 and 87 → 86 are each within 1 mmHg, so 132/86 follows this. 131/87 uses odd numbers; 130/90 moves DBP 3 mmHg (not the nearest even number); 87/131 reverses the order.",
    "src": "BP_LEC.pdf p.23, 37"
   },
   {

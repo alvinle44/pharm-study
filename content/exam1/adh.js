@@ -137,7 +137,7 @@ E1_DATA.push({
   },
   {
    "t": "Meducation outputs: Med List, Drug Monograph (PMI), Calendar",
-   "src": "Adherence notes p.14–19, 21, 45",
+   "src": "Adherence notes p.14–19, 21–22, 45",
    "pts": [
     {
      "x": "**Medication List** view columns: Medicine, Structured SIG, Links, Category (Daily vs **PRN**), Cal (include on calendar), PMI.",
@@ -173,7 +173,7 @@ E1_DATA.push({
   },
   {
    "t": "Meducation — things to be mindful of",
-   "src": "Adherence notes p.23–24",
+   "src": "Adherence notes p.24–25",
    "pts": [
     {
      "x": "Enter **BOTH prescription AND OTC meds** (video tutorial shows how to enter OTCs not in the database).",
@@ -205,7 +205,7 @@ E1_DATA.push({
   },
   {
    "t": "Medicare events: process & Healthcare Passport",
-   "src": "Adherence notes p.22, 25–27, 32",
+   "src": "Adherence notes p.22–23, 26–28, 32",
    "pts": [
     {
      "x": "**Medicare Healthcare Passport** = the patient's **roadmap**; lists intern pharmacists, **meducation® password** (red-boxed) and meducation website; Medicare Help Hotline (209) 910-3784.",
@@ -239,7 +239,7 @@ E1_DATA.push({
   },
   {
    "t": "Prescriber Communication Form",
-   "src": "Adherence notes p.28",
+   "src": "Adherence notes p.29",
    "pts": [
     {
      "x": "Used to send findings to the prescriber **on behalf of the patient (or legal representative) with their permission**, based on the patient's **self-reported** conditions and medications.",
@@ -269,7 +269,7 @@ E1_DATA.push({
   },
   {
    "t": "Vaccine Administration (Screening) Form 2026–2027",
-   "src": "Adherence notes p.29, 31, 33–35",
+   "src": "Adherence notes p.31, 33–35",
    "pts": [
     {
      "x": "Top (yellow-highlighted): **Passport ID#**, **TIME IN**; Location: circle **FAST PASS** or **WAITING**; Table # or patient location.",
@@ -347,11 +347,13 @@ E1_DATA.push({
     },
     {
      "x": "Menu: **COVID-19** annual updated vaccine; adults **over 65 should get a booster 6 months after their last dose**. **Pneumococcal PCV**: most adults only need **one** pneumococcal vaccine, depending on age, risk factors and history.",
-     "s": 0
+     "s": 0,
+     "note": "Per lecture menu. Note: COVID-19 recommendations for 2025–26 moved to individual-based (shared) decision-making; ACIP now recommends pneumococcal vaccination for all adults ≥50."
     },
     {
      "x": "Menu: **Shingrix** 2-shot series, given after **50 years** of age, good for lifetime, **second shot in 2–6 months**. **Tdap** protects against whooping cough, diphtheria and tetanus; given **every 10 years**.",
-     "s": 0
+     "s": 0,
+     "note": "Per lecture menu. Note: current CDC/ACIP adult schedule = 1 dose of Tdap, then a Td OR Tdap booster every 10 years."
     },
     {
      "x": "Menu: **RSV** for adults **75 or older** or **50–74 with certain risk factors** (e.g., heart, lung disease); **only one dose** recommended. **Hepatitis B** 3-shot series for those at risk (e.g., **dialysis, diabetes**).",
@@ -1103,7 +1105,7 @@ E1_DATA.push({
     3
    ],
    "w": "The red-boxed ID is the Meducation password: 'This will be recorded in the Medicare Passport / This will also be recorded by the Medicare student.' The Passport ID# is a different number (e.g., 26-4235).",
-   "src": "Adherence notes p.21–22"
+   "src": "Adherence notes p.22–23"
   },
   {
    "type": "single",
@@ -1195,7 +1197,7 @@ E1_DATA.push({
     1
    ],
    "w": "Both 'Cheaper therapeutic alternative available' and 'Medication non-adherence' are listed issues matching the findings. No duplication, drug-disease interaction or ADR was described.",
-   "src": "Adherence notes p.30"
+   "src": "Adherence notes p.29"
   },
   {
    "type": "single",
@@ -1210,7 +1212,7 @@ E1_DATA.push({
     2
    ],
    "w": "The recommendation section lists Cost savings alternative with Current medication (Cost/year: $) and Alternative medication (Cost/year: $).",
-   "src": "Adherence notes p.30"
+   "src": "Adherence notes p.29"
   },
   {
    "type": "single",
@@ -1225,7 +1227,7 @@ E1_DATA.push({
     1
    ],
    "w": "Response options are Yes, No, or Will resolve through another route; the prescriber checks a box and faxes the form back to 209-932-4009 for documentation.",
-   "src": "Adherence notes p.30"
+   "src": "Adherence notes p.29"
   },
   {
    "type": "multi",
@@ -1243,7 +1245,7 @@ E1_DATA.push({
     2
    ],
    "w": "The footer lists Patient Signature, Student Pharmacist (print/sign) and Pharmacist Preceptor (print/sign). The prescriber only checks a response box; no Medicare student signature line exists.",
-   "src": "Adherence notes p.30"
+   "src": "Adherence notes p.29"
   },
   {
    "type": "single",
@@ -1258,7 +1260,7 @@ E1_DATA.push({
     3
    ],
    "w": "The form has a field 'Patient MRN# (if applicable e.g., Kaiser Permanente)'.",
-   "src": "Adherence notes p.30"
+   "src": "Adherence notes p.29"
   },
   {
    "type": "single",

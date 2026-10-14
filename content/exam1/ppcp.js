@@ -517,7 +517,7 @@ E1_DATA.push({
    1
   ],
   [
-   "Lecture's 3-word summary of the PPCP job?",
+   "Lecture's 3-step summary of the PPCP job?",
    "1) Identify drug problems 2) Fix them 3) Document them",
    1
   ],
@@ -918,7 +918,7 @@ E1_DATA.push({
     "Closure (“Is there anything else we need to discuss today?”)"
    ],
    "w": "Table 2.2 goes from broad to narrow: introduce and verify identity → broad open-ended → focused open-ended (LOQQSAM) → closed-ended to cover key issues not yet raised → summarize so the patient can verify → close.",
-   "src": "READING p.1, 4"
+   "src": "READING p.1, 3 (Table 2.2)"
   },
   {
    "type": "single",
@@ -1016,7 +1016,7 @@ E1_DATA.push({
     0
    ],
    "w": "Table 2.4: if any problems are noted, shift gears to chief complaint history taking. Begin with “Tell me more about it,” then use LOQQSAM as needed. Case 2.5 models this exact response (“Tell me more about your waking up”).",
-   "src": "READING p.7, 12 (Case 2.5)"
+   "src": "READING p.6 (Table 2.4), 12–13 (Case 2.5)"
   },
   {
    "type": "single",
@@ -1032,7 +1032,7 @@ E1_DATA.push({
     2
    ],
    "w": "Control questions ask how the disease has been going (home glucose readings, nighttime urination). Compliance questions ask about remembering meds or diet/exercise. Complications questions ask about changes/problems since the last visit. Concern is the optional 4th C.",
-   "src": "READING p.5, 7 (Table 2.4)"
+   "src": "READING p.5–6 (Table 2.4)"
   },
   {
    "type": "single",
@@ -1064,7 +1064,7 @@ E1_DATA.push({
     0
    ],
    "w": "Table 2.4 pairs muscle pain/weakness with myotoxicity. Fatigue, anorexia, malaise, N/V and dark urine → hepatotoxicity. Leg cramps/pain while exercising → PAD. Ankle swelling and number of pillows → CHF.",
-   "src": "READING p.7 (Table 2.4)"
+   "src": "READING p.6 (Table 2.4)"
   },
   {
    "type": "single",
@@ -1104,7 +1104,7 @@ E1_DATA.push({
    "n": 5,
    "tol": 0,
    "unit": "components",
-   "w": "HPI, past medical history, family history, personal/social history and review of systems.",
+   "w": "HPI, past medical history, family history, personal/social history and review of systems (reading p.2). Note: the lecture grid also lists Medication History (MED) under HPI and calls ROS \"Review of Symptoms\", but the reading counts the complete medication history inside the PMH, so the answer is still 5.",
    "src": "READING p.2"
   },
   {

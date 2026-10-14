@@ -20,11 +20,11 @@ E1_DATA.push({
      "s": 1
     },
     {
-     "x": "**Flu:** everyone ≥6 months yearly. Age ≥65 → Fluzone High-Dose (HD-IIV3) or Fluad (aIIV3); Flublok (RIV3) is ≥9 years. Children 6 mo–8 yr need **2 doses ≥4 weeks apart** unless they had ≥2 prior doses before July 1. Egg allergy is only a precaution.",
+     "x": "**Flu:** everyone ≥6 months yearly. Age ≥65 → Fluzone High-Dose (HD-IIV3), Fluad (aIIV3) or Flublok (RIV3) (CDC; Flublok is approved ≥9 years). Children 6 mo–8 yr need **2 doses ≥4 weeks apart** unless they had ≥2 prior doses before July 1. Egg allergy is only a precaution.",
      "s": 1
     },
     {
-     "x": "**Pneumococcal (adults):** ≥50 years, or 19–64 with a risk condition (diabetes, COPD/chronic lung disease, smoking, iatrogenic immunosuppression, asplenia, etc.) → **PCV20 or PCV21 once ('20 or 21 means you're done')**, or PCV15 followed ≥1 year later by PPSV23. PPSV23 alone is not enough.",
+     "x": "**Pneumococcal (adults):** ≥50 years, or 19–64 with a risk condition (diabetes, COPD/chronic lung disease, smoking, iatrogenic immunosuppression, asplenia, etc.) → **PCV20 or PCV21 once ('20 or 21 means you're done')**, or PCV15 followed ≥1 year later by PPSV23. PPSV23 alone is not enough — if a patient had **PPSV23 only**, give **PCV20 or PCV21 (or PCV15 alone) ≥1 year later** (p.35 ACIP table).",
      "s": 1,
      "note": "20 or 21 means ur done; if in doubt 20 or 21 it out; ppsv23 by itself is useless"
     },
@@ -254,7 +254,7 @@ E1_DATA.push({
      "s": 0
     },
     {
-     "x": "**Precaution:** allergy to chicken/egg protein, ciprofloxacin, gentamicin. **Contraindication:** severe hypersensitivity to a component.",
+     "x": "**Precaution:** allergy to chicken/egg protein, ciprofloxacin, gentamicin. **Contraindication:** severe hypersensitivity to a component. (Slide 255 words it as 'contraindication: severe allergy to any component (gentamicin, ciprofloxacin, egg protein)' — i.e., a SEVERE allergy is a contraindication; a non-severe allergy is a precaution.)",
      "s": 0
     },
     {
@@ -304,7 +304,7 @@ E1_DATA.push({
      "note": "no make up if you age out; AGE OUT NO NEED TO GET ANYMORE"
     },
     {
-     "x": "**Contraindications:** severe hypersensitivity, **SCID**, **history of intussusception**, **latex rubber allergy (RV1/Rotarix)**. **Precautions:** **moderate–severe GI problems** (highlighted), altered immunocompetence.",
+     "x": "**Contraindications:** severe hypersensitivity, **SCID**, **history of intussusception**, **latex rubber allergy (RV1/Rotarix)**. **Precautions:** **moderate–severe GI problems** (highlighted), altered immunocompetence. (Slide 274 text instead says 'contraindicated in moderate-severe GI problems' — the precaution/contraindication table on the same page lists it as a precaution.)",
      "s": 1,
      "note": "GI problems in kids can be life threatening — dehydrate easily"
     },
@@ -390,7 +390,7 @@ E1_DATA.push({
      "s": 0
     },
     {
-     "x": "**IDSA:** immunocompromised children and adults → age-appropriate COVID-19 and influenza vaccines; RSV vaccine for immunocompromised adults and adolescents (under 18: shared decision-making). FDA ages: Abrysvo ≥18, mResvia ≥18, **Arexvy ≥50**.",
+     "x": "**IDSA:** immunocompromised children and adults → age-appropriate COVID-19 and influenza vaccines; RSV vaccine for immunocompromised adults and adolescents (under 18: shared decision-making). FDA ages on this slide: Abrysvo ≥18, mResvia ≥18, **Arexvy ≥50** (the p.40 product table lists Arexvy ≥18; FDA expanded it to at-risk 18–49 in March 2026).",
      "s": 0,
      "note": "kids dont get RSV VACCINE. THEY GET ANTIBODY"
     }
@@ -398,7 +398,7 @@ E1_DATA.push({
   },
   {
    "t": "How to read & apply the CDC pediatric schedule",
-   "src": "IMZ CTP p.14–15 (key), 99–108 (cases)",
+   "src": "IMZ CTP p.14 (key), 99–108 (cases)",
    "pts": [
     {
      "x": "**Step 1 — AGE first.** Then compare each vaccine in the record to the routine ages (Table 1), use the catch-up table (Table 2) for missed doses, the medical-indication table (Table 3) for conditions like asplenia, and **always read the Notes**.",
@@ -444,7 +444,7 @@ E1_DATA.push({
      "note": "EXPLAIN PCV 15 VS PCV 20; topical/inhaled steroid is little systemic, oral steroids are"
     },
     {
-     "x": "**TR, 67, COPD since 55, PPSV23 at 55:** needs a conjugate vaccine — **PCV20 or PCV21** (one and done) or PCV15 + PPSV23.",
+     "x": "**TR, 67, COPD since 55, PPSV23 at 55:** needs a conjugate vaccine ≥1 year after the PPSV23 — **PCV20 or PCV21** (one and done); per the p.35 ACIP table, PCV15 alone is also acceptable after prior PPSV23 (no second PPSV23 needed).",
      "s": 0
     },
     {
@@ -857,7 +857,7 @@ E1_DATA.push({
   ],
   [
    "JYNNEOS precautions?",
-   "Allergy to **chicken/egg protein, ciprofloxacin, gentamicin**.",
+   "Allergy to **chicken/egg protein, ciprofloxacin, gentamicin** (a SEVERE allergy to these components counts as a contraindication, per slide 255).",
    0
   ],
   [
@@ -932,7 +932,7 @@ E1_DATA.push({
   ],
   [
    "Rotavirus precautions?",
-   "**Moderate–severe GI problems**, altered immunocompetence.",
+   "**Moderate–severe GI problems**, altered immunocompetence (per the precaution/contraindication table; slide 274's text calls GI problems a contraindication).",
    0
   ],
   [
@@ -1007,7 +1007,7 @@ E1_DATA.push({
   ],
   [
    "Arexvy FDA-approved age (per immunocompromised slide)?",
-   "**≥50 years** (Abrysvo and mResvia ≥18).",
+   "**≥50 years** per the p.98 IDSA slide (Abrysvo and mResvia ≥18). Note: the p.40 RSV product table lists Arexvy as ≥18, matching FDA's March 2026 expansion to at-risk adults 18–49.",
    0
   ],
   [
@@ -1279,7 +1279,7 @@ E1_DATA.push({
    "a": [
     0
    ],
-   "w": "Twinrix has an accelerated schedule (0, 7 days, 21–30 days, then 12 months) for travelers; the first 3 doses are done in 3 weeks and she must return at 1 year. The standard schedule takes 6 months.",
+   "w": "Twinrix has an accelerated schedule (0, 1 week, 3 weeks, then 1 year) for travelers; the first 3 doses are done in 3 weeks and she must return at 1 year. The standard schedule takes 6 months.",
    "src": "IMZ CTP p.67, 72"
   },
   {
@@ -1830,8 +1830,8 @@ E1_DATA.push({
    "a": [
     1
    ],
-   "w": "Mpox vaccine precautions: allergy to chicken/egg protein, ciprofloxacin, gentamicin. The contraindication is severe hypersensitivity to a vaccine component.",
-   "src": "IMZ CTP p.86"
+   "w": "Mpox vaccine precautions (p.86 table): allergy to chicken/egg protein, ciprofloxacin, gentamicin. The contraindication is severe hypersensitivity to a vaccine component — slide 255 notes that a SEVERE allergy to gentamicin/ciprofloxacin/egg protein would be a contraindication, but hives is not anaphylaxis, so this is a precaution.",
+   "src": "IMZ CTP p.85–86"
   },
   {
    "type": "single",
@@ -2001,16 +2001,17 @@ E1_DATA.push({
    "o": [
     "History of intussusception",
     "Severe combined immunodeficiency (SCID)",
-    "Moderate–severe gastrointestinal problems",
+    "Latex rubber allergy (for Rotarix/RV1)",
     "Severe hypersensitivity to a component",
     "Mild diarrhea"
    ],
    "a": [
     0,
     1,
+    2,
     3
    ],
-   "w": "Contraindications: severe hypersensitivity, SCID, history of intussusception (and latex allergy for RV1). Moderate–severe GI problems are a PRECAUTION; mild diarrhea is a false contraindication.",
+   "w": "Contraindications (p.92 precaution/contraindication table): severe hypersensitivity, SCID, history of intussusception, and latex rubber allergy for RV1 (Rotarix). Mild diarrhea is a false contraindication (minor illness). Note: moderate–severe GI problems are listed as a PRECAUTION in that table (highlighted), although the preceding slide's text calls them a contraindication — expect the table version.",
    "src": "IMZ CTP p.7, 92"
   },
   {
@@ -2242,12 +2243,12 @@ E1_DATA.push({
     "She is done — PPSV23 counts",
     "PCV20 (or PCV21) once",
     "PPSV23 again",
-    "PCV15 only"
+    "PCV13 once"
    ],
    "a": [
     1
    ],
-   "w": "PPSV23 alone is insufficient; adults ≥50 need a conjugate vaccine — PCV20 or PCV21 once ('20 or 21 means you're done'). PCV15 would require PPSV23 later.",
+   "w": "PPSV23 alone is insufficient; adults ≥50 need a conjugate vaccine ≥1 year after the PPSV23 — PCV20 or PCV21 once ('20 or 21 means you're done'; the key wrote 20). Per the ACIP table on p.35, PCV15 alone would also be acceptable after prior PPSV23-only. PCV13 is not a current adult option and repeating PPSV23 adds nothing.",
    "src": "IMZ CTP p.35–36, 104"
   },
   {
@@ -2307,13 +2308,13 @@ E1_DATA.push({
     "PCV20 or PCV21 once",
     "None — PPSV23 completed",
     "PPSV23 again every 5 years",
-    "PCV15 alone"
+    "PCV13 once"
    ],
    "a": [
     0
    ],
-   "w": "He has only PPSV23 (not enough). As an adult ≥50 he needs a conjugate vaccine — PCV20 or PCV21 single dose (or PCV15 followed by PPSV23).",
-   "src": "IMZ CTP p.35–36, 66"
+   "w": "He has only PPSV23 (not enough). As an adult ≥50 he needs a conjugate vaccine ≥1 year after the PPSV23 — PCV20 or PCV21 single dose ('20 or 21 means you're done'). Per the ACIP table (p.35), PCV15 alone is also acceptable after PPSV23-only, with no repeat PPSV23. PCV13 is not a current adult option; PPSV23 is not repeated every 5 years.",
+   "src": "IMZ CTP p.34–35, 66"
   },
   {
    "type": "single",
@@ -3170,7 +3171,7 @@ E1_DATA.push({
    "a": [
     2
    ],
-   "w": "FDA ages per slide: Abrysvo ≥18, mResvia ≥18, Arexvy ≥50. Nirsevimab is an infant monoclonal antibody, not a vaccine.",
+   "w": "FDA ages per the IDSA slide (p.98): Abrysvo ≥18, mResvia ≥18, Arexvy ≥50. Nirsevimab is an infant monoclonal antibody, not a vaccine. Caution: the RSV product table earlier in the lecture (p.40) lists Arexvy as 18 years and older, and FDA expanded Arexvy to at-risk adults 18–49 in March 2026 — so this '≥50' answer reflects only the p.98 slide.",
    "src": "IMZ CTP p.98"
   },
   {

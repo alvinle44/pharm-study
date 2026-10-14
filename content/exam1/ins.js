@@ -1347,7 +1347,7 @@ E1_DATA.push({
    "a": [
     0
    ],
-   "w": "BG < 70 with a conscious patient → 15-15 Rule: 15 g fast-acting carbs, recheck after 15 min, repeat until ≥ 70. Glucagon is for unconscious/unable-to-swallow patients.",
+   "w": "BG < 70 with a conscious patient → 15-15 Rule: 15 g fast-acting carbs, recheck after 15 min, repeat until ≥ 70. Glucagon is for unconscious/unable-to-swallow patients. (Per lecture 15 g; note: ADA Standards say 15–20 g glucose.)",
    "src": "Insulin_Administration p.21–22"
   },
   {
@@ -1411,7 +1411,7 @@ E1_DATA.push({
    "a": [
     1
    ],
-   "w": "Glucagon: severe hypoglycemia when unconscious/unable to swallow; another person gives 1 mg IM; roll onto side (nausea/vomiting); check BG in 15 min; typically wakes within 15 min. Oral carbs are unsafe when unconscious.",
+   "w": "Glucagon: severe hypoglycemia when unconscious/unable to swallow; another person gives 1 mg IM; roll onto side (nausea/vomiting); check BG in 15 min; typically wakes within 15 min. Oral carbs are unsafe when unconscious. (Per lecture 1 mg IM kit; note: newer options such as 3 mg intranasal or ready-to-use autoinjectors also exist.)",
    "src": "Insulin_Administration p.22"
   },
   {
@@ -1441,7 +1441,7 @@ E1_DATA.push({
    "a": [
     2
    ],
-   "w": "Levemir = detemir → 42 days after opening. Lispro/aspart/glargine 28 d, regular U-100 31 d, degludec 56 d.",
+   "w": "Levemir = detemir → 42 days after opening. Lispro/aspart/glargine 28 d, regular U-100 31 d, degludec 56 d. (FYI, not graded: Novo Nordisk discontinued Levemir in the US in 2024; the lecture/handout still list it.)",
    "src": "Insulin_Administration p.23; docx"
   },
   {
@@ -1468,7 +1468,7 @@ E1_DATA.push({
    "n": 31,
    "tol": 0,
    "unit": "days",
-   "w": "Humulin R = regular insulin; regular (U-100) expires 31 days after opening.",
+   "w": "Humulin R = regular insulin; regular (U-100) expires 31 days after opening per the lecture table. (FYI: 31 days matches the Humulin R U-100 vial label; Novolin R vial labeling allows 42 days – for the exam use the lecture's 31.)",
    "src": "Insulin_Administration p.23"
   },
   {
