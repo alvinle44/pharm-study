@@ -13,23 +13,28 @@ E1_DATA.push({
    "pts": [
     {
      "x": "Insulin is produced by the **beta cells of the pancreas**; it lets insulin-dependent tissues (e.g., muscle cells) take up and use glucose.",
-     "s": 0
+     "s": 0,
+     "simple": "**In plain English:** Insulin is a hormone made by the **beta cells** of the pancreas. Its job is to unlock certain tissues, like muscle, so they can pull sugar (glucose) out of the blood and use it for energy. **Example:** After a sandwich, blood sugar rises. Insulin is the key that lets muscle cells open their doors and take that sugar in. In diabetes that key is missing or not working, so sugar stays stuck in the blood. **Remember:** **B**eta cells **b**uild insulin."
     },
     {
      "x": "Insulin and **glucagon** work as a **negative feedback system** to keep blood glucose stable: high BG → insulin release → glycogen formation + tissue glucose uptake → lowers BG; low BG → glucagon release → glycogen breakdown → raises BG.",
-     "s": 0
+     "s": 0,
+     "simple": "**In plain English:** Insulin and **glucagon** are opposites that keep blood sugar steady (negative feedback = each change triggers its own undo). High sugar → insulin → sugar is stored as glycogen and taken into tissues → sugar drops. Low sugar → glucagon → glycogen is broken down → sugar rises. **Example:** A thermostat: too hot, AC (insulin) kicks on; too cold, heater (glucagon) kicks on. **Remember:** Insulin **in**to storage (lowers BG); glucagon \"**gone**\" from storage (raises BG)."
     },
     {
      "x": "In people without diabetes there is a low steady nighttime/background insulin level plus spikes after breakfast, lunch and supper.",
-     "s": 0
+     "s": 0,
+     "simple": "**In plain English:** A healthy pancreas releases a small, steady trickle of insulin all day and night (background), plus quick bursts each time you eat breakfast, lunch and supper. **Example:** Think of a dripping faucet that never fully shuts off (background), and then someone turns it on full blast for a few minutes at each meal (spikes). That pattern is what insulin therapy tries to copy. **Remember:** Steady trickle + 3 meal spikes = normal insulin pattern."
     },
     {
      "x": "Goal of insulin therapy: **mimic normal, physiologic insulin secretion**. **Basal** insulin = background control; **bolus** insulin = mealtime control.",
-     "s": 1
+     "s": 1,
+     "simple": "**In plain English:** Insulin therapy tries to **copy what a healthy pancreas does**. **Basal** insulin is the long, steady background dose that controls sugar between meals and overnight. **Bolus** insulin is a quick mealtime dose that covers the sugar from food. **Example:** A patient takes glargine once daily (basal, the steady background) and lispro before each meal (bolus, the mealtime burst). Together they mimic the trickle-plus-spikes pattern. **Remember:** **B**asal = **b**ackground; **b**olus = **b**ite (mealtime)."
     },
     {
      "x": "Insulins are categorized by **onset, peak, duration of action, concentration, and route of delivery**.",
-     "s": 0
+     "s": 0,
+     "simple": "**In plain English:** Insulins are sorted by five features: how fast they start working (**onset**), when they hit their strongest point (**peak**), how long they last (**duration**), how strong the liquid is (**concentration**, e.g., U-100 vs U-500), and how they are given (**route**, e.g., vial/syringe or pen). **Example:** Like comparing cars: 0-to-60 time (onset), top speed (peak), gas tank range (duration), engine size (concentration), and whether it is manual or automatic (route). **Remember:** **O**nset, **P**eak, **D**uration, **C**oncentration, **R**oute: the five labels on every insulin."
     }
    ]
   },
@@ -39,32 +44,39 @@ E1_DATA.push({
    "pts": [
     {
      "x": "**Rapid-acting** – insulin lispro (**Humalog, Admelog**), insulin aspart (**Novolog**), insulin glulisine (**Apidra**). Starts **5–10 min**, peaks **30–90 min**. Clear.",
-     "s": 1
+     "s": 1,
+     "simple": "**In plain English:** **Rapid-acting** insulins work fastest: lispro (**Humalog, Admelog**), aspart (**Novolog**), glulisine (**Apidra**). They start in **5–10 min** and peak at **30–90 min**, so they are mealtime insulins. They look **clear**. **Example:** A patient about to eat dinner uses Novolog: it starts within minutes and is strongest right when the food sugar hits the blood. **Remember:** Lispro brands end in \"-log\" (Huma**log**, Adme**log**), but Novo**log** is aspart. **A**pidra = glulisine is the odd one out with an A."
     },
     {
      "x": "**Short-acting** – regular insulin (**Humulin R, Novolin R**). Starts **30 min–1 hr**, peaks **2–3 hrs**. Clear.",
-     "s": 1
+     "s": 1,
+     "simple": "**In plain English:** **Short-acting** means **regular insulin** (**Humulin R, Novolin R**). It is slower than rapid-acting: starts in **30 min–1 hr**, peaks at **2–3 hrs**. It is **clear**. **Example:** Because it starts slower, regular insulin has to be taken well before a meal, like putting a slow cooker on ahead of time instead of using the microwave. **Remember:** **R** in the brand name = **R**egular = short-acting."
     },
     {
      "x": "**Intermediate-acting** – insulin NPH (**Humulin N, Novolin N**). Starts **1–3 hrs**, peaks **4–12 hrs**. **Cloudy** (must be rolled).",
-     "s": 1
+     "s": 1,
+     "simple": "**In plain English:** **Intermediate-acting** means **NPH** insulin (**Humulin N, Novolin N**). It starts in **1–3 hrs** and peaks at **4–12 hrs**. It is the **cloudy** one, so it must be **rolled** (not shaken) to mix it before use. **Example:** Like a bottle of salad dressing where the stuff settles at the bottom: you gently roll it to mix. If a patient's insulin looks milky, it is NPH or a premix. **Remember:** **N** = **N**PH = the cloudy one you roll."
     },
     {
      "x": "**Long-acting** – insulin detemir (**Levemir**), insulin glargine (**Lantus, Basaglar, Semglee**). Starts **1–2 hrs**, **no peak**. Clear.",
-     "s": 1
+     "s": 1,
+     "simple": "**In plain English:** **Long-acting** insulins are detemir (**Levemir**) and glargine (**Lantus, Basaglar, Semglee**). They start in **1–2 hrs** and have **no peak**, meaning a flat, steady effect, which makes them basal (background) insulins. They are **clear**. **Example:** A patient takes Lantus once daily: it works like a dimmer switch left at a low setting all day, not a light that flashes bright and fades. **Remember:** No peak = flat line = basal. Long-acting is clear, so do not confuse \"long\" with \"cloudy.\""
     },
     {
      "x": "**Ultra long-acting** – insulin degludec (named on slides; no brand given in the brand/generic handout).",
-     "s": 0
+     "s": 0,
+     "simple": "**In plain English:** **Ultra long-acting** is a category even longer than long-acting. Your slides name **insulin degludec** as the example. The brand/generic handout does not list a brand name for it, so know it by its generic name. **Example:** If an exam question asks which insulin is ultra long-acting, the answer is degludec, not glargine or detemir (those are long-acting). **Remember:** **D**egludec = **D**uration champion (ultra long); it also has the longest opened-vial life on your table (56 days)."
     },
     {
      "x": "Memory hook from the handout: 'R' = Regular (Humulin R/Novolin R), 'N' = NPH (Humulin N/Novolin N).",
      "s": 0,
-     "note": "Pattern from the handout's brand names, not a separate slide statement."
+     "note": "Pattern from the handout's brand names, not a separate slide statement.",
+     "simple": "**In plain English:** A handy shortcut from the brand names: the letter at the end tells you the type. **R** = **R**egular insulin (Humulin R, Novolin R). **N** = **N**PH (Humulin N, Novolin N). This is a pattern noticed from the handout, not a separate slide rule. **Example:** A patient hands you a vial labeled \"Novolin N.\" Without looking anything up, you know it is NPH, intermediate-acting, and cloudy. **Remember:** Humulin/Novolin + **R** = Regular (clear, short). Humulin/Novolin + **N** = NPH (cloudy, intermediate)."
     },
     {
      "x": "Durations are only shown graphically on the slide (curves on a 0–25 hr axis: rapid shortest, long-acting flat out to ~24 hr); the slide gives explicit numbers only for onset and peak.",
-     "s": 0
+     "s": 0,
+     "simple": "**In plain English:** The slide gives exact numbers only for **onset** (when it starts) and **peak** (when strongest). How long each insulin lasts (**duration**) is only shown as curves on a graph from 0 to 25 hours: rapid-acting is the shortest curve, long-acting stays flat out to about 24 hours. **Example:** Like a chart giving exact sunrise times but showing sunset only as a drawn line: know the shape, not a number. **Remember:** Memorize onset and peak numbers; for duration, know the order: rapid shortest, long-acting ~24 hr flat."
     }
    ]
   },
@@ -74,23 +86,28 @@ E1_DATA.push({
    "pts": [
     {
      "x": "**Rapid-acting** (lispro, aspart, glulisine): **15 minutes before a meal or immediately after a meal**.",
-     "s": 1
+     "s": 1,
+     "simple": "**In plain English:** **Rapid-acting** insulins (lispro, aspart, glulisine) start in minutes, so they are taken **15 minutes before a meal or immediately after a meal**. **Example:** A patient using Humalog injects about 15 minutes before dinner, or right after finishing the meal. Waiting an hour before eating could drop their sugar too low. **Remember:** Rapid = right around the meal: **15 min before or immediately after**."
     },
     {
      "x": "**Short-acting** (regular): **30 minutes before a meal**.",
-     "s": 1
+     "s": 1,
+     "simple": "**In plain English:** **Regular** (short-acting) insulin starts slower (30 min–1 hr), so it must be taken **30 minutes before a meal** to be working when the food sugar arrives. **Example:** A patient on Humulin R injects at 5:30 for a 6:00 dinner, like preheating an oven 30 minutes before the food goes in. **Remember:** **R**egular = **R**eady 30 minutes ahead."
     },
     {
      "x": "**Intermediate-acting** (NPH): without regard to meals, but **should eat within 4 hours** of administration.",
-     "s": 1
+     "s": 1,
+     "simple": "**In plain English:** **NPH** (intermediate) is not tied to a specific meal, but because it peaks at 4–12 hrs, the patient **should eat within 4 hours** of the dose so the peak does not hit an empty stomach and cause low blood sugar. **Example:** A patient takes NPH at 7 a.m. and must not skip lunch; going all day without food could lead to shakiness and hypoglycemia. **Remember:** NPH: no meal timing needed, but **eat within 4 hours**."
     },
     {
      "x": "**Long-acting** (glargine, detemir) and **ultra long-acting** (degludec): **without regard to meals**.",
-     "s": 1
+     "s": 1,
+     "simple": "**In plain English:** **Long-acting** (glargine, detemir) and **ultra long-acting** (degludec) insulins have a flat, steady effect, so they are taken **without regard to meals**. They are background insulin, not mealtime insulin. **Example:** A patient takes Lantus every night at bedtime whether or not they had a snack. The meal does not matter, only taking it consistently. **Remember:** No peak = no meal timing."
     },
     {
      "x": "Timing depends on the insulin's onset, peak and duration of action.",
-     "s": 0
+     "s": 0,
+     "simple": "**In plain English:** When to inject depends on how the insulin behaves: how fast it starts (onset), when it is strongest (peak), and how long it lasts (duration). The goal is for the insulin to be working when the food sugar shows up. **Example:** Like timing when to leave for the airport: a fast car (rapid-acting) can leave later; a slow bus (regular) has to leave earlier. **Remember:** Faster onset = closer to the meal; flat/no peak = no meal timing needed."
     }
    ]
   },
@@ -100,27 +117,33 @@ E1_DATA.push({
    "pts": [
     {
      "x": "Injected into the **fatty (subcutaneous) tissue below the skin**.",
-     "s": 0
+     "s": 0,
+     "simple": "**In plain English:** Insulin is injected into the **subcutaneous tissue**, the fatty layer just under the skin, not into muscle and not into a vein. **Example:** Picture skin as a sandwich: skin on top, fat in the middle, muscle on the bottom. Insulin goes into the middle layer, the fat. **Remember:** Sub-Q = \"**sub**\" (under) the skin, into the fat."
     },
     {
      "x": "Fastest → slowest absorption: **abdomen > backs of the arms > thighs > buttocks**.",
-     "s": 1
+     "s": 1,
+     "simple": "**In plain English:** Insulin absorbs at different speeds depending on where it is injected. Fastest to slowest: **abdomen > backs of the arms > thighs > buttocks**. **Example:** A patient wants their mealtime insulin to work quickly, so the belly is the fastest choice. The buttocks absorb most slowly. **Remember:** Fastest to slowest: **A**bdomen, **A**rms, **T**highs, **B**uttocks (\"All Arms Then Bottom\")."
     },
     {
      "x": "Backs of the arms are **not preferred when self-injecting** (hard to reach).",
-     "s": 0
+     "s": 0,
+     "simple": "**In plain English:** The backs of the arms are a valid site, but they are **not preferred when patients inject themselves**, because the spot is hard to reach and pinch with one hand. **Example:** Try pinching the back of your own upper arm while holding a pen in the other hand: awkward. A caregiver giving the shot could use it more easily. **Remember:** Arms are fine for someone else to inject, not ideal for self-injection."
     },
     {
      "x": "Avoid injecting within a **2-inch radius of the belly button**; avoid scars, moles and open skin.",
-     "s": 1
+     "s": 1,
+     "simple": "**In plain English:** Do not inject within a **2-inch radius of the belly button**, and avoid **scars, moles and open skin**. **Example:** A patient points to a spot right next to their navel; you tell them to move at least 2 inches away from the belly button in any direction. **Remember:** Belly button = **2-inch** no-fly zone; also skip scars, moles, broken skin."
     },
     {
      "x": "Same spot repeatedly → inflammation / fat tissue breakdown = **lipodystrophy** (lumps/swelling, thickened skin, poor insulin absorption).",
-     "s": 1
+     "s": 1,
+     "simple": "**In plain English:** Injecting the same spot over and over can cause inflammation and fat tissue breakdown, called **lipodystrophy**. It shows as lumps, swelling or thick skin, and insulin absorbs poorly there, so sugar control gets worse. **Example:** A patient always injects in the same comfortable spot and notices a rubbery lump. Their sugars have been creeping up because insulin injected into the lump is not absorbed well. **Remember:** Same spot → **lumpy** fat → **poor absorption**."
     },
     {
      "x": "Prevent lipodystrophy by **rotating sites** – stay **at least 1 inch** from the last injection. Figure: choose an area, divide it into 4 sections, use one section per week, inject one finger-width from the last injection.",
-     "s": 1
+     "s": 1,
+     "simple": "**In plain English:** **Rotating sites** prevents lipodystrophy. Each new shot should be **at least 1 inch** from the last one. The slide figure: pick an area, split it into **4 sections**, use **one section per week**, and move one finger-width each injection. **Example:** Like mowing a lawn in sections so you never wear out one patch. Week 1 upper-left belly, week 2 upper-right, and so on. **Remember:** **1 inch** apart, **4 sections**, **1 section per week**."
     }
    ]
   },
@@ -130,43 +153,53 @@ E1_DATA.push({
    "pts": [
     {
      "x": "1) Gather vial + **new** syringe; check right product, not expired, no visible clumps/precipitation.",
-     "s": 0
+     "s": 0,
+     "simple": "**In plain English:** Step 1: gather the insulin vial and a **new** syringe. Check that it is the **right product**, **not expired**, and has **no visible clumps or particles**. **Example:** Like checking the milk carton date and smell before pouring. If the insulin has clumps, or it is Humulin N when the order was Humulin R, stop. **Remember:** Right product, not expired, no clumps, new syringe."
     },
     {
      "x": "2) Mix intermediate or premixed (**cloudy**) insulin: turn vial on its side and **gently roll between palms**. **Do NOT shake** – denatures the proteins and reduces efficacy. Rapid, short, long-acting (**clear**) → do not mix.",
-     "s": 1
+     "s": 1,
+     "simple": "**In plain English:** Step 2: **cloudy** insulin (NPH or premixed) has settled particles and must be mixed by **gently rolling** the vial between your palms. **Do not shake**: shaking damages (denatures) the insulin proteins so it works less well. **Clear** insulins (rapid, short, long) need no mixing. **Example:** Like gently rolling a snow globe instead of shaking it hard. A patient with Lantus (clear) just uses it; a patient with Humulin N rolls it first. **Remember:** **Cloudy = roll, never shake. Clear = leave alone.**"
     },
     {
      "x": "3) Remove protective cap; wipe rubber stopper with alcohol swab.",
-     "s": 0
+     "s": 0,
+     "simple": "**In plain English:** Step 3: take the protective cap off the vial and **wipe the rubber stopper with an alcohol swab** to clean it before the needle goes through. **Example:** Like wiping a door handle before touching it during flu season: you are keeping germs off the needle path into the insulin. **Remember:** Cap off, swab the stopper."
     },
     {
      "x": "4) Pull back plunger to draw in **air equal to the insulin dose**.",
-     "s": 0
+     "s": 0,
+     "simple": "**In plain English:** Step 4: pull the plunger back to draw in **air equal to the insulin dose**. You will push that air into the vial so you can draw insulin out easily without creating a vacuum. **Example:** If the dose is 10 units, pull air to the 10-unit line first. Like letting air into a juice box so the liquid flows out smoothly. **Remember:** Air in = dose out (same amount)."
     },
     {
      "x": "5) Insert needle into stopper at a **90-degree angle**; push plunger to inject air into vial.",
-     "s": 1
+     "s": 1,
+     "simple": "**In plain English:** Step 5: push the needle through the rubber stopper at a **90-degree angle** (straight in) and push the plunger to **inject the air into the vial**. **Example:** Straight in, like pushing a pin straight into a corkboard instead of at a slant, so the delicate needle does not bend. **Remember:** **90 degrees** into the stopper, push air in."
     },
     {
      "x": "6) Turn vial and syringe **upside down**; pull plunger to fill to the desired amount.",
-     "s": 0
+     "s": 0,
+     "simple": "**In plain English:** Step 6: turn the vial and syringe **upside down** together, then pull the plunger back to fill the syringe to the desired dose. **Example:** With the vial upside down, the insulin sits over the needle tip, like turning a ketchup bottle upside down so the ketchup, not air, comes out. **Remember:** Flip upside down, then draw the dose."
     },
     {
      "x": "7) Large air bubbles → gently tap syringe. Insulin needles are **more delicate than vaccine needles** – don't bend the needle in the vial.",
-     "s": 0
+     "s": 0,
+     "simple": "**In plain English:** Step 7: if you see **large air bubbles**, gently tap the syringe so they rise and can be pushed out (bubbles take up space meant for insulin). Insulin needles are **more delicate than vaccine needles**, so do not bend them in the vial. **Example:** A big bubble taking up 2 units means the patient gets 2 units less insulin. Tap gently, without wiggling the needle inside the stopper. **Remember:** Tap out big bubbles; insulin needles are thin and bend easily."
     },
     {
      "x": "8) Remove needle from vial and carefully recap until ready to administer.",
-     "s": 0
+     "s": 0,
+     "simple": "**In plain English:** Step 8: pull the needle out of the vial and **carefully recap** it until you are ready to inject, so it stays clean and nobody gets stuck. **Example:** Like putting the cap back on a pen in your bag so it does not mark everything, except here it keeps the needle sterile and safe. **Remember:** Out of vial, carefully recap, then go inject."
     },
     {
      "x": "Read the dose at the **top (needle-side) edge of the black rubber plunger**, not the far side (figure: 8 units measured at the correct side).",
-     "s": 1
+     "s": 1,
+     "simple": "**In plain English:** Read the dose at the **top edge of the black rubber plunger**, the edge closest to the needle, not the far edge. Reading the wrong edge gives the wrong dose. **Example:** On the slide figure, 8 units is read where the needle-side edge of the black plunger lines up. Like reading a measuring cup at the top of the liquid, not the bottom. **Remember:** Read the edge **closest to the needle**."
     },
     {
      "x": "Lab: you prepare and **inject yourself with a dose of “insulin” using a vial and syringe**.",
-     "s": 1
+     "s": 1,
+     "simple": "**In plain English:** In lab you will actually draw up a dose of \"insulin\" from a vial with a syringe and **inject yourself**. So you need to know the steps by heart: mix if cloudy, swab, air in, flip, draw, read the plunger correctly, inject. **Example:** Like a driving test: you do not just describe parallel parking, you do it. Practice the vial-and-syringe sequence before lab day. **Remember:** Lab = hands-on: draw it up and self-inject."
     }
    ]
   },
@@ -176,35 +209,43 @@ E1_DATA.push({
    "pts": [
     {
      "x": "1) Gather pen; check right product, not expired, no clumps/precipitation.",
-     "s": 0
+     "s": 0,
+     "simple": "**In plain English:** Step 1 for a pen: gather it and check that it is the **right product**, **not expired**, and shows **no clumps or particles**. Same safety check as with a vial. **Example:** A patient keeps two pens (one long-acting, one mealtime); confirming the label prevents grabbing the wrong one at dinner. **Remember:** Right product, not expired, no clumps."
     },
     {
      "x": "2) Cloudy (intermediate/premixed) → roll pen between palms, **do not shake**; clear → do not mix.",
-     "s": 1
+     "s": 1,
+     "simple": "**In plain English:** Step 2: if the pen insulin is **cloudy** (NPH or premixed), **roll** the pen between your palms to mix it. **Do not shake** (shaking damages the insulin). **Clear** insulin needs no mixing. **Example:** Like gently rolling a rolling pin back and forth in your hands. A Humulin N pen gets rolled; a Lantus pen does not. **Remember:** Same rule as vials: **cloudy = roll, clear = leave alone.**"
     },
     {
      "x": "3) Remove pen cap; wipe rubber stopper (seal) with alcohol swab.",
-     "s": 0
+     "s": 0,
+     "simple": "**In plain English:** Step 3: take off the pen cap and **wipe the rubber seal** at the tip with an alcohol swab before attaching the needle. **Example:** Like cleaning a phone charging port before plugging in. Keeps germs out of the insulin. **Remember:** Cap off, swab the seal."
     },
     {
      "x": "4) Remove protective (paper) tab from pen needle and **screw the needle tightly** onto the pen.",
-     "s": 0
+     "s": 0,
+     "simple": "**In plain English:** Step 4: peel off the **paper tab** from the pen needle and **screw the needle on tightly**. A loose needle can leak insulin so the patient gets less than the dose. **Example:** Like screwing a cap onto a water bottle: too loose and it drips. **Remember:** Peel the tab, screw it on tight."
     },
     {
      "x": "5) Pull off the big **outer** needle cap and the small **inner** cap. **Discard the inner cap, keep the outer cap** (used later to remove the needle).",
-     "s": 1
+     "s": 1,
+     "simple": "**In plain English:** Step 5: pull off the big **outer cap** and then the small **inner cap**. **Throw away the inner cap; keep the outer cap**, because you will use it later to safely unscrew and remove the needle. **Example:** The outer cap is like an oven mitt you set aside for later: you need it to safely handle the hot (sharp) part when you are done. **Remember:** **Keep the big one, toss the little one.**"
     },
     {
      "x": "6) **Prime**: dial to **2 units**, press injection button fully until dose selector returns to **zero** – a drop of insulin should appear at the needle tip.",
-     "s": 1
+     "s": 1,
+     "simple": "**In plain English:** Step 6: **prime** the pen, meaning push a small test dose through to clear air from the needle. Dial **2 units** and press the button until the dial returns to **zero**. A **drop of insulin** at the tip means it is working. **Example:** Like running a garden hose for a second to make sure water, not air, comes out before watering. No drop = repeat the prime. **Remember:** Prime with **2 units**, back to **zero**, look for a **drop**."
     },
     {
      "x": "7) Dial to the prescribed dose.",
-     "s": 0
+     "s": 0,
+     "simple": "**In plain English:** Step 7: after priming, **dial the pen to the prescribed dose** (the number of units the patient should take). **Example:** A patient prescribed 12 units turns the dose knob until 12 shows in the dose window. The 2 priming units do not count toward the dose. **Remember:** Prime first, then dial the real dose."
     },
     {
      "x": "Pen parts: pen cap, injection button/dose knob, dose window, insulin reservoir, rubber seal, needle, inner needle cap, outer needle cap, paper tab.",
-     "s": 0
+     "s": 0,
+     "simple": "**In plain English:** Know the pen parts: **pen cap**, **injection button/dose knob** (dial and push), **dose window** (shows units), **insulin reservoir** (holds insulin), **rubber seal** (where the needle attaches), **needle**, **inner needle cap**, **outer needle cap**, and the **paper tab** on the needle. **Example:** In lab, you may be asked to point to the dose window or say which cap you keep (the outer one). **Remember:** Top to tip: button/knob → dose window → reservoir → rubber seal → needle (with paper tab, inner cap, outer cap)."
     }
    ]
   },
@@ -214,15 +255,18 @@ E1_DATA.push({
    "pts": [
     {
      "x": "1) Select site. 2) Clean with alcohol swab. 3) **Pinch the skin** by grabbing fatty tissue (not muscle). 4) Insert needle at **90 degrees**. 5) Push plunger with thumb at a **moderate, steady pace** until fully injected.",
-     "s": 1
+     "s": 1,
+     "simple": "**In plain English:** Steps to inject: 1) pick a site, 2) clean it with alcohol, 3) **pinch the skin** to grab fatty tissue (not muscle), 4) insert the needle at **90 degrees**, 5) push the plunger with your thumb at a **moderate, steady pace** until done. **Example:** Pinching lifts the fat layer away from the muscle, like lifting a blanket off the mattress so you only poke the blanket. **Remember:** Pick, clean, **pinch**, **90°**, steady push."
     },
     {
      "x": "6) **Leave needle in skin for 5 seconds** to ensure full dose, then pull straight out.",
-     "s": 1
+     "s": 1,
+     "simple": "**In plain English:** After pushing the full dose, **leave the needle in the skin for 5 seconds**, then pull it straight out. This makes sure the whole dose went in instead of leaking back out. **Example:** Like holding a stamp on paper a moment so the ink fully transfers. A patient who pulls out instantly may see a drop of insulin on the skin, meaning a lost dose. **Remember:** Count to **5** before pulling out."
     },
     {
      "x": "7) Disposal – **vial/syringe**: put used needle/syringe in a **sharps container**. **Pen**: re-cap the needle with the **big outer cap**, unscrew the needle, dispose of it in a sharps container.",
-     "s": 1
+     "s": 1,
+     "simple": "**In plain English:** Disposal: for a **vial and syringe**, put the used syringe and needle straight into a **sharps container** (a hard, puncture-proof bin). For a **pen**, put the **big outer cap** back on the needle, unscrew it, and drop it in the sharps container. **Example:** A patient asks if they can toss needles in the kitchen trash. No: sharps go in the sharps container so no one gets stuck. **Remember:** Syringe → sharps bin. Pen → outer cap on, unscrew, sharps bin."
     }
    ]
   },
@@ -232,39 +276,48 @@ E1_DATA.push({
    "pts": [
     {
      "x": "Syringes vary by **barrel volume, needle gauge, needle length**. Use the **smallest appropriate barrel** for accuracy and ease of reading.",
-     "s": 1
+     "s": 1,
+     "simple": "**In plain English:** Syringes differ by **barrel volume** (how much they hold), **needle gauge** (thickness) and **needle length**. Use the **smallest barrel that fits the dose**, because the markings are spaced wider apart and easier to read accurately. **Example:** Measuring 1 teaspoon of salt is easier and more accurate with a teaspoon than with a big measuring cup. **Remember:** Smallest barrel that fits = most accurate dose."
     },
     {
      "x": "**< 30 units → 0.3 mL** syringe (0.5- or 1-unit increments); **30–50 units → 0.5 mL** (1-unit increments); **> 50 units → 1 mL** (2-unit increments).",
-     "s": 1
+     "s": 1,
+     "simple": "**In plain English:** Pick the syringe by dose: **< 30 units → 0.3 mL** syringe (0.5- or 1-unit markings); **30–50 units → 0.5 mL** (1-unit markings); **> 50 units → 1 mL** (2-unit markings). **Example:** A patient needs 24 units: use the 0.3 mL. A patient needing 40 units: 0.5 mL. A patient needing 70 units: 1 mL. **Remember:** **30 / 50** are the cutoffs: under 30 → 0.3, 30–50 → 0.5, over 50 → 1 mL."
     },
     {
      "x": "**U-100** = **100 units per 1 mL** (most insulin products; use standard U-100 syringes).",
-     "s": 1
+     "s": 1,
+     "simple": "**In plain English:** **U-100** means **100 units in every 1 mL**. Most insulin products are U-100 and are used with standard U-100 syringes. **Example:** If 1 mL holds 100 units, then 0.1 mL holds 10 units. Like a juice that is always mixed the same strength. **Remember:** **U-100 = 100 units/mL**, the standard."
     },
     {
      "x": "**U-500** = **500 units/mL**, **5× more concentrated** than U-100; requires a **U-500 syringe** (0.5 mL, doses up to **250 units**, **green** cap).",
-     "s": 1
+     "s": 1,
+     "simple": "**In plain English:** **U-500** has **500 units per mL**, so it is **5 times stronger** than U-100. It needs its own **U-500 syringe**: 0.5 mL, holds doses up to **250 units**, with a **green cap**. **Example:** Like concentrated juice vs. ready-to-drink juice: the same tiny amount packs 5 times more. A green cap is your visual warning that it is the concentrated kind. **Remember:** **U-500 = 5× stronger, green cap, up to 250 units.**"
     },
     {
      "x": "U-500 is for **extreme insulin resistance** or **> 200 units/day** (reduces injection volume).",
-     "s": 1
+     "s": 1,
+     "simple": "**In plain English:** U-500 is used for patients with **extreme insulin resistance** (their body barely responds to insulin) or who need **more than 200 units per day**. The stronger concentration means a much smaller volume per shot. **Example:** A patient needing very high doses would have to inject a large volume of U-100; with U-500 the same units fit in one-fifth the liquid. **Remember:** **> 200 units/day** or extreme resistance → think U-500."
     },
     {
      "x": "**Never give U-500 with a U-100 syringe or vice versa** – can cause patient harm.",
-     "s": 1
+     "s": 1,
+     "simple": "**In plain English:** **Never** use a U-500 insulin with a U-100 syringe, or U-100 insulin with a U-500 syringe. The markings will not match the concentration, leading to big dosing errors that can **harm the patient**. **Example:** Drawing U-500 insulin to the \"20\" line on a U-100 syringe would give 5 times the intended dose, risking severe low blood sugar. **Remember:** **Match the U**: U-500 insulin ↔ U-500 syringe only."
     },
     {
      "x": "Needle **length** sets depth: 4–12.7 mm; shorter = more comfortable, less likely IM; longer may be needed in obesity or if leakage is a concern.",
-     "s": 1
+     "s": 1,
+     "simple": "**In plain English:** Needle **length** decides how deep the insulin goes. Lengths range **4–12.7 mm**. **Shorter** needles are more comfortable and less likely to hit muscle (IM = intramuscular). **Longer** needles may be needed for patients with obesity or if insulin leaks back out. **Example:** A slim patient does well with a short 4 mm needle; a patient with more body fat may need a longer one to reach the fat layer properly. **Remember:** Short = comfy and stays out of muscle; long = for more body fat or leakage."
     },
     {
      "x": "Needle **gauge** = thickness, 28–31; **higher gauge = thinner = more comfortable**.",
-     "s": 1
+     "s": 1,
+     "simple": "**In plain English:** Needle **gauge** is thickness, ranging **28–31**. It runs backward: a **higher gauge number = thinner needle = more comfortable**. **Example:** A 31-gauge needle is thinner than a 28-gauge. So the number goes the opposite way from thickness: bigger number, skinnier needle. **Remember:** **Higher gauge = thinner = less pain.**"
     },
     {
      "x": "Needles **> 5 mm**: ensure the dose goes into **subcutaneous** tissue – e.g., **45° with a 6 mm** needle or **90° into pinched skin with an 8 mm** needle; depends on body fat.",
-     "s": 1
+     "s": 1,
+     "simple": "**In plain English:** With needles **longer than 5 mm**, adjust technique so insulin lands in the **subcutaneous** (fat) layer, not muscle. For example, a **6 mm needle at 45°**, or an **8 mm needle at 90° into pinched skin**. Depends on body fat. **Example:** Angling is like digging at a slant so you do not go too deep; pinching lifts the fat so a straight 8 mm needle stays in it. **Remember:** > 5 mm: **6 mm → 45°**, **8 mm → 90° + pinch**."
     }
    ]
   },
@@ -274,11 +327,13 @@ E1_DATA.push({
    "pts": [
     {
      "x": "Minimize pain: **room-temperature insulin**; thinner, shorter needles; no large air bubbles; **let alcohol dry**; slow breathing; **penetrate skin quickly**; don't change needle direction; **don't reuse needles**; rotate sites.",
-     "s": 0
+     "s": 0,
+     "simple": "**In plain English:** Ways to make injections hurt less: use **room-temperature** insulin (cold stings), thinner and shorter needles, no big air bubbles, **let the alcohol dry** first, breathe slowly, **go through the skin quickly**, do not change needle direction once in, **never reuse needles** (they get dull), and rotate sites. **Example:** A patient says shots sting. Ask: are you injecting insulin straight from the fridge, or before the alcohol dries? Fixing those two often helps. **Remember:** Warm insulin, dry alcohol, quick poke, new needle every time."
     },
     {
      "x": "Adverse effects: **hypoglycemia** (key), weight gain, injection-site pain, lipodystrophy, anaphylaxis/hypersensitivity, **hypokalemia** (with higher doses or IV insulin).",
-     "s": 1
+     "s": 1,
+     "simple": "**In plain English:** Side effects of insulin: **hypoglycemia** (low blood sugar, the most important one), weight gain, injection-site pain, **lipodystrophy** (lumps from same-site injections), allergic reactions/anaphylaxis, and **hypokalemia** (low potassium), mainly with higher doses or IV insulin. **Example:** A patient who started insulin says they feel shaky before lunch and gained a few pounds: both are expected insulin side effects to counsel on. **Remember:** Number one is **hypoglycemia**; hypokalemia goes with **high-dose or IV** insulin."
     }
    ]
   },
@@ -288,23 +343,28 @@ E1_DATA.push({
    "pts": [
     {
      "x": "Hypoglycemia = **blood glucose < 70 mg/dL**. Symptoms: shaking/trembling, faster heart rate, extreme hunger, sweating, confusion/difficulty concentrating, dizziness.",
-     "s": 1
+     "s": 1,
+     "simple": "**In plain English:** **Hypoglycemia** means blood sugar is too low: **below 70 mg/dL**. Symptoms: shaking or trembling, fast heartbeat, extreme hunger, sweating, confusion or trouble focusing, and dizziness. **Example:** A patient on insulin skipped lunch and now feels shaky, sweaty and can't concentrate in a meeting. They check: 62 mg/dL, which is hypoglycemia. **Remember:** **Under 70** = low. Shaky, sweaty, hungry, confused."
     },
     {
      "x": "**15-15 Rule**: eat/drink **15 g fast-acting carbs** → recheck BG **after 15 min** → if still < 70, another 15 g → repeat until **≥ 70 mg/dL**.",
-     "s": 1
+     "s": 1,
+     "simple": "**In plain English:** The **15-15 Rule** treats low blood sugar: take **15 g of fast-acting carbs**, wait **15 minutes**, recheck. If still **under 70**, take another 15 g, and repeat until blood sugar is **70 mg/dL or higher**. **Example:** Patient at 60 mg/dL drinks 4 oz of juice, waits 15 min, rechecks: 66. Another 4 oz juice, waits 15 min: 78. Done. **Remember:** **15 grams, 15 minutes, recheck, repeat until ≥ 70.**"
     },
     {
      "x": "15 g simple carbs = half a banana (1 small fruit), **4 oz (½ cup) juice or regular (not diet) soda**, 1 tbsp sugar/honey/syrup, 1 tube glucose gel, **3–4 glucose tablets**.",
-     "s": 1
+     "s": 1,
+     "simple": "**In plain English:** Examples of **15 g** of fast sugar: half a banana (1 small fruit), **4 oz (½ cup) juice or regular soda** (not diet, which has no sugar), 1 tbsp sugar, honey or syrup, 1 tube of glucose gel, or **3–4 glucose tablets**. **Example:** A patient grabs a diet soda for a low: that will not work because diet soda has no sugar. A regular soda or juice box would. **Remember:** ½ cup juice or **regular** soda, **3–4** glucose tabs, 1 tbsp sugar."
     },
     {
      "x": "**Glucagon**: severe hypoglycemia when patient is **unconscious/unable to swallow**; another person prepares and gives it; **1 mg IM**.",
-     "s": 1
+     "s": 1,
+     "simple": "**In plain English:** **Glucagon** is the rescue drug for **severe** low blood sugar when the person is **unconscious or cannot swallow** (so they cannot eat sugar safely). **Someone else** prepares and gives it. Dose: **1 mg IM** (into the muscle). **Example:** A family member finds a patient on insulin passed out. They cannot give juice, so they inject 1 mg glucagon into the thigh muscle. That is why family should be trained. **Remember:** Can't swallow → **glucagon 1 mg IM**, given by someone else."
     },
     {
      "x": "Glucagon ADRs: severe nausea, vomiting, tachycardia → **roll the person onto their side** after injection. Check BG 15 min after; person typically wakes within 15 min.",
-     "s": 1
+     "s": 1,
+     "simple": "**In plain English:** Glucagon can cause **severe nausea, vomiting** and a fast heart rate, so after giving it, **roll the person onto their side** so they do not choke if they vomit. Check blood sugar **15 minutes** later; they usually wake up within 15 minutes. **Example:** Like the recovery position taught in first aid: on their side so the airway stays clear. **Remember:** After glucagon: **on their side**, recheck in **15 min**."
     }
    ]
   },
@@ -314,23 +374,28 @@ E1_DATA.push({
    "pts": [
     {
      "x": "Expiration after opening: **lispro 28 d, aspart 28 d, regular (U-100) 31 d, detemir 42 d, glargine 28 d, degludec 56 d**.",
-     "s": 1
+     "s": 1,
+     "simple": "**In plain English:** Once opened, insulin only lasts a set number of days: **lispro 28, aspart 28, regular (U-100) 31, detemir 42, glargine 28, degludec 56**. After that, throw it out even if insulin is left. **Example:** A patient opened a Lantus (glargine) pen on March 1; it should be discarded after 28 days, even if half full. **Remember:** Most are **28**. Odd ones: regular **31**, detemir **42**, degludec **56** (the \"ultra\" one lasts longest)."
     },
     {
      "x": "Check package insert for product-specific stability; best practice: **date the vial/pen when punctured/opened**.",
-     "s": 0
+     "s": 0,
+     "simple": "**In plain English:** Stability can differ by product, so check the **package insert** (the official leaflet). Best practice: **write the date on the vial or pen when you first open or puncture it**, so you know when it expires. **Example:** Like writing the date on leftovers in the fridge so you know when to toss them. **Remember:** Date it when you open it."
     },
     {
      "x": "**Unopened** vials/pens: refrigerator **36–46 °F**. **Opened** vials/pens may be unrefrigerated at **59–86 °F**.",
-     "s": 1
+     "s": 1,
+     "simple": "**In plain English:** **Unopened** insulin goes in the **refrigerator at 36–46 °F**. Once **opened**, a vial or pen can stay **unrefrigerated at 59–86 °F** (roughly room temperature). **Example:** A patient keeps spare boxes in the fridge and carries the opened pen in their bag at room temperature. **Remember:** Unopened = fridge **36–46 °F**; opened = room temp **59–86 °F** OK."
     },
     {
      "x": "Avoid extreme heat/cold; **never** in the freezer, direct sunlight, or a car glove compartment. Don't use past expiration; inspect for particles or discoloration.",
-     "s": 1
+     "s": 1,
+     "simple": "**In plain English:** Protect insulin from extreme heat or cold: **never freeze it**, never leave it in **direct sunlight** or a **car glove compartment**. Do not use it past expiration, and **inspect for particles or color changes** before use. **Example:** A patient left their pen in the car on a summer day. That insulin may be damaged and should be replaced. **Remember:** No freezer, no sun, no glove box."
     },
     {
      "x": "Mixing NPH with a fast-acting insulin: draw **NPH AFTER** the fast-acting insulin → **clear before cloudy**.",
-     "s": 1
+     "s": 1,
+     "simple": "**In plain English:** When mixing NPH with a fast-acting insulin in one syringe, draw the **fast-acting (clear) insulin first**, then the **NPH (cloudy)**. This keeps cloudy NPH from contaminating the clear vial. **Example:** Like pouring clean water before muddy water when using the same cup: you don't want mud dripping back into the clean jug. **Remember:** **Clear before cloudy.**"
     }
    ]
   }

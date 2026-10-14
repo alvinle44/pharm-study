@@ -15,39 +15,48 @@ E1_DATA.push({
    "pts": [
     {
      "x": "Lecture summary of the job: **1. Identify drug problems → 2. Fix them → 3. Document them**.",
-     "s": 1
+     "s": 1,
+     "simple": "**In plain English:** Your lecture shrinks the whole pharmacist job into three moves: spot the drug problems, fix them, and write down what you found and did. Every PPCP step is just a detailed version of this. **Example:** A patient's blood pressure stays high on a low dose (identify), you recommend raising the dose (fix), and you note it in the chart so the next provider knows (document). **Remember:** Identify → Fix → Document. If it isn't written down, it didn't happen."
     },
     {
      "x": "Thought process: generate subjective & objective info → develop an assessment → develop a plan → develop goals of therapy (is it working?) → develop monitoring parameters (are goals met, are adverse effects/toxicity minimized?).",
-     "s": 0
+     "s": 0,
+     "simple": "**In plain English:** This is the thinking path behind the PPCP. First gather what the patient says (subjective) and what you can measure (objective), then decide what's going on (assessment), choose what to do (plan), set targets (goals: is it working?), and pick what you'll check later (monitoring: goals met, side effects/toxicity kept low?). **Example:** Diabetes: hear symptoms and see the A1c, decide it's uncontrolled, add a drug, set an A1c goal, recheck A1c and watch for low sugars. **Remember:** Info → Assessment → Plan → Goals → Monitoring."
     },
     {
      "x": "The 5 steps, in order: **Collect → Assess → Plan → Implement → Follow Up: Monitor and Evaluate** (then the cycle continues for new and existing needs).",
-     "s": 1
+     "s": 1,
+     "simple": "**In plain English:** The PPCP (Pharmacists' Patient Care Process) has 5 steps in a fixed order: Collect information, Assess it, Plan what to do, Implement the plan, then Follow Up by monitoring and evaluating. After follow-up, the cycle loops back for new or ongoing needs. **Example:** Like a mechanic: gather the symptoms, figure out the problem, decide the repair, do the repair, then check the car next visit, and start over if something new comes up. **Remember:** \"Can All Pharmacists Improve Fast\" = Collect, Assess, Plan, Implement, Follow Up."
     },
     {
      "x": "Center of the wheel: **Person-Centered Care** (the lecture diagram says Patient-Centered Care). The ring around it: **Collaborate · Communicate · Document**.",
-     "s": 1
+     "s": 1,
+     "simple": "**In plain English:** The PPCP is drawn as a wheel. In the middle is Person-Centered Care (your lecture diagram calls it Patient-Centered Care), because every step revolves around the person. Wrapped around it is a ring of three things you do the whole time: Collaborate, Communicate and Document. **Example:** Think of a solar system: the patient is the sun, the 5 steps orbit around them, and teamwork, talking and note-taking are the gravity holding it together. **Remember:** Person in the middle; ring = Collaborate, Communicate, Document."
     },
     {
      "x": "PPCP applies across **all practice settings and modes of delivery** (e.g., in person, telehealth).",
-     "s": 0
+     "s": 0,
+     "simple": "**In plain English:** The PPCP isn't just for hospitals or just for retail. It's the same process wherever a pharmacist cares for a patient and however the care is delivered, whether face to face or remotely by telehealth. **Example:** A community pharmacist counseling at the counter, a hospital pharmacist on rounds, and a pharmacist doing a video visit with a rural patient all follow Collect → Assess → Plan → Implement → Follow Up. **Remember:** One process, every setting, every mode (in person or telehealth)."
     },
     {
      "x": "JCPP first released the PPCP in **May 2014**. The **2025 PPCP** is a revision, approved May 20, 2025. It was revised with a consensus-based modified Delphi method by a workgroup from 14 national pharmacy organizations.",
-     "s": 0
+     "s": 0,
+     "simple": "**In plain English:** JCPP (the Joint Commission of Pharmacy Practitioners, a group of national pharmacy organizations) first published the PPCP in May 2014. The 2025 version is an update, approved May 20, 2025. A workgroup from 14 national pharmacy organizations revised it using a modified Delphi method, meaning experts vote in rounds until they reach agreement (consensus). **Example:** Like a group project that keeps revising and voting on a draft until everyone signs off. **Remember:** 2014 original; 2025 revision (May 20); 14 organizations; modified Delphi = consensus by rounds."
     },
     {
      "x": "Themes of the 2025 revision: person-centered terminology; health equity, disparities and **social determinants of health**; expanded scope of practice; new care-delivery modes; **team-based coordination/collaboration** with patients, caregivers and other professionals.",
-     "s": 0
+     "s": 0,
+     "simple": "**In plain English:** The 2025 update modernized the PPCP around a few themes: saying \"person\" instead of just \"patient,\" paying attention to fairness in health (health equity, disparities, and social determinants of health like housing, money and transportation), pharmacists' growing scope of practice, newer ways to deliver care (like telehealth), and teamwork with patients, caregivers and other professionals. **Example:** A pharmacist notices a patient can't get to the pharmacy, sets up a telehealth visit, and coordinates with the caregiver and doctor. **Remember:** Person-centered, equity/SDOH, scope, delivery modes, team."
     },
     {
      "x": "A patient care process is one of **3 core components** of pharmaceutical care practice (Cipolle, Strand & Morley, 2004): a **philosophy of care**, a **patient care process**, and a **practice management system** (space, documentation, payment, quality improvement).",
-     "s": 0
+     "s": 0,
+     "simple": "**In plain English:** Cipolle, Strand and Morley (2004) said pharmaceutical care practice needs 3 core pieces: a philosophy of care (the values and responsibility you bring), a patient care process (the step-by-step method, like the PPCP), and a practice management system (the business side: space, documentation, payment, quality improvement). **Example:** Running a restaurant needs a philosophy (great food for guests), a recipe process (how dishes are made), and management (a kitchen, records, getting paid). **Remember:** Philosophy + Process + Practice management."
     },
     {
      "x": "Over **70%** of physician office and ER visits involve medication therapy.",
-     "s": 0
+     "s": 0,
+     "simple": "**In plain English:** More than 70% of visits to a physician's office or the emergency room involve medication therapy. That's why medication expertise, and a standard process like the PPCP, matters so much: meds touch most of health care. **Example:** Out of 10 people in a doctor's waiting room, over 7 will leave with a medication started, changed, or reviewed. **Remember:** Over 70% of office/ER visits involve meds, so pharmacists are needed almost everywhere."
     }
    ]
   },
@@ -57,47 +66,58 @@ E1_DATA.push({
    "pts": [
     {
      "x": "Collect the **subjective and objective** information needed to understand the relevant medication and medical history, overall health status and other pertinent factors.",
-     "s": 1
+     "s": 1,
+     "simple": "**In plain English:** Step 1 of the PPCP is to gather both subjective information (what the patient tells you) and objective information (what can be measured or checked) so you understand their medication and medical history, overall health, and anything else relevant. You can't solve a problem you don't understand. **Example:** A patient says \"I get dizzy in the mornings\" (subjective), and you check their blood pressure reading and med list (objective). **Remember:** Collect = subjective + objective, enough to understand the whole picture."
     },
     {
      "x": "**Subjective** = can't be verified; what the patient tells you (“I have a headache”). **Objective** = verifiable things such as lab results.",
-     "s": 1
+     "s": 1,
+     "simple": "**In plain English:** Subjective information comes from the patient's own report and can't be directly verified; objective information can be measured or confirmed, like lab results. **Example:** \"I have a headache\" is subjective, since only the patient feels it. A blood pressure of 150/95 or an A1c of 8% is objective, since anyone can check it. **Remember:** Subjective = what the patient Says; Objective = what you can Observe or measure."
     },
     {
      "x": "Lecture checklist: subjective & objective info, **current medication list and medication use history**, relevant health data, **patient lifestyle**.",
-     "s": 1
+     "s": 1,
+     "simple": "**In plain English:** Your lecture's Collect checklist: subjective and objective information, the current medication list and medication use history (what they take now and have taken before), relevant health data (like labs and vitals), and the patient's lifestyle (diet, exercise, smoking, alcohol). **Example:** Before advising on a statin, you'd want their cholesterol labs, all current meds, whether they've tried statins before, and whether they smoke or exercise. **Remember:** S&O, Meds (now + history), Health data, Lifestyle."
     },
     {
      "x": "**Sources** (JCPP): the patient, caregiver, observations, existing patient records, other health care professionals. Information can be gathered and **verified** from multiple sources.",
-     "s": 1
+     "s": 1,
+     "simple": "**In plain English:** Information can come from several sources: the patient, a caregiver, your own observations, existing patient records, and other health care professionals. Because one source can be wrong or incomplete, you can gather and double-check (verify) information across multiple sources. **Example:** A patient says they take \"a water pill\"; you check the pharmacy record, ask their daughter who fills the pill box, and call the doctor's office to confirm it's furosemide 20 mg. **Remember:** Patient, caregiver, observation, records, other professionals: cross-check them."
     },
     {
      "x": "JCPP Collect bullet 1: patient health concerns, priorities, goals, lifestyle factors, beliefs, preferences, cognitive & functional status, **social determinants of health**.",
-     "s": 0
+     "s": 0,
+     "simple": "**In plain English:** The first type of information JCPP says to collect is about the person: their health concerns, priorities, goals, lifestyle, beliefs, preferences, how well they think and function day to day (cognitive and functional status), and social determinants of health (nonmedical things like money, housing and transportation). **Example:** An older man's top priority is staying independent, he struggles with small print, and he can't drive to appointments; all of this shapes his care. **Remember:** Collect the person, not just the disease."
     },
     {
      "x": "JCPP Collect bullet 2: the **current medication list and past medication history** for prescription AND nonprescription meds and other products with potential therapeutic implications.",
-     "s": 0
+     "s": 0,
+     "simple": "**In plain English:** The second JCPP Collect item is the current medication list plus past medication history, covering prescription AND nonprescription meds and other products that could affect therapy (like supplements). Patients often forget to mention OTC products, so you have to ask. **Example:** A patient on warfarin lists only prescriptions, but on asking, also takes daily ibuprofen and fish oil, both of which matter. **Remember:** Current + past; Rx + OTC + other products."
     },
     {
      "x": "JCPP Collect bullet 3: medical & pharmacotherapeutic data, e.g., medical problems, physical assessment findings, **allergies & intolerances, immunizations, vital signs, lab values, genomics**, clinical notes, imaging, devices and digital health tools.",
-     "s": 0
+     "s": 0,
+     "simple": "**In plain English:** The third JCPP Collect item is medical and drug-therapy data: medical problems, physical exam findings, allergies and intolerances, immunizations, vital signs, lab values, genomics (genetic test results that affect drug response), clinical notes, imaging, devices and digital health tools. **Example:** For a patient starting a new med, you'd check their penicillin allergy, flu shot status, blood pressure, kidney labs, and readings from their glucose monitor. **Remember:** Medical data = problems, exams, allergies, shots, vitals, labs, genes, notes, imaging, devices."
     },
     {
      "x": "JCPP Collect bullet 4: care details, e.g., **demographics, health insurance info, contact info for other care team members**.",
-     "s": 0
+     "s": 0,
+     "simple": "**In plain English:** The fourth JCPP Collect item is the practical care details: demographics (age, sex, etc.), health insurance information, and contact information for other members of the care team. These are what you need to actually coordinate and deliver care. **Example:** You recommend a medication change, but need the patient's insurance to check coverage and the cardiologist's phone number to call it in. **Remember:** Who they are, who pays, who else is on the team."
     },
     {
      "x": "**Medication history** (JCPP glossary) = a comprehensive record of Rx AND nonprescription products (herbals, dietary supplements, complementary/alternative treatments, **illicit drugs**) taken now or before: name, dose, route, frequency, indication, duration, **reason for use or discontinuation**, adherence, adverse effects, allergies, intolerances and **access barriers**.",
-     "s": 0
+     "s": 0,
+     "simple": "**In plain English:** A medication history is a complete record of everything the patient takes now or has taken before: prescriptions and nonprescription products, including herbals, supplements, alternative treatments and illicit drugs. For each: name, dose, route, frequency, indication, how long, why they started or stopped, adherence, side effects, allergies, intolerances and access barriers. **Example:** \"Lisinopril 10 mg by mouth daily for BP since 2023; stopped atorvastatin due to muscle aches; skips doses when money is tight.\" **Remember:** Everything, now or past, plus why started or stopped."
     },
     {
      "x": "**Lifestyle factors** = adaptable behaviors such as nutrition, physical activity, and use of nicotine, alcohol, cannabis and other substances.",
-     "s": 0
+     "s": 0,
+     "simple": "**In plain English:** Lifestyle factors are everyday behaviors a person can change: nutrition, physical activity, and use of nicotine, alcohol, cannabis and other substances. They affect both health and how well medications work. **Example:** A patient with high blood pressure who eats a lot of salty takeout, never exercises, and smokes has lifestyle factors you'd collect and address alongside their meds. **Remember:** Lifestyle = changeable habits: food, movement, substances."
     },
     {
      "x": "**Social determinants of health** = nonmedical factors (the conditions in which people are born, grow, work, live, worship and age) that influence health outcomes.",
-     "s": 0
+     "s": 0,
+     "simple": "**In plain English:** Social determinants of health (SDOH) are the nonmedical conditions where people are born, grow, work, live, worship and age that shape their health outcomes. Think money, housing, transportation, food access, education and community. **Example:** Two patients get the same insulin prescription, but one has no fridge and no reliable ride to the pharmacy; their outcomes will likely differ for reasons that have nothing to do with the drug. **Remember:** SDOH = life conditions outside medicine that still change health."
     }
    ]
   },
@@ -108,28 +128,34 @@ E1_DATA.push({
     {
      "x": "**HISTORY = subjective; PHYSICAL = objective** (both headers highlighted in the notes).",
      "s": 1,
-     "note": "Highlighted in the lecture notes"
+     "note": "Highlighted in the lecture notes",
+     "simple": "**In plain English:** In your lecture grid, the \"History\" side is subjective information (what the patient tells you) and the \"Physical\" side is objective information (what the provider examines or measures). Both headers are highlighted, so expect to sort items into one or the other. **Example:** \"My chest hurts when I climb stairs\" belongs to History; a heart rate of 110 or swollen ankles seen on exam belong to Physical. **Remember:** History = Heard (subjective); Physical = Proven/measured (objective)."
     },
     {
      "x": "**CC: Chief Complaint interview**, for new patients/problems (“I have a problem, fix it”), aka **HPI (History of Present Illness)**. Also covers PMH, FH, SH (personal/social), ROS and MED (medication history).",
-     "s": 1
+     "s": 1,
+     "simple": "**In plain English:** The CC (chief complaint) interview is for a new patient or a new problem: \"I have a problem, fix it.\" It's also called the HPI (history of present illness). It can also cover PMH (past medical history), FH (family history), SH (personal/social history), ROS (review of systems) and MED (medication history). **Example:** Someone walks up saying \"I've had a cough for a week\"; you start a chief complaint interview to understand that cough. **Remember:** CC = new problem interview, aka HPI."
     },
     {
      "x": "**CCC: routine follow-up interview**: **Control** (is the medicine working? at the goal of therapy?), **Compliance** (consistently taking drugs & therapies?), **Complications** (from the disease or the drug).",
-     "s": 1
+     "s": 1,
+     "simple": "**In plain English:** The CCC interview is the routine follow-up visit for an ongoing condition, built on 3 Cs: Control (is the medicine working, are they at goal?), Compliance (are they consistently taking meds and doing therapies like diet/exercise?), and Complications (any problems from the disease or the drug?). **Example:** A diabetes patient's monthly check: are sugars at goal, are they taking metformin every day, any numb feet or stomach upset? **Remember:** CC = new problem; CCC = follow-up: Control, Compliance, Complications."
     },
     {
      "x": "CCC with S/O examples: Control S = patient self-monitoring; O = provider takes BP or pulse. Compliance S = “keeping up with diet/exercise? how often do you forget doses?”; O = **weight loss/gain** on certain meds, **refill records**.",
-     "s": 1
+     "s": 1,
+     "simple": "**In plain English:** Each C has a subjective and objective side. Control: subjective = the patient's own home monitoring; objective = the provider measuring BP or pulse. Compliance: subjective = asking about diet/exercise and how often they forget doses; objective = weight loss/gain on certain meds and refill records. **Example:** A patient says they never miss doses, but the refill record shows a 30-day supply filled every 60 days. **Remember:** Refill records and weight are the objective checks on compliance."
     },
     {
      "x": "Complications (disease): S = ROS, recent problems/changes; O = provider observations (speech, mobility, facial expressions, cognition), exams, values. Complications (drug): S = any symptoms/ADRs from the meds; O = **lab values**.",
-     "s": 0
+     "s": 0,
+     "simple": "**In plain English:** Complications also split into subjective and objective. From the disease: subjective = ROS (review of systems) and recent problems or changes; objective = what the provider sees (speech, mobility, facial expressions, cognition), exams and values. From the drug: subjective = symptoms or ADRs (adverse drug reactions) the patient reports; objective = lab values. **Example:** A statin patient reports muscle aches (subjective drug complication); labs confirm a problem (objective). **Remember:** Disease: O = exam, observations, values. Drug: O = lab values."
     },
     {
      "x": "Physical exam = a systematic evaluation of the body's organ systems: **Gen, VS (vital signs), Skin, HEENT (head, eyes, ears, nose, throat), Neck/Lymph nodes, Lungs/Thorax, CV, Abd, Genit/Rect, MS/Ext (musculoskeletal/extremities), Neuro**.",
      "s": 0,
-     "note": "Notes spell it 'cardiovasular', 'musculosketal', 'Extremeties': typos for cardiovascular, musculoskeletal, extremities"
+     "note": "Notes spell it 'cardiovasular', 'musculosketal', 'Extremeties': typos for cardiovascular, musculoskeletal, extremities",
+     "simple": "**In plain English:** The physical exam is a head-to-toe check of the body's organ systems, in this order: General appearance, Vital signs, Skin, HEENT (head, eyes, ears, nose, throat), Neck/lymph nodes, Lungs/thorax, CV (cardiovascular), Abdomen, Genitals/rectum, MS/Ext (musculoskeletal/extremities), Neuro. Everything here is objective. **Example:** A provider looks at overall appearance, takes BP, checks skin, looks in ears, feels neck glands, listens to lungs and heart, presses the belly, checks joints and reflexes. **Remember:** Mostly top to bottom: General → Vitals → Skin → HEENT → ... → Neuro."
     }
    ]
   },
@@ -139,35 +165,43 @@ E1_DATA.push({
    "pts": [
     {
      "x": "Patient history = **subjective** data (the patient tells their story). Labs, imaging and the physical exam = **objective** data.",
-     "s": 0
+     "s": 0,
+     "simple": "**In plain English:** The patient history is subjective data: the patient tells their story in their own words. Lab tests, imaging (like X-rays) and the physical exam are objective data, because they're measured or observed. **Example:** \"My knee has ached for two weeks\" is history (subjective); a knee X-ray and the swelling the doctor sees are objective. **Remember:** History = the patient's story; labs, imaging, exam = the evidence."
     },
     {
      "x": "**Patient-oriented** histories explore the patient's feelings and the social/emotional side of the illness, using empathy, silence and nodding. The patient's agenda drives them and they take more time. **Provider-centered** histories target the info needed for a diagnosis. The two can be combined.",
-     "s": 0
+     "s": 0,
+     "simple": "**In plain English:** A patient-oriented history follows the patient's agenda and explores their feelings and the social/emotional side of the illness, using empathy, silence and nodding; it takes longer. A provider-centered history zeroes in on what's needed to make a diagnosis. You can blend both. **Example:** For a new cancer patient, you might let them talk about fears first (patient-oriented), then ask targeted symptom questions (provider-centered). **Remember:** Patient-oriented = their feelings and agenda; provider-centered = facts for diagnosis."
     },
     {
      "x": "**Complete medical history**: for inpatient admissions, **new patients** to a practice, or symptoms that don't fit a recognizable common disease. Its **5 components** are HPI, past medical history, family history, personal/social history and review of systems.",
-     "s": 1
+     "s": 1,
+     "simple": "**In plain English:** A complete medical history is the full, detailed version, used for hospital admissions, new patients to a practice, or symptoms that don't match a common, recognizable disease. It has 5 components: HPI (history of present illness), past medical history, family history, personal/social history, and review of systems. **Example:** A patient admitted to the hospital or meeting a new primary care doctor gets the whole thing, not just questions about today's complaint. **Remember:** Complete history = admissions, new patients, puzzling symptoms; 5 parts: HPI, PMH, FH, SH, ROS."
     },
     {
      "x": "**PMH** = general health status, infectious diseases & immunizations, **adverse reactions to medications**, hospitalizations. Includes the complete medication history and active + inactive problems.",
-     "s": 0
+     "s": 0,
+     "simple": "**In plain English:** PMH (past medical history) covers general health, infectious diseases and immunizations, adverse reactions to medications, and hospitalizations. It also includes the complete medication history and both active (current) and inactive (past, resolved) problems. **Example:** A PMH might note: childhood chickenpox, up to date on flu shots, hives from penicillin, hospitalized for pneumonia in 2022, current hypertension, past resolved kidney stone. **Remember:** PMH = the patient's health résumé, including drug reactions."
     },
     {
      "x": "**Personal/social history** = occupation, marital status, habits (alcohol, smoking), financial status, living arrangements. **Family history** = significant health events in parents, siblings and offspring (patterns, causes of death).",
-     "s": 0
+     "s": 0,
+     "simple": "**In plain English:** Personal/social history describes the person's life: job, marital status, habits like alcohol and smoking, finances, and living situation. Family history records significant health events in parents, siblings and children, looking for patterns and causes of death. **Example:** Social: a retired truck driver who lives alone, smokes, and is on a fixed income. Family: dad died of a heart attack at 55, sister has diabetes. **Remember:** Social = their life; Family = parents, siblings, kids."
     },
     {
      "x": "**ROS** probes for symptoms not found in the HPI/other histories. It starts at the **top of the body (HEENT)** and moves down (respiratory, CV, GI, GU…).",
-     "s": 0
+     "s": 0,
+     "simple": "**In plain English:** ROS (review of systems) is a checklist that asks about symptoms the patient didn't mention in the HPI or other histories, so nothing is missed. It starts at the top of the body with HEENT (head, eyes, ears, nose, throat) and works down: respiratory, CV, GI, GU, and so on. **Example:** A patient comes in for a rash, but the ROS reveals they've also had blurry vision and frequent urination. **Remember:** ROS = head-to-toe symptom sweep for what wasn't volunteered."
     },
     {
      "x": "**Chief complaint history (= HPI)** is the **most commonly used** history. **All histories begin with it**, and in ambulatory acute care it is often all that is needed.",
-     "s": 1
+     "s": 1,
+     "simple": "**In plain English:** The chief complaint history (same as HPI, history of present illness) is the most commonly used history. Every type of history starts with it, and for quick, acute problems in outpatient settings (ambulatory acute care) it's often all you need. **Example:** A customer asks about a sore throat; you just need the story of the sore throat, not their whole family history. **Remember:** Chief complaint history = most common, always first, often enough on its own."
     },
     {
      "x": "**Chronic disease follow-up visit history** is the second major type used by pharmacists. It is built on the **3 Cs**.",
-     "s": 1
+     "s": 1,
+     "simple": "**In plain English:** The chronic disease follow-up history is the second major history pharmacists use. Instead of exploring a new problem, it checks on an existing condition using the 3 Cs: Control, Compliance, Complications. **Example:** A patient with high blood pressure comes in for a refill; you ask how their readings have been (control), whether they miss doses (compliance), and about any new problems (complications). **Remember:** Two big pharmacist histories: chief complaint (new problem) and chronic follow-up (3 Cs)."
     }
    ]
   },
@@ -177,63 +211,78 @@ E1_DATA.push({
    "pts": [
     {
      "x": "Flow: **broad open-ended → focused open-ended (LOQQSAM) → closed-ended → summarize → close**. Open-ended questions are preferred because they yield more information. Closed-ended questions (yes/no) are perceived as a sign the conversation is ending.",
-     "s": 1
+     "s": 1,
+     "simple": "**In plain English:** The interview goes from wide to narrow: start with broad open-ended questions, then focused open-ended ones (LOQQSAM), then closed-ended (yes/no) questions, then summarize, then close. Open-ended questions are preferred because they get more information; yes/no questions signal the conversation is wrapping up. **Example:** \"What brings you in?\" → \"Where exactly does it hurt?\" → \"Any fever?\" → \"So you've had...\" → \"Anything else?\" **Remember:** Funnel shape: open → focused → closed → summarize → close."
     },
     {
      "x": "Table 2.2 structure: **Introduction** (“Hi, I'm __ your pharmacist and you are?”, which verifies identity) → **General broad open-ended** (“What can I help you with today?” / “Tell me more about your __”) → **Focused open-ended (LOQQSAM)** → **Closed-ended** → **Summarization** → **Closure** (“Is there anything else we need to discuss today?”).",
-     "s": 1
+     "s": 1,
+     "simple": "**In plain English:** Table 2.2 lays out the interview order: Introduction (\"Hi, I'm __ your pharmacist and you are?\", which also verifies who you're talking to) → broad open-ended (\"What can I help you with today?\") → focused open-ended (LOQQSAM) → closed-ended → summarization → closure (\"Is there anything else we need to discuss today?\"). **Example:** Picture a customer at the counter about a rash; you walk through each stage in order and end by asking if there's anything else. **Remember:** Intro, Broad, Focused, Closed, Summarize, Close."
     },
     {
      "x": "**L**ocation: where it is and where it moves (radiation). Can be skipped for runny nose, cough or sore throat; used mostly for pain and skin symptoms.",
-     "s": 1
+     "s": 1,
+     "simple": "**In plain English:** L in LOQQSAM is Location: where the symptom is, and whether it moves or spreads (radiation). It's used mostly for pain and skin problems, and you can skip it for things like a runny nose, cough or sore throat, where the location is obvious. **Example:** \"Where's the pain? Does it travel anywhere?\" \"It's in my lower back and shoots down my left leg.\" **Remember:** Location = where + where it spreads; skip for obvious-location symptoms."
     },
     {
      "x": "**O**nset: when it started / how long. **Q**uality: describe it in your own words (dull, sharp, crushing, aching, burning?). **Q**uantity: severity/frequency (pain 1–10; how much it interferes with daily activities; how often).",
-     "s": 1
+     "s": 1,
+     "simple": "**In plain English:** Onset = when it started or how long it's been going on. Quality = what it feels like in the patient's own words (dull, sharp, crushing, aching, burning). Quantity = how bad and how often: pain on a 1–10 scale, how much it interferes with daily life, how frequently it happens. **Example:** \"Started 3 days ago, it's a burning feeling, about a 6 out of 10, and it keeps me up at night.\" **Remember:** Onset = when; Quality = what kind; Quantity = how much/how often."
     },
     {
      "x": "**S**etting: circumstances / what happened just before. Example: chest pain only while shoveling snow → likely chronic stable angina. Chest pain while sitting in a recliner → may be **acute coronary syndrome**.",
-     "s": 1
+     "s": 1,
+     "simple": "**In plain English:** Setting asks about the circumstances: what was happening just before or when the symptom appears. The same symptom can mean very different things depending on the setting. **Example:** Chest pain only while shoveling snow (exertion) points to chronic stable angina. Chest pain while just sitting in a recliner may be acute coronary syndrome (a heart emergency) and needs urgent referral. **Remember:** Setting = \"what were you doing?\" Pain at rest is more worrying than pain with effort."
     },
     {
      "x": "**A**ssociated symptoms: “What else happens?” **M**odifying factors: what makes it better or worse, and what you've tried (ask each separately; not always medications).",
-     "s": 1
+     "s": 1,
+     "simple": "**In plain English:** Associated symptoms: \"What else happens along with it?\" Modifying factors: what makes it better or worse, and what the patient has already tried. Ask about better, worse and tried separately, and remember \"tried\" isn't always medications. **Example:** Headache with nausea and light sensitivity (associated); worse with noise, better lying in the dark, tried a cold cloth and ibuprofen (modifying). **Remember:** A = \"what else?\"; M = \"better, worse, tried?\""
     },
     {
      "x": "Important **ancillary questions**: “What do you think caused this?” (it values the patient's opinion) and “What medications are you currently taking?” Ask the second one **whenever you're thinking of recommending a nonprescription product**. For regular customers, double-check the profile instead.",
-     "s": 0
+     "s": 0,
+     "simple": "**In plain English:** Two key extra (ancillary) questions: \"What do you think caused this?\" shows you value the patient's opinion and can reveal useful clues. \"What medications are you currently taking?\" must be asked whenever you're thinking of recommending an OTC product, to avoid interactions. For regular customers, check their pharmacy profile instead. **Example:** Before suggesting a decongestant, you ask about meds and learn they take blood pressure pills. **Remember:** Ask their theory, and always check meds before any OTC recommendation."
     },
     {
      "x": "**Summarizing** lets the patient verify accuracy and correct errors, may prompt them to remember something, and helps you spot questions you forgot to ask.",
-     "s": 0
+     "s": 0,
+     "simple": "**In plain English:** Summarizing means repeating back what you heard. It lets the patient confirm or correct your understanding, may jog their memory about something they forgot, and helps you notice questions you forgot to ask. **Example:** \"So the cough started 5 days ago, it's dry, worse at night, and cough drops haven't helped?\" \"Actually, I've also had a low fever.\" **Remember:** Summarize = double-check for both of you."
     },
     {
      "x": "Purpose: characterize the problem fully enough to (1) hand it off to another provider, (2) avoid jumping to conclusions, and (3) decide **self-care with OTC vs referral**.",
-     "s": 0
+     "s": 0,
+     "simple": "**In plain English:** Why fully describe the problem? So you can (1) pass it to another provider clearly, (2) avoid jumping to conclusions too early, and (3) decide whether self-care with an OTC product is OK or the patient needs a referral. **Example:** A patient asks for heartburn medicine, but your questions reveal the pain spreads to the arm with exertion, so you refer instead of selling antacids. **Remember:** Characterize fully → hand off, don't jump, decide OTC vs referral."
     },
     {
      "x": "Begin with **verifying identity** and an introduction.",
-     "s": 0
+     "s": 0,
+     "simple": "**In plain English:** Every interview starts by introducing yourself and confirming you're talking to the right person (verifying identity). It builds trust and prevents mix-ups, like giving advice about the wrong patient's medication. **Example:** \"Hi, I'm Sam, your pharmacist, and you are?\" \"Maria Lopez.\" Now you know whose profile to pull up. **Remember:** Intro + verify identity before anything else."
     },
     {
      "x": "**Private environment**: a private room is best. Semiprivate booths work. If neither is available, take the patient to a **quiet aisle of nonprescription meds**.",
-     "s": 0
+     "s": 0,
+     "simple": "**In plain English:** Patients share more when others can't overhear. A private room is best, a semiprivate booth works, and if neither exists, take the patient to a quiet aisle of nonprescription medicines. **Example:** A patient wants to ask about a vaginal yeast infection product; you lead them away from the busy pickup line to a quiet OTC aisle. **Remember:** Privacy ranking: private room > semiprivate booth > quiet OTC aisle."
     },
     {
      "x": "**Patient comfort**: seated in a backed chair. **Take the history while the patient is still dressed**, before any disrobing for an exam.",
-     "s": 0
+     "s": 0,
+     "simple": "**In plain English:** Make the patient comfortable: seat them in a chair with a back, and take the history while they're still fully dressed, before any undressing for a physical exam. People feel more at ease and talk more openly when clothed and seated. **Example:** In a clinic, you sit the patient down in a backed chair and finish your questions before they change into a gown. **Remember:** Seated, backed chair, dressed during the history."
     },
     {
      "x": "**Verbal encouragers**: “Mm-hmm, I see, Tell me more, Go on, And?, What else?” For clarification: “For instance?” “Give me an example.”",
-     "s": 0
+     "s": 0,
+     "simple": "**In plain English:** Verbal encouragers are short phrases that keep the patient talking: \"Mm-hmm,\" \"I see,\" \"Tell me more,\" \"Go on,\" \"And?\", \"What else?\" To get clarification, ask for examples: \"For instance?\" or \"Give me an example.\" **Example:** Patient: \"My stomach's been off.\" You: \"Tell me more.\" Patient: \"It cramps after meals.\" You: \"For instance, which meals?\" **Remember:** Small nudges keep the story flowing."
     },
     {
      "x": "**Silence** is a powerful nonverbal encourager (the discomfort prompts the patient to speak). Nodding, interested facial expressions and eye contact (when appropriate) also help.",
-     "s": 0
+     "s": 0,
+     "simple": "**In plain English:** Silence is a strong nonverbal encourager: a pause feels a little uncomfortable, so the patient usually fills it by saying more. Nodding, an interested facial expression and eye contact (when culturally appropriate) also encourage talking. **Example:** After the patient says \"I've been stressed,\" you just wait and nod, and they add, \"Since I lost my job, I've been skipping my pills.\" **Remember:** Don't rush to fill silence; it often brings out the key detail."
     },
     {
      "x": "When the patient shows emotion → use **reflecting/empathetic responses**. Summarize at the end, and midway if the interview is long or confusing. End with a closed-ended **closure** question.",
-     "s": 0
+     "s": 0,
+     "simple": "**In plain English:** If the patient shows emotion, respond with reflecting or empathetic statements that name and acknowledge the feeling. Summarize at the end (and midway if the interview is long or confusing), then finish with a closed-ended closure question. **Example:** \"It sounds like this has been really frustrating for you.\" Later: \"Is there anything else we need to discuss today?\" **Remember:** Emotion → empathy; long or confusing → summarize midway; end with closure."
     }
    ]
   },
@@ -243,35 +292,43 @@ E1_DATA.push({
    "pts": [
     {
      "x": "**Control**: “How have things been going with your __ since your last visit?” (e.g., home glucose readings, nighttime bathroom trips).",
-     "s": 1
+     "s": 1,
+     "simple": "**In plain English:** Control asks whether the condition is under control since the last visit, using an open question: \"How have things been going with your __ since your last visit?\" You then look at evidence like home readings or symptoms. **Example:** \"How has your diabetes been going?\" \"My morning sugars are around 180, and I'm up three times a night to pee.\" That suggests it isn't controlled. **Remember:** Control = is the treatment working?"
     },
     {
      "x": "**Compliance**: “What kind of problems have you had remembering to take your medication?” / diet & exercise. Probe missed doses: “When was the last time it happened?” and “What do you think caused it?”",
-     "s": 1
+     "s": 1,
+     "simple": "**In plain English:** Compliance asks about taking meds and following diet/exercise, phrased so it's easy to admit trouble: \"What kind of problems have you had remembering to take your medication?\" If they miss doses, probe: \"When was the last time it happened?\" and \"What do you think caused it?\" **Example:** \"I missed my evening dose last Tuesday because I was out with friends.\" Now you know the pattern and the cause. **Remember:** Assume some trouble, then ask when and why."
     },
     {
      "x": "Objective indicators of diet/exercise: the **pharmacy profile, weight and resting pulse**. **Discrepancies between objective and subjective data require further probing.**",
-     "s": 1
+     "s": 1,
+     "simple": "**In plain English:** Objective checks for diet and exercise claims are the pharmacy profile (refills), weight, and resting pulse. If what the patient says doesn't match what the data show, you need to dig deeper instead of accepting either at face value. **Example:** A patient says they walk daily and eat well, but their weight went up 10 pounds; you gently ask more questions. **Remember:** Subjective vs objective mismatch → probe further."
     },
     {
      "x": "**Complications**: “What kind of changes have you noticed since your last visit?” Any positive answer → probe with LOQQSAM. If nothing is volunteered, use **disease/drug-specific closed-ended questions** (“I want to double-check…”).",
-     "s": 1
+     "s": 1,
+     "simple": "**In plain English:** Complications asks about new problems: \"What kind of changes have you noticed since your last visit?\" If they mention anything, explore it with LOQQSAM. If they say nothing, ask specific closed-ended questions about known disease or drug problems (\"I want to double-check...\"). **Example:** A statin patient reports nothing new, so you ask, \"Any muscle pain or weakness?\" **Remember:** Open question first → LOQQSAM for yes answers → targeted yes/no checks if nothing volunteered."
     },
     {
      "x": "Closed-ended checklist pairs: chest pain (angina); SOB (angina, CHF); headache, dizziness, forgetfulness, numbness/tingling, ↓ limb movement (TIA/CVA); ankle swelling, # of pillows (CHF); leg cramps with exercise (PAD); muscle pain/weakness (**myotoxicity**); fatigue, anorexia, malaise, N/V, **dark urine (hepatotoxicity)**; trouble concentrating (cognitive effects).",
-     "s": 0
+     "s": 0,
+     "simple": "**In plain English:** These are the yes/no checks matched to what they might signal: chest pain (angina); shortness of breath (angina, CHF); headache, dizziness, forgetfulness, numbness/tingling, reduced limb movement (TIA/CVA, mini-stroke/stroke); ankle swelling, number of pillows to sleep (CHF); leg cramps with exercise (PAD); muscle pain/weakness (myotoxicity); fatigue, anorexia, malaise, N/V, dark urine (hepatotoxicity); trouble concentrating (cognitive effects). **Example:** A heart failure patient now sleeps on 3 pillows: worsening CHF. **Remember:** Dark urine → liver; muscle pain → myotoxicity."
     },
     {
      "x": "If any problem turns up → **shift gears to chief complaint history**: “Tell me more about it” + LOQQSAM.",
-     "s": 1
+     "s": 1,
+     "simple": "**In plain English:** During a routine follow-up, if any problem comes up, switch modes: stop the 3 Cs routine and do a chief complaint history on that problem, starting with \"Tell me more about it\" and then LOQQSAM. **Example:** In a blood pressure follow-up, the patient mentions a new cough; you say \"Tell me more about it\" and ask when it started, what it's like, how bad, and so on. **Remember:** New problem found → shift gears to chief complaint + LOQQSAM."
     },
     {
      "x": "A string of closed-ended questions also tells the patient the visit is nearing its end, and it teaches them what to watch for.",
-     "s": 0
+     "s": 0,
+     "simple": "**In plain English:** A series of closed-ended (yes/no) questions does two extra jobs: it signals to the patient that the visit is wrapping up, and it teaches them which warning signs to watch for. **Example:** Asking a statin patient \"Any muscle pain? Any dark urine?\" tells them the visit is ending and also teaches them those symptoms matter. **Remember:** Closed questions = wrapping-up signal + built-in patient education."
     },
     {
      "x": "The 4th C is **Concern**: “What kind of concerns do you have about your diabetes or its treatment?” It is a patient-centered question to ask often early in treatment or when cues hint at an issue.",
-     "s": 0
+     "s": 0,
+     "simple": "**In plain English:** The 4th C is Concern: \"What kind of concerns do you have about your diabetes or its treatment?\" It's a patient-centered question that invites worries or beliefs that might affect therapy. Ask it often early in treatment or when the patient gives hints something is bothering them. **Example:** A new insulin patient admits they're scared of needles and of gaining weight, which explains skipped doses. **Remember:** Control, Compliance, Complications + Concern (the patient's worries)."
     }
    ]
   },
@@ -282,27 +339,33 @@ E1_DATA.push({
     {
      "x": "Lecture: Assess = evaluate the available info, form a **differential diagnosis**, evaluate current therapy, and **identify drug therapy problems (DRPs/DTPs)**.",
      "s": 1,
-     "note": "'2. ASSESS' highlighted in the notes"
+     "note": "'2. ASSESS' highlighted in the notes",
+     "simple": "**In plain English:** Step 2, Assess, means making sense of what you collected: evaluate the information, form a differential diagnosis (the list of possible causes), evaluate the current therapy, and identify drug therapy problems (DRPs/DTPs). This step is highlighted in your notes. **Example:** A patient's cough could be a cold, allergies, or their lisinopril; you weigh the possibilities and spot a likely drug therapy problem. **Remember:** Assess = analyze info → possible causes → judge therapy → find DTPs."
     },
     {
      "x": "The pharmacist analyzes the clinical effects of therapy **in the context of the patient's overall health goals**.",
-     "s": 0
+     "s": 0,
+     "simple": "**In plain English:** When assessing, the pharmacist judges how the therapy is affecting the patient against the patient's overall health goals, not just a number on a lab sheet. **Example:** An older adult's main goal is avoiding falls; a blood pressure drug that hits the number but makes them dizzy isn't meeting their real goals. **Remember:** Assess therapy in the context of what the patient is trying to achieve."
     },
     {
      "x": "Assess: medication for **appropriateness, effectiveness, safety and adherence**; health & functional status, risk factors, health data, **cultural factors, health literacy, access** to meds/care; **immunization status** and need for preventive care.",
-     "s": 1
+     "s": 1,
+     "simple": "**In plain English:** In Assess you check each med for appropriateness, effectiveness, safety and adherence, and also look at the person: health and function, risk factors, health data, cultural factors, health literacy (how well they understand health info), access to meds and care, immunization status, and preventive care needs. **Example:** A patient's meds look fine, but they can't read the labels well and are overdue for a pneumococcal vaccine. **Remember:** Assess the meds AND the whole person, including prevention."
     },
     {
      "x": "JCPP Assess: evaluate **each medication** for indication, appropriateness, effectiveness, safety, interactions, tolerability, cost, access, convenience and adherence to identify **medication therapy problems**.",
-     "s": 1
+     "s": 1,
+     "simple": "**In plain English:** JCPP says evaluate each medication one by one for indication, appropriateness, effectiveness, safety, interactions, tolerability, cost, access, convenience and adherence. The goal is to find medication therapy problems. **Example:** Going down a list: Is metformin needed? Right choice? Working? Safe for their kidneys? Interacting? Tolerated? Affordable? Available? Easy to take? Taken? **Remember:** Each drug, every angle, to uncover medication therapy problems."
     },
     {
      "x": "JCPP Assess also covers: existing/new medical problems, including **diagnosing consistent with scope** (e.g., self-care conditions, MTPs, point-of-care test results); SDOH, culture and health literacy; **preventive care & wellness needs** (meds, immunizations, education, screenings); and **formulating person-centered, evidence-based care goals**.",
-     "s": 0
+     "s": 0,
+     "simple": "**In plain English:** JCPP's Assess also includes: existing and new medical problems, including diagnosing within your scope (e.g., self-care conditions, medication therapy problems, point-of-care test results like a rapid strep test); SDOH, culture and health literacy; preventive care needs (meds, immunizations, education, screenings); and setting person-centered, evidence-based care goals. **Example:** A pharmacist runs a rapid flu test, notes the patient lacks transportation, sees they need a Tdap, and sets a goal together. **Remember:** Assess problems, context, prevention, then set goals."
     },
     {
      "x": "Output of Assess: **identify and prioritize patient needs** to inform the care plan.",
-     "s": 1
+     "s": 1,
+     "simple": "**In plain English:** The end result of Assess is a list of the patient's needs, ranked by priority, which feeds directly into the care plan. You can't fix everything at once, so you decide what comes first. **Example:** A patient has uncontrolled blood pressure, a missing flu shot and mild constipation; you rank the blood pressure first and plan around that. **Remember:** Assess output = identified and prioritized needs → Plan."
     }
    ]
   },
@@ -312,43 +375,53 @@ E1_DATA.push({
    "pts": [
     {
      "x": "**DTP** = any undesirable event experienced by a patient that involves, or is suspected to involve, drug therapy, that **interferes with achieving the desired goals of therapy**, and that **requires professional judgment to resolve**.",
-     "s": 1
+     "s": 1,
+     "simple": "**In plain English:** A drug therapy problem (DTP) is any unwanted event a patient experiences that involves (or is suspected to involve) their drug therapy, gets in the way of reaching therapy goals, and needs a professional's judgment to fix. **Example:** A patient's blood pressure stays high because their dose is too low; it's tied to drug therapy, blocks the goal, and needs a pharmacist's decision. **Remember:** Undesirable + drug-related + blocks goals + needs professional judgment = DTP."
     },
     {
      "x": "Identifying DTPs is to pharmaceutical care what **making a medical diagnosis is to medicine**. The most important role is to **prevent** DTPs. **Patients** have DTPs; drug products do not.",
-     "s": 1
+     "s": 1,
+     "simple": "**In plain English:** Finding DTPs is the pharmacist's version of a doctor making a diagnosis; it's the core skill. The most important job is preventing DTPs before they happen. And DTPs belong to patients, not to drug products. **Example:** Warfarin isn't \"a problem drug\"; Mr. Lee, whose INR is too high on warfarin, has a problem. **Remember:** DTP identification = pharmacy's diagnosis; prevent first; patients have DTPs, drugs don't."
     },
     {
      "x": "**3 components** of a DTP: (1) an undesirable event or risk experienced by the patient, (2) the drug therapy involved, (3) the **relationship** between them (a consequence of drug therapy, or a need to add or modify therapy).",
-     "s": 1
+     "s": 1,
+     "simple": "**In plain English:** Every DTP has 3 parts: (1) an undesirable event or risk the patient experiences, (2) the drug therapy involved, and (3) the link between them, meaning either the problem is a consequence of the drug, or the patient needs a drug added or changed. **Example:** (1) bleeding gums, (2) warfarin, (3) the bleeding is a result of the warfarin. **Remember:** Event + Drug + Relationship."
     },
     {
      "x": "**7 categories**. INDICATION: 1 unnecessary drug therapy, 2 needs additional drug therapy. EFFECTIVENESS: 3 ineffective drug, 4 dosage too low. SAFETY: 5 adverse drug reaction, 6 dosage too high. ADHERENCE: 7 nonadherence/noncompliance.",
-     "s": 1
+     "s": 1,
+     "simple": "**In plain English:** There are 7 DTP categories grouped into 4 needs. Indication: 1 unnecessary drug therapy, 2 needs additional drug therapy. Effectiveness: 3 ineffective drug, 4 dosage too low. Safety: 5 adverse drug reaction, 6 dosage too high. Adherence: 7 nonadherence/noncompliance. **Example:** A patient taking two acid reducers for the same thing = unnecessary drug therapy (indication). **Remember:** Each of the first 3 needs has 2 categories; adherence has 1. 2 + 2 + 2 + 1 = 7."
     },
     {
      "x": "Lecture mnemonic **IESA**: Indication (do the scripts all match up?), Efficacy (is it the max dose? does it reach the goal?), Safety (is the ADR from too high a dose or not?), Adherence/technique.",
-     "s": 1
+     "s": 1,
+     "simple": "**In plain English:** Your lecture's IESA mnemonic: Indication (do all the prescriptions match a condition?), Efficacy (is it at max dose, is it reaching the goal?), Safety (is the side effect from too high a dose, or not dose-related?), Adherence/technique (is the patient taking it, and taking it correctly?). **Example:** For an inhaler: is there asthma? Is it controlling symptoms? Any side effects? Is the patient using the right technique? **Remember:** IESA = \"I Eat Sandwiches Always.\""
     },
     {
      "x": "**Assess in order: Indication → Effectiveness → Safety → Adherence** (the rational order of the Pharmacotherapy Workup).",
-     "s": 1
+     "s": 1,
+     "simple": "**In plain English:** Always check in this order: Indication, then Effectiveness, then Safety, then Adherence. It's logical: first make sure a drug is needed, then that it works, then that it's safe, and only then ask whether the patient is taking it. **Example:** No point fixing someone's adherence to a drug they don't even need. **Remember:** Needed? Working? Safe? Taken? (I → E → S → A)"
     },
     {
      "x": "Categories 1–6 come from the **actions of the drug** on the patient. Category 7 comes from the **actions of the patient** (willingness or ability to take it).",
-     "s": 0
+     "s": 0,
+     "simple": "**In plain English:** Categories 1–6 (unnecessary, needs additional, ineffective, dose too low, ADR, dose too high) come from what the drug does to the patient. Category 7 (nonadherence) comes from what the patient does: whether they are willing or able to take it. **Example:** A drug causing a rash is the drug's action (ADR); a patient who can't afford the drug is the patient's action (adherence). **Remember:** 1–6 = drug acting on patient; 7 = patient acting on drug."
     },
     {
      "x": "The categories apply to all drug classes, specialties, ages and settings: hospitalized patients have the **same 7 categories** as ambulatory patients.",
-     "s": 0
+     "s": 0,
+     "simple": "**In plain English:** The 7 DTP categories are universal: they apply to every drug class, specialty, age group and setting. A hospitalized patient has the same 7 possible types of problems as someone at a community pharmacy. **Example:** Dose too low can happen with an antibiotic in the ICU or a blood pressure pill at a clinic; same category. **Remember:** Same 7 categories everywhere."
     },
     {
      "x": "These are NOT the traditional medication-error criteria (right drug/dose/route/frequency/duration), which focus on the prescription rather than the patient. Developed in **1990** at the Peters Institute (U of Minnesota).",
-     "s": 0
+     "s": 0,
+     "simple": "**In plain English:** The DTP categories are not the old medication-error checklist (right drug, dose, route, frequency, duration). That checklist focuses on whether the prescription was written and filled correctly; DTPs focus on the patient's actual experience. The DTP system was developed in 1990 at the Peters Institute, University of Minnesota. **Example:** A prescription can be perfectly \"right\" on paper and still cause a DTP, like a correctly filled dose that's too low for this patient. **Remember:** Errors = about the prescription; DTPs = about the patient. 1990, Minnesota."
     },
     {
      "x": "Some authors add a miscellaneous category for prescription processing (system) errors. Cipolle rejects it: with no clinical problem, no professional judgment is needed, so it adds confusion.",
-     "s": 0
+     "s": 0,
+     "simple": "**In plain English:** Some authors add an 8th \"miscellaneous\" category for prescription-processing or system errors (like a typo or wrong label). Cipolle rejects this: if there's no clinical problem for the patient, no professional judgment is needed, so it isn't a DTP and just adds confusion. **Example:** A prescription missing the prescriber's DEA number is a processing fix, not a drug therapy problem. **Remember:** No clinical problem → not a DTP; stick with 7 categories."
     }
    ]
   },
@@ -358,43 +431,53 @@ E1_DATA.push({
    "pts": [
     {
      "x": "**Unnecessary**: duplicate therapy (most common); no medical indication; nondrug therapy more appropriate; addiction/recreational use (drugs, alcohol, smoking); **treating an avoidable ADR** from another med.",
-     "s": 1
+     "s": 1,
+     "simple": "**In plain English:** Common causes of unnecessary drug therapy: duplicate therapy (the most common), no medical reason for the drug, a non-drug option would be better, addiction or recreational use (drugs, alcohol, smoking), and using a drug to treat a side effect that could have been avoided from another drug. **Example:** A patient takes two different NSAIDs at once (duplicate), or takes an antacid only to treat stomach upset caused by an unneeded NSAID. **Remember:** Unnecessary's #1 cause = duplicate therapy."
     },
     {
      "x": "**Needs additional**: **preventive** therapy (most common); untreated condition; **synergistic/additive** therapy.",
-     "s": 1
+     "s": 1,
+     "simple": "**In plain English:** Causes of needs additional drug therapy: preventive therapy is missing (the most common), a medical condition isn't being treated, or a second drug is needed to work together with the first (synergistic or additive therapy). **Example:** An older woman at risk for osteoporosis should start calcium (preventive); a patient's blood pressure needs a second agent added to reach goal (additive). **Remember:** Needs additional's #1 cause = preventive therapy."
     },
     {
      "x": "**Ineffective drug**: more effective drug available; condition refractory to the drug; **dosage form inappropriate**; contraindication present; drug not effective for the condition.",
-     "s": 1
+     "s": 1,
+     "simple": "**In plain English:** Causes of an ineffective drug: a more effective drug exists, the condition doesn't respond to this drug (refractory), the dosage form is wrong for the patient or condition, a contraindication is present, or the drug simply isn't effective for this condition. **Example:** Using a drug for an infection it doesn't cover, or a tablet when the situation needs a different dosage form. **Remember:** Ineffective drug = wrong drug or form; dosage too low = right drug, too little."
     },
     {
      "x": "**Dosage too low**: ineffective dose; needs additional monitoring; frequency too infrequent; incorrect administration; **drug interaction ↓ active drug**; **incorrect storage** (lost potency); duration too short.",
-     "s": 1
+     "s": 1,
+     "simple": "**In plain English:** Causes of dosage too low: the dose is too small to work, the patient needs more monitoring to find the right dose, it's given too infrequently, it's taken incorrectly, a drug interaction lowers the amount of active drug, it was stored wrong and lost potency, or the course is too short. **Example:** Insulin left in a hot car loses strength, so the usual dose no longer controls blood sugar (incorrect storage). **Remember:** Too little drug reaching the target, for any reason."
     },
     {
      "x": "**ADR**: undesirable effect **not dose-related**; unsafe drug for this patient's risk factors; drug interaction (not dose-related); incorrect administration; **allergic reaction**; dosage increased/decreased **too fast**.",
-     "s": 1
+     "s": 1,
+     "simple": "**In plain English:** Causes of an adverse drug reaction (ADR): an unwanted effect that is not dose-related, a drug that's unsafe given the patient's risk factors, a drug interaction that isn't dose-related, wrong administration, an allergic reaction, or raising/lowering the dose too fast. **Example:** A patient breaks out in a rash from co-trimoxazole; lowering the dose wouldn't help because it isn't dose-related. **Remember:** ADR = harm that isn't fixed by lowering the dose (allergy is the classic one)."
     },
     {
      "x": "**Dosage too high**: dose too high (toxicity); needs additional monitoring; frequency too short; duration too long; **drug interaction ↑ active drug**.",
-     "s": 1
+     "s": 1,
+     "simple": "**In plain English:** Causes of dosage too high: the dose itself causes toxicity, more monitoring is needed, doses are given too close together, it's continued too long, or a drug interaction raises the amount of active drug. **Example:** An elderly patient on digoxin 0.5 mg develops a slow heart rate as their kidney function declines, so the drug builds up. **Remember:** Dosage too high = too much active drug; fix by lowering the dose or spacing it out."
     },
     {
      "x": "**Adherence** (most → least common): doesn't understand instructions; cannot afford; prefers not to take; forgets; product not available; cannot swallow/administer.",
-     "s": 1
+     "s": 1,
+     "simple": "**In plain English:** Causes of nonadherence, from most to least common: the patient doesn't understand the instructions, can't afford it, prefers not to take it, forgets, the product isn't available, or they can't swallow/administer it. Note that \"doesn't understand\" beats \"forgets.\" **Example:** A patient uses an albuterol inhaler wrong because nobody explained it, which is more common than simply forgetting. **Remember:** Order: Understand, Afford, Prefer, Forget, Available, Administer. \"Usually Affordability Prevents Forgetful Adults' Access.\""
     },
     {
      "x": "**ADR vs dosage too high**: dose-related toxicity → **reduce the dose or give it less often**. ADR (not dose-related) → **discontinue and switch, usually to a different pharmacologic class**.",
-     "s": 1
+     "s": 1,
+     "simple": "**In plain English:** Key distinction: if the harm is dose-related toxicity (dosage too high), lower the dose or give it less often. If it's an ADR that isn't dose-related, stop the drug and switch, usually to a drug in a different pharmacologic class. **Example:** Dizziness from too much risperidone → lower the dose. Loss of taste from captopril (an ADR) → stop it and switch classes. **Remember:** Too high → turn it down; ADR → take it out and switch."
     },
     {
      "x": "Drug interactions can cause DTPs in **several** categories (↓ effectiveness, ↑ toxicity, or an ADR).",
-     "s": 0
+     "s": 0,
+     "simple": "**In plain English:** A drug interaction isn't its own DTP category; it can land in several categories depending on the result. If it lowers the active drug, it's effectiveness (dosage too low); if it raises the active drug, it's safety (dosage too high); if it causes a non-dose-related reaction, it's an ADR. **Example:** One drug blocks another's breakdown, raising its levels toward toxicity = dosage too high. **Remember:** Classify an interaction by its effect: ↓ drug = too low, ↑ drug = too high, other harm = ADR."
     },
     {
      "x": "Examples: ketoprofen dose too low for elbow pain (dose too low); risperidone 2 mg AM with orthostatic hypotension (dose too high); captopril taste loss (ADR); co-trimoxazole rash (ADR); calcium to prevent osteoporosis (needs additional); digoxin 0.5 mg with bradycardia/heart block in an elderly patient with declining renal function (dose too high); forgetting timolol drops (adherence); glipizide 10 mg not controlling glucose (dose too low).",
-     "s": 0
+     "s": 0,
+     "simple": "**In plain English:** These examples show how to sort real cases. Dose too low: ketoprofen not relieving elbow pain; glipizide 10 mg not controlling glucose. Dose too high: risperidone 2 mg AM with orthostatic hypotension; digoxin 0.5 mg with bradycardia/heart block in an elderly patient with declining kidneys. ADR: captopril taste loss; co-trimoxazole rash. Needs additional: calcium for osteoporosis prevention. Adherence: forgetting timolol drops. **Example:** Ask, \"Would changing the dose fix it?\" **Remember:** Toxicity → too high; rash/taste loss → ADR."
     }
    ]
   },
@@ -404,31 +487,38 @@ E1_DATA.push({
    "pts": [
     {
      "x": "**Nonadherence** = the patient's inability or unwillingness to take a regimen that the practitioner has judged **indicated, effective and safe**. So check indication, effectiveness and safety **before** calling something an adherence problem.",
-     "s": 1
+     "s": 1,
+     "simple": "**In plain English:** Nonadherence means the patient can't or won't take a regimen that the practitioner has already judged indicated, effective and safe. So you must confirm indication, effectiveness and safety first; only then can a problem be called adherence. **Example:** If a patient skips a drug that's causing them side effects, that's a safety problem first, not an adherence problem. **Remember:** Adherence is last in line: I → E → S, then A."
     },
     {
      "x": "Stopped because it **wasn't working** → **effectiveness** problem. Stopped because it made them **too dizzy** → **safety** problem. Neither one is a compliance problem.",
-     "s": 1
+     "s": 1,
+     "simple": "**In plain English:** Why a patient stopped a drug tells you the real category. Stopped because it wasn't working → effectiveness problem. Stopped because it made them too dizzy → safety problem. Neither is a compliance problem, because the drug wasn't effective and safe in the first place. **Example:** \"I quit my blood pressure pill because I kept nearly fainting\" = safety, not adherence. **Remember:** Not working → effectiveness; side effect → safety; only a good, safe drug skipped = adherence."
     },
     {
      "x": "**There is a reason for all nonadherence**, and finding it is the practitioner's job; the cause determines the intervention. <15% of DTPs are compliance problems (>85% involve indication, effectiveness or safety).",
-     "s": 1
+     "s": 1,
+     "simple": "**In plain English:** Every case of nonadherence has a reason, and it's your job to find it, because the reason decides the fix. Also, compliance problems are less common than people think: under 15% of DTPs are compliance problems, while over 85% involve indication, effectiveness or safety. **Example:** One patient skips doses because of cost (fix: cheaper option), another because of confusion (fix: clearer instructions). **Remember:** Find the \"why\"; most DTPs are not adherence."
     },
     {
      "x": "Social factors (age, sex, race, social class, marital status, religion) have **low value** for predicting who will be compliant.",
-     "s": 0
+     "s": 0,
+     "simple": "**In plain English:** Social factors like age, sex, race, social class, marital status and religion are poor predictors of who will take their medications. You can't guess adherence from demographics; you have to ask each patient. **Example:** Don't assume an older adult will forget doses or that a young professional will be perfect; either could be adherent or not. **Remember:** Demographics don't predict adherence; ask, don't assume."
     },
     {
      "x": "Ambiguous directions (e.g., “twice a day”) can be misread. Patients make rational decisions based on their own beliefs, and won't take drugs they don't understand, don't think will help, or worry are unsafe.",
-     "s": 0
+     "s": 0,
+     "simple": "**In plain English:** Vague directions like \"twice a day\" can be misunderstood (twice in the morning? 12 hours apart?). Patients make sensible choices based on their own beliefs: they won't take drugs they don't understand, don't think will help, or worry are unsafe. **Example:** A patient believes their blood pressure pill is only needed when they feel stressed, so they take it occasionally. **Remember:** Clear instructions + address beliefs; nonadherence is often a rational decision."
     },
     {
      "x": "Interventions: explain how the drug works and how they'll know it's working (goals), make instructions clear, med diary, reminders, calendars, **pill boxes**, free/reduced-price programs, **simplifying regimens**.",
-     "s": 0
+     "s": 0,
+     "simple": "**In plain English:** Ways to improve adherence: explain how the drug works and how they'll know it's working (goals), make instructions clear, and use tools like a med diary, reminders, calendars and pill boxes. Also help with cost (free or reduced-price programs) and simplify regimens (fewer doses). **Example:** A patient on four daily doses switches to a once-daily option and uses a weekly pill box. **Remember:** Match the tool to the cause: understanding, memory, cost or complexity."
     },
     {
      "x": "“Rational noncompliance”: patients (especially elderly) stop meds they don't think are helping. **A DTP the patient identifies themselves must be made a priority.**",
-     "s": 0
+     "s": 0,
+     "simple": "**In plain English:** \"Rational noncompliance\" is when patients, especially the elderly, stop medicines they don't believe are helping. When the patient themselves points out a drug therapy problem, it must be treated as a priority. **Example:** An older woman says, \"I stopped my water pill; it just makes me run to the bathroom and I don't see the point.\" You address that first. **Remember:** If the patient names a problem, it goes to the top of the list."
     }
    ]
   },
@@ -438,35 +528,43 @@ E1_DATA.push({
    "pts": [
     {
      "x": "A DTP statement has **3 parts**: (1) the patient's condition/clinical state, (2) the drug therapy involved, (3) the specific **association** between them. The wording drives the intervention.",
-     "s": 1
+     "s": 1,
+     "simple": "**In plain English:** Writing a DTP statement has 3 parts: (1) the patient's condition or clinical state, (2) the drug therapy involved, and (3) the specific link between them. How you word it guides what you do about it. **Example:** \"Patient has muscle pain (condition) from simvastatin (drug), likely myotoxicity caused by the statin (link).\" **Remember:** Condition + Drug + Association; good wording points to the fix."
     },
     {
      "x": "Be specific. Not “her cholesterol drug isn't working” but “atorvastatin 80 mg daily × 3 months for hyperlipidemia has only reduced total cholesterol 5%.” Name the type of toxicity and say whether it is dose-related.",
-     "s": 0
+     "s": 0,
+     "simple": "**In plain English:** Make DTP statements specific: name the drug, dose, duration, condition and the measured result. For a toxicity, name the type and say whether it's dose-related. **Example:** Vague: \"Her cholesterol drug isn't working.\" Specific: \"Atorvastatin 80 mg daily × 3 months for hyperlipidemia has only reduced total cholesterol 5%.\" **Remember:** Specific statement → specific solution."
     },
     {
      "x": "Paired examples: subtherapeutic phenytoin → increase the dose, but forgetting phenytoin → reminder device/diary. Aspirin causing a GI bleed → find the indication and substitute, but low-dose aspirin + history of GI bleeds → enteric-coated product + monitoring. Gentamicin + poor renal function → adjust dose/interval (prevent), but ARF secondary to gentamicin → discontinue and switch antibiotic.",
-     "s": 0
+     "s": 0,
+     "simple": "**In plain English:** The same drug can create different DTPs, and the wording changes the fix. Subtherapeutic phenytoin → increase the dose; forgetting phenytoin → reminder device or diary. Aspirin causing a GI bleed → find the indication and substitute; low-dose aspirin with past GI bleeds → enteric-coated product plus monitoring. Gentamicin with poor kidneys → adjust dose/interval to prevent harm; acute renal failure from gentamicin → stop and switch antibiotics. **Example:** Same drug, different story, different action. **Remember:** Correct statement = correct intervention."
     },
     {
      "x": "**Prioritize** by severity, acuteness and significance to the patient: the extent of potential harm, the **patient's perception** of the harm, and how fast the harm could occur. **Start with what is most important to the patient and/or critical to their health.** Involve the patient.",
-     "s": 1
+     "s": 1,
+     "simple": "**In plain English:** Prioritize DTPs by severity, urgency and importance to the patient: how much harm could happen, how harmful the patient thinks it is, and how fast it could occur. Start with what matters most to the patient and/or is critical to their health, and involve them in deciding. **Example:** A dangerously low blood sugar episode comes before a mild cosmetic side effect, but if the patient is upset about the side effect, address it too. **Remember:** Severity, speed, patient's view; ask the patient."
     },
     {
      "x": "Then ask: (1) what must be resolved now vs what can wait? (2) what can the practitioner and patient resolve directly? (3) what needs someone else (family, physician, nurse, specialist)?",
-     "s": 1
+     "s": 1,
+     "simple": "**In plain English:** After prioritizing, sort DTPs with three questions: (1) What must be fixed now vs what can wait? (2) What can you and the patient fix directly? (3) What needs someone else, like family, the physician, a nurse or a specialist? **Example:** You handle an OTC duplication with the patient today, but call the doctor about a dose change for a prescription drug. **Remember:** Now or later? Us or them?"
     },
     {
      "x": "**Still document lower-priority DTPs** so they aren't forgotten. About 21% of patients have multiple DTPs at the first assessment.",
-     "s": 0
+     "s": 0,
+     "simple": "**In plain English:** Even low-priority DTPs should be written down so they aren't forgotten and can be handled later. This matters because about 21% of patients have more than one DTP at the first assessment. **Example:** You focus on uncontrolled blood pressure today but note the missing vaccine and unneeded vitamin to address at the next visit. **Remember:** Document everything, even if it waits; ~21% have multiple DTPs at first look."
     },
     {
      "x": "**No DTPs** means every drug is indicated, effective and safe, and the patient understands and adheres. The patient **still needs a care plan and follow-up** (like a yearly dental check-up).",
-     "s": 1
+     "s": 1,
+     "simple": "**In plain English:** \"No DTPs\" means every drug is indicated, effective and safe, and the patient understands and takes them. Even then, the patient still needs a care plan and follow-up to keep things on track and catch new problems. **Example:** Like a yearly dental check-up when your teeth are fine: you still go so problems are caught early. **Remember:** No DTPs ≠ done; still plan and follow up."
     },
     {
      "x": "Documentation: the medical condition, the drug(s) involved, the likely cause, and the action taken. Record it in the care plan for that condition. Economic impact (e.g., avoided visits) may also be recorded.",
-     "s": 0
+     "s": 0,
+     "simple": "**In plain English:** Documenting a DTP means recording the medical condition, the drug(s) involved, the likely cause, and what action was taken, in the care plan for that condition. You may also record economic impact, like doctor or ER visits avoided. **Example:** \"Hypertension; lisinopril 5 mg; dose too low; increased to 10 mg after calling the prescriber; likely avoided an extra clinic visit.\" **Remember:** Condition, drug, cause, action (+ savings)."
     }
    ]
   },
@@ -476,31 +574,38 @@ E1_DATA.push({
    "pts": [
     {
      "x": "22,694 ambulatory patients, 50,142 encounters, **88,556 DTPs**: an average of **4 DTPs per patient**. 85% had ≥1 DTP.",
-     "s": 0
+     "s": 0,
+     "simple": "**In plain English:** Real-world data from the Assurance database: 22,694 outpatient (ambulatory) patients, 50,142 encounters and 88,556 DTPs found, which is an average of 4 DTPs per patient. 85% of patients had at least one DTP. **Example:** If you saw 20 patients, about 17 would have at least one drug therapy problem. **Remember:** 88,556 DTPs; about 4 per patient; 85% had ≥1."
     },
     {
      "x": "Frequency of DTPs: **needs additional 34%** (most common, mostly **flu & pneumococcal vaccines**) > **dosage too low 23%** > adherence 14% > ADR 11% > ineffective 8% > unnecessary 5% = dosage too high 5%.",
-     "s": 1
+     "s": 1,
+     "simple": "**In plain English:** How often each DTP showed up: needs additional therapy 34% (most common, mostly missing flu and pneumococcal vaccines) > dosage too low 23% > adherence 14% > ADR 11% > ineffective 8% > unnecessary 5% = dosage too high 5%. **Example:** Out of 100 DTPs, about a third would be \"this patient needs something added,\" often a vaccine. **Remember:** \"Needs more, needs higher\" top the list (34%, 23%); adherence is only 14%."
     },
     {
      "x": "Patients are **underdosed 3–4× more often than overdosed** (37% of patients had dose too low vs 15% dose too high). “**Drugs do not have doses, people have doses.**” Each patient has an initial dose, adjustments and a maximum dose.",
-     "s": 1
+     "s": 1,
+     "simple": "**In plain English:** Patients are underdosed 3–4 times more often than overdosed; 37% of patients had a dose that was too low versus 15% with a dose too high. The lesson: \"Drugs do not have doses, people have doses.\" Each patient needs an individual starting dose, adjustments and a maximum. **Example:** Two patients on the same blood pressure drug may need very different doses to reach goal. **Remember:** Underdosing is far more common than overdosing; dose the person, not the drug."
     },
     {
      "x": "Only **14%** of DTPs were nonadherence (the literature reports 40–60% elsewhere). **72%** of patients never had an adherence problem.",
-     "s": 0
+     "s": 0,
+     "simple": "**In plain English:** In this database, only 14% of DTPs were nonadherence, even though other literature reports 40–60%. And 72% of patients never had an adherence problem. The point: don't assume a problem is adherence; most DTPs are something else. **Example:** A patient's blood sugar is high; before blaming missed doses, check whether the dose is simply too low. **Remember:** 14% here vs 40–60% elsewhere; 72% never had adherence issues."
     },
     {
      "x": "**9 of the 10** drugs most often judged unnecessary are **nonprescription** (vitamin E #1). They are rarely in the medical record, so **personal contact with the patient** is needed to find them.",
-     "s": 1
+     "s": 1,
+     "simple": "**In plain English:** 9 of the 10 drugs most often judged unnecessary are nonprescription products, with vitamin E at #1. These rarely show up in the medical record, so you only find them by talking directly with the patient. **Example:** A patient's chart lists three prescriptions, but in conversation they mention vitamin E, a sleep aid and an herbal supplement. **Remember:** Unnecessary drugs hide on the OTC shelf; talk to the patient. Vitamin E is #1."
     },
     {
      "x": "Patients taking **no medications can still have DTPs** (needs preventive therapy). Reviewing only a list of already-prescribed meds (a “drug review” or even medication reconciliation) misses these.",
-     "s": 1
+     "s": 1,
+     "simple": "**In plain English:** A patient taking no medications can still have a DTP, usually needing preventive therapy (like vaccines). Just reviewing a list of prescribed meds (a \"drug review\" or even medication reconciliation) can't catch what's missing. **Example:** A healthy 70-year-old on no meds still needs a pneumococcal vaccine; a med-list check would find nothing wrong. **Remember:** No meds ≠ no DTPs; look for what's missing, not just what's there."
     },
     {
      "x": "Top underdosed: insulin, metformin, gabapentin. Top dose too high: insulin, metformin, lisinopril. Top ADR: quetiapine. Top interaction: clopidogrel, then omeprazole. Top instructions not understood: **albuterol inhalers**.",
-     "s": 0
+     "s": 0,
+     "simple": "**In plain English:** Specific top drugs per DTP type: most underdosed = insulin, metformin, gabapentin; most often dose too high = insulin, metformin, lisinopril; top ADR = quetiapine; top interaction = clopidogrel, then omeprazole; top \"instructions not understood\" = albuterol inhalers. **Example:** Insulin and metformin appear in both too-low and too-high lists, because doses must be individualized. **Remember:** Insulin and metformin = dosing trouble both ways; albuterol inhalers = most misunderstood."
     }
    ]
   }

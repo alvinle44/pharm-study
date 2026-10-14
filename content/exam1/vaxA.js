@@ -14,31 +14,37 @@ E1_DATA.push({
     {
      "x": "Immune response splits into **innate** immunity (physical barriers, physiologic features, processes, cells of the immune system) and **acquired (adaptive)** immunity, which is active or passive.",
      "s": 0,
-     "note": "innate = skin, barrier, keeps germs from getting in"
+     "note": "innate = skin, barrier, keeps germs from getting in",
+     "simple": "**In plain English:** Your immune defenses come in two layers. **Innate** immunity is the built-in, always-on protection you're born with: skin and other physical barriers, body features like stomach acid, and general-purpose immune cells. **Acquired (adaptive)** immunity is the targeted protection your body builds after meeting a specific germ, and it can be active or passive. **Example:** Innate is the locked front door of your house; acquired is the security guard who learned a specific burglar's face. **Remember:** Innate = born with it, nonspecific. Acquired = learned, specific (active or passive)."
     },
     {
      "x": "Acquired immunity → **humoral** immune response (T-cell independent or T-cell dependent) and **cell-mediated** immune response.",
-     "s": 0
+     "s": 0,
+     "simple": "**In plain English:** The acquired (adaptive) side has two arms. The **humoral** response is antibody-based: B cells make antibodies that float in body fluids, sometimes needing T-cell help (T-cell dependent) and sometimes not (T-cell independent). The **cell-mediated** response uses T cells themselves to attack infected cells. **Example:** Humoral is like firing tagged darts (antibodies) at germs floating around; cell-mediated is sending soldiers (T cells) door to door to take out infected cells. **Remember:** Humoral = antibodies (B cells); cell-mediated = T cells doing the work."
     },
     {
      "x": "**Passive** immunity = antibodies given to you: antibodies in breast milk, antivenom injection, immune globulin infusion. It wears off.",
      "s": 1,
-     "note": "passive (from mother, but it wears off and goes away); antivenom = harvest antibodies from horses"
+     "note": "passive (from mother, but it wears off and goes away); antivenom = harvest antibodies from horses",
+     "simple": "**In plain English:** Passive immunity means you are handed ready-made antibodies instead of making them yourself. Examples: a baby getting mom's antibodies through breast milk, an antivenom shot after a snakebite (antibodies harvested from animals like horses), or an immune globulin infusion. Because your body didn't learn anything, the protection wears off. **Example:** It's like borrowing a friend's umbrella: you stay dry today, but you have to give it back and never learned to make one. **Remember:** Antibodies GIVEN to you = passive = temporary."
     },
     {
      "x": "**Active** immunity = your own immune system makes the response: natural infection (e.g., chickenpox) or vaccination (e.g., influenza vaccine).",
      "s": 1,
-     "note": "vaccine trains your immune system how to recognize the disease; chickenpox: body has to fight it off, can only get chickenpox once"
+     "note": "vaccine trains your immune system how to recognize the disease; chickenpox: body has to fight it off, can only get chickenpox once",
+     "simple": "**In plain English:** Active immunity means your own immune system does the work and builds the response. This happens either by catching the real disease (like chickenpox, which you usually only get once) or by getting a vaccine (like the flu shot), which trains your body to recognize the germ safely. **Example:** Catching chickenpox is learning to swim by being thrown in the deep end; a vaccine is swim lessons in the shallow end. Either way, you now know how. **Remember:** Your body MAKES it = active (infection or vaccine)."
     },
     {
      "x": "A flu shot takes about **2 weeks** to take effect (body identifies the antigen and makes antibodies).",
      "s": 1,
-     "note": "student answer on slide 11; the flu VIS in the lab also says it takes about 2 weeks for protection to develop"
+     "note": "student answer on slide 11; the flu VIS in the lab also says it takes about 2 weeks for protection to develop",
+     "simple": "**In plain English:** After a flu shot, protection isn't instant. It takes about **2 weeks** for your body to recognize the vaccine's antigens and build up enough antibodies. This is why timing matters and why patients should be told they aren't protected right away. **Example:** A patient gets a flu shot Monday and catches flu from a coworker three days later. The vaccine didn't 'fail' or 'give' them flu; their body just hadn't finished building protection yet. **Remember:** Flu shot = about 2 weeks to work (the flu VIS says this too)."
     },
     {
      "x": "Sequence: vaccine (contains **antigens**) → antigens recognized, evoke immune response → **B cells and T cells activated** → antibodies produced → antibodies attack/destroy antigen → antigen eliminated → **memory B and T cells formed**.",
      "s": 0,
-     "note": "antigens stimulate immune system"
+     "note": "antigens stimulate immune system",
+     "simple": "**In plain English:** This is the step-by-step story of how a vaccine works. The vaccine carries **antigens** (recognizable pieces of a germ). The body notices them, **B and T cells get activated**, antibodies are made, the antibodies destroy the antigen, it's cleared, and **memory B and T cells** stay behind for next time. **Example:** Like a fire drill: the fake alarm (antigen) gets everyone practicing, and afterward people remember the exit routes (memory cells) for a real fire. **Remember:** Antigen in → B/T cells activate → antibodies → antigen gone → memory cells stay."
     }
    ]
   },
@@ -49,26 +55,31 @@ E1_DATA.push({
     {
      "x": "**Live** vaccines carry more contraindications and more complications (extra screening needed).",
      "s": 1,
-     "note": "live – contraindications, more complications*******; memorize live vaccines because there are extra precautions and questions needed"
+     "note": "live – contraindications, more complications*******; memorize live vaccines because there are extra precautions and questions needed",
+     "simple": "**In plain English:** Live vaccines contain a weakened but still living germ. Because it can still multiply a little, they have more contraindications (situations where you must not give them) and a higher chance of complications, so patients need extra screening questions first. **Example:** Before giving FluMist to a patient, you'd ask about pregnancy, immune problems, and recent other live vaccines; for a regular flu shot, the questions are much simpler. **Remember:** Live = more rules. Memorize the live list (MMR, varicella, MMRV, rotavirus, LAIV, oral typhoid, yellow fever) so you know when to screen harder."
     },
     {
      "x": "**Inactivated** (per class notes): influenza (injectable), COVID-19, RSV, pneumococcal, hep A, hep B, meningococcal, Haemophilus influenzae (Hib), diphtheria/tetanus/pertussis, inactivated poliovirus, **zoster (recombinant)**, HPV, typhoid Vi injection, chikungunya.",
-     "s": 1
+     "s": 1,
+     "simple": "**In plain English:** Inactivated vaccines contain killed germs or just pieces of germs, so they can't cause infection. Per your class notes, this list includes injectable flu, COVID-19, RSV, pneumococcal, hep A, hep B, meningococcal, Hib, diphtheria/tetanus/pertussis, inactivated polio, **recombinant zoster (Shingrix)**, HPV, injectable typhoid Vi, and chikungunya. **Example:** A pregnant patient asks if her flu shot or Tdap is 'live.' Neither is, so pregnancy isn't a reason to skip them. **Remember:** If it's not on the short live list, treat it as inactivated, and zoster (Shingrix) is the classic trap: NOT live."
     },
     {
      "x": "**Adjuvants** are added to help present the antigen to the immune system and **increase the effectiveness** of the vaccine (good titers).",
      "s": 0,
-     "note": "student answer on slide 15"
+     "note": "student answer on slide 15",
+     "simple": "**In plain English:** An **adjuvant** is an ingredient added to a vaccine to help 'show' the antigen to the immune system and make the vaccine work better, giving good titers (antibody levels). It boosts the response without adding more germ material. **Example:** It's like a highlighter on a textbook: the words (antigen) are the same, but the highlight makes your brain notice and remember them. Fluad and Shingrix use adjuvants to get a stronger response in older adults. **Remember:** Adjuvant = booster ingredient that increases effectiveness."
     },
     {
      "x": "Pure **polysaccharide** vaccines are NOT recommended in children **< 2 years** because their immune system is still immature/not fully developed (polysaccharide response is T-cell independent).",
      "s": 1,
-     "note": "immune system is still immature, not fully developed****"
+     "note": "immune system is still immature, not fully developed****",
+     "simple": "**In plain English:** Plain **polysaccharide** vaccines (made of sugar coats from bacteria) trigger a T-cell independent response. Kids under **2 years** have immature immune systems that respond poorly to that kind of signal, so these vaccines are NOT recommended for them. **Example:** A parent asks why their 1-year-old gets PCV (conjugate) instead of PPSV23. The baby's immune system can't learn well from sugar alone; the conjugate version adds a protein so it can. **Remember:** Polysaccharide + under 2 = no; baby immune systems aren't ready."
     },
     {
      "x": "**PPSV** (polysaccharide): T-cell independent response. **PCV** (conjugate): polysaccharides attached to a **carrier protein** → T-cell dependent response, produces **memory B cells**, reduces carriage of bacteria in the respiratory tract.",
      "s": 0,
-     "note": "conjugate PCV = stronger, T-cell dependent, memory B cells"
+     "note": "conjugate PCV = stronger, T-cell dependent, memory B cells",
+     "simple": "**In plain English:** **PPSV** is a plain polysaccharide vaccine, giving a T-cell independent response (weaker, no lasting memory). **PCV** is a conjugate: the sugar is attached to a **carrier protein**, which recruits T cells, creates **memory B cells**, and even reduces bacteria living in the nose/throat (carriage). **Example:** Polysaccharide alone is a stranger's name you hear once and forget; attaching a protein is like pairing that name with a face, so it sticks. **Remember:** Conjugate (C in PCV) = carrier protein = T-cell dependent = memory = stronger."
     }
    ]
   },
@@ -79,40 +90,48 @@ E1_DATA.push({
     {
      "x": "**MMR** (M-M-R II, Priorix) – live attenuated.",
      "s": 1,
-     "note": "MMR is live vaccine"
+     "note": "MMR is live vaccine",
+     "simple": "**In plain English:** **MMR** (brands M-M-R II and Priorix) protects against measles, mumps, and rubella and is a **live attenuated** vaccine, meaning the viruses are alive but weakened. That puts it in the 'extra screening' group: avoid in pregnancy and in severely immunocompromised patients. **Example:** A woman planning to get pregnant next week asks for MMR. Because it's live, you'd counsel her to avoid pregnancy for 1 month after it. **Remember:** MMR = live. Both brands, same rule."
     },
     {
      "x": "**Varicella** (Varivax/‘Varicella, Merck’) – live attenuated.",
      "s": 1,
-     "note": "live vaccine"
+     "note": "live vaccine",
+     "simple": "**In plain English:** The **varicella** (chickenpox) vaccine, Varivax, is a **live attenuated** vaccine: a weakened live virus. So the live-vaccine rules apply, like no pregnancy, careful screening of immunocompromised patients, and 28-day spacing from other live vaccines not given the same day. **Example:** A patient on chemotherapy asks for the chickenpox vaccine. Because it's live, it would usually be postponed until chemo has ended. **Remember:** Varicella = chickenpox = live."
     },
     {
      "x": "**MMRV** (ProQuad) – live.",
-     "s": 1
+     "s": 1,
+     "simple": "**In plain English:** **MMRV** (ProQuad) is a combo of MMR plus varicella in one shot. Since both pieces are live, the combo is **live** too. All the live-vaccine precautions apply. **Example:** Like mixing two scoops of the same ice cream flavor, combining two live vaccines doesn't change the flavor: it's still live. **Remember:** MMR (live) + V (live) = MMRV, live."
     },
     {
      "x": "**LAIV3** (FluMist) – live attenuated, intranasal, cold-adapted/temperature-sensitive (survives in cool nasal passages, cannot reproduce in warmer lungs).",
      "s": 1,
-     "note": "nasal vaccine is live, stricter screening"
+     "note": "nasal vaccine is live, stricter screening",
+     "simple": "**In plain English:** **LAIV3** (FluMist) is the nasal-spray flu vaccine and the only **live** flu vaccine. It's cold-adapted and temperature-sensitive: the weakened virus can survive in the cool nose but can't reproduce in the warmer lungs, so it builds immunity without causing real flu. It needs stricter screening than flu shots. **Example:** Like a plant that only grows in cool weather: it can sprout in the chilly nose but dies off in the warm lungs. **Remember:** Spray up the nose = live flu vaccine; all flu shots are not live."
     },
     {
      "x": "**Rotavirus**, **oral typhoid capsules**, **yellow fever** – live.",
-     "s": 1
+     "s": 1,
+     "simple": "**In plain English:** Three more live vaccines to memorize: **rotavirus** (oral drops for babies), **oral typhoid capsules** (for travelers), and **yellow fever** (for travel). Notice that two of these go by mouth, which is a clue: oral vaccines on this list are live. Careful: the **injectable** typhoid Vi vaccine is inactivated, not live. **Example:** A traveler going to Africa needs typhoid and yellow fever protection; if they pick the oral typhoid pills, both of their travel vaccines are live. **Remember:** Rotavirus, oral typhoid, yellow fever = live."
     },
     {
      "x": "**Zoster is on the INACTIVATED list** (class Knowledge Check slide). Shingrix (RZV) is recombinant and **NOT live**. (The old lab screening form still shows \"ZOS\" – that was Zostavax, a live zoster vaccine no longer used in the US; ignore it for the exam.)",
      "s": 1,
-     "note": "slide 184 note: not a live vaccine"
+     "note": "slide 184 note: not a live vaccine",
+     "simple": "**In plain English:** Shingles (zoster) vaccine is a classic exam trap. The current vaccine, **Shingrix (RZV)**, is recombinant (made of a single protein piece) and **NOT live**; it's on the class's inactivated list. The old lab screening form still mentions 'ZOS,' which referred to Zostavax, a live shingles vaccine no longer used in the US. Ignore that for the exam. **Example:** A patient on immune-suppressing drugs can still get Shingrix, because it isn't live. **Remember:** Shingrix = shingles, not live."
     },
     {
      "x": "Live vaccines: contraindicated in **pregnancy** and usually in **immunocompromised** people; two live vaccines not given same day must be **28 days** apart; **no grace period**.",
      "s": 1,
-     "note": "dont give pregnant or immunosuppressed people live vaccines"
+     "note": "dont give pregnant or immunosuppressed people live vaccines",
+     "simple": "**In plain English:** Live vaccines are generally **contraindicated in pregnancy** and usually in **immunocompromised** people, because the weakened germ could still cause harm. If two live vaccines aren't given on the same day, they need at least **28 days** between them, and there's **no grace period** (no 'close enough'). **Example:** A patient got MMR 25 days ago and now wants varicella. Too soon: wait until 28 days. **Remember:** Live = no pregnancy, careful with weak immune systems, same day or 28 days apart, no grace."
     },
     {
      "x": "NOT live (common traps): pneumococcal (PCV/PPSV), Shingrix, Tdap/DTaP, HPV, all injectable flu (IIV3, ccIIV3, aIIV3, HD-IIV3, RIV3), COVID-19, RSV.",
      "s": 0,
-     "note": "pneumococcal: not a live vaccine"
+     "note": "pneumococcal: not a live vaccine",
+     "simple": "**In plain English:** These vaccines are often mistaken for live but are **NOT live**: pneumococcal (PCV and PPSV), Shingrix, Tdap/DTaP, HPV, all injectable flu shots (IIV3, ccIIV3, aIIV3, HD-IIV3, RIV3), COVID-19, and RSV. They don't carry the live-vaccine pregnancy and spacing restrictions. **Example:** A patient got MMR yesterday and wants a pneumococcal shot today. Fine: pneumococcal isn't live, so no 28-day wait. **Remember:** If it's a shot for flu, pneumonia, shingles, tetanus, HPV, COVID, or RSV, it's not live."
     }
    ]
   },
@@ -122,38 +141,46 @@ E1_DATA.push({
    "pts": [
     {
      "x": "Two inactivated: **no minimum**. Inactivated + live: **no minimum**. Inactivated + antibodies: **no minimum**.",
-     "s": 1
+     "s": 1,
+     "simple": "**In plain English:** When at least one vaccine is inactivated, spacing doesn't matter. Two inactivated vaccines: **no minimum** wait. Inactivated plus live: **no minimum**. Inactivated plus antibody products: **no minimum**. Killed vaccines don't interfere with each other or get cancelled out. **Example:** A patient got a flu shot last Tuesday and wants Tdap today. Go ahead, no waiting needed. **Remember:** Inactivated involved = no minimum interval; spacing rules are mainly a live-vaccine problem."
     },
     {
      "x": "Two live vaccines **not given simultaneously**: **28-day minimum** interval. (Live vaccines may be given the same day.)",
      "s": 1,
-     "note": "can give live vaccines simultaneous but not one after other without space"
+     "note": "can give live vaccines simultaneous but not one after other without space",
+     "simple": "**In plain English:** Two live vaccines can be given on the **same day**. But if they're NOT given together, you must wait at least **28 days** before the second one. The first live vaccine can interfere with how well the second one 'takes' if given too soon. **Example:** A child gets MMR on March 1 but skips varicella. Varicella must wait until at least 28 days later, not next week. **Remember:** Live + live = same day OR 28 days apart, nothing in between."
     },
     {
      "x": "Live vaccine followed by blood products: **2 weeks**. Blood product given before a live vaccine: interval **varies (look up)**.",
      "s": 1,
-     "note": "antibodies in blood products (horse serum, donated plasma) could inactivate the live vaccine"
+     "note": "antibodies in blood products (horse serum, donated plasma) could inactivate the live vaccine",
+     "simple": "**In plain English:** Blood products (like plasma or immune globulin) contain antibodies that could neutralize a live vaccine's weakened germ before it works. If the live vaccine goes first, wait **2 weeks** before blood products. If the blood product came first, the wait before a live vaccine **varies**, so you look it up. **Example:** A patient got immune globulin last month and now wants MMR. You'd check the recommended interval first. **Remember:** Live vaccine → blood product = 2 weeks; blood product → live vaccine = look it up."
     },
     {
      "x": "Live vaccine followed by **PPD** (TB skin test): **28-day** minimum (PPD after vaccine → false negative). PPD first → give live vaccine **after the PPD has been read**.",
-     "s": 1
+     "s": 1,
+     "simple": "**In plain English:** A **PPD** is the TB skin test. A live vaccine can temporarily dampen the immune reaction the test depends on, causing a **false negative**. So if the live vaccine is given first, wait **28 days** before the PPD. If the PPD is done first, give the live vaccine **after the PPD has been read**. **Example:** A nursing student needs MMR and a TB test for school. Do both the same day, or place the PPD, read it, then give MMR. **Remember:** Live vaccine then PPD = 28 days; PPD first = vaccinate after reading."
     },
     {
      "x": "Co-administration: vaccines may be given on the same day, **including COVID-19 and influenza**. Use **separate syringes** (never mix vaccines), **different limbs** if possible; if not, separate sites by **1 inch**.",
-     "s": 0
+     "s": 0,
+     "simple": "**In plain English:** It's fine to give several vaccines on the same day, **including COVID-19 and flu together**. Rules: use **separate syringes** (never mix vaccines in one syringe), use **different limbs** when possible, and if two go in the same limb, keep them at least **1 inch** apart. **Example:** A patient wants flu and COVID shots today: flu in the left arm, COVID in the right, each in its own syringe. **Remember:** Same day OK; separate syringes, different limbs, or 1 inch apart."
     },
     {
      "x": "Multiple vaccines in one day do not cause adverse effects; delaying increases infection/outbreak risk, appointments, and the chance the schedule is never completed.",
-     "s": 0
+     "s": 0,
+     "simple": "**In plain English:** Giving multiple vaccines at one visit doesn't cause extra adverse effects. Delaying, on the other hand, has real downsides: higher infection and outbreak risk, more appointments, and a bigger chance the patient never finishes the schedule. **Example:** A parent wants to split their child's shots across three extra visits. You can explain that combining them is safe and that spreading them out leaves the child unprotected longer and makes missed doses more likely. **Remember:** Same day is safe; delay is the real risk."
     },
     {
      "x": "**Grace period**: ACIP counts a dose ‘on time’ if within **4 days** of the minimum interval (some states don’t allow it). **Live vaccines: no grace period** – stick to the interval.",
-     "s": 1
+     "s": 1,
+     "simple": "**In plain English:** The **grace period** is a small cushion: ACIP still counts a dose as valid if given up to **4 days** before the minimum interval (some states don't allow this). **Live vaccines get no grace period**: their spacing interval must be followed exactly. **Example:** A second dose of an inactivated vaccine is due on the 28th; giving it on the 25th still counts. But for two live vaccines needing 28 days, day 25 is too early. **Remember:** 4-day grace for most; zero grace for live."
     },
     {
      "x": "Interval **shortened** (too soon) → dose may be invalid/no boost; interval **lengthened** → just continue (catch-up), do not restart. Too soon is worse than too late.",
      "s": 1,
-     "note": "rather be too long than too soon… might deem the second shot invalid if it's too soon; late = catch up"
+     "note": "rather be too long than too soon… might deem the second shot invalid if it's too soon; late = catch up",
+     "simple": "**In plain English:** If a dose is given **too soon** (interval shortened), the body may not respond properly, so the dose may be **invalid** and not boost immunity. If a dose is **late** (interval lengthened), just continue the series where you left off; **never restart**. Too soon is worse than too late. **Example:** A patient got dose 1 of Shingrix a year ago and forgot dose 2. Just give dose 2 now; no need to start over. **Remember:** Late = catch up and continue; early = may not count."
     }
    ]
   },
@@ -164,27 +191,33 @@ E1_DATA.push({
     {
      "x": "**Contraindication** = condition that greatly increases risk of an adverse reaction; do not vaccinate if vaccine is *likely* to injure the patient.",
      "s": 1,
-     "note": "poses a great risk of an adverse reaction"
+     "note": "poses a great risk of an adverse reaction",
+     "simple": "**In plain English:** A **contraindication** is a condition in the patient that greatly increases the risk of a serious adverse reaction. If the vaccine is likely to injure the patient, you don't give it. It's a firm 'no' (at least for now), not a judgment call. **Example:** A pregnant patient asks for MMR. Pregnancy is a contraindication for live vaccines, so you don't vaccinate. **Remember:** Contraindication = high risk of harm = do not vaccinate."
     },
     {
      "x": "**Universal contraindication** for all vaccines: severe allergy (immediate, life-threatening **anaphylaxis**) to a vaccine or vaccine component after a previous dose.",
-     "s": 1
+     "s": 1,
+     "simple": "**In plain English:** The one contraindication that applies to **every** vaccine: a severe, immediate, life-threatening allergic reaction (**anaphylaxis**) to a previous dose of that vaccine or to one of its ingredients. Giving it again could trigger the same dangerous reaction. **Example:** A patient's throat swelled and they needed epinephrine after their last flu shot. You don't give that vaccine again. **Remember:** Anaphylaxis to a prior dose or component = universal contraindication."
     },
     {
      "x": "**Temporary** contraindications delay vaccination for a period: e.g., **pregnancy**, **immunosuppression** (for live vaccines).",
-     "s": 1
+     "s": 1,
+     "simple": "**In plain English:** Some contraindications are **temporary**: they mean 'not now,' not 'never.' Common ones are **pregnancy** and **immunosuppression**, which block live vaccines until the situation changes. **Example:** A woman who is pregnant can't get MMR now, but she can get it after delivery. A patient on chemo can get a live vaccine once treatment ends (and it's safe to do so). **Remember:** Temporary contraindication = delay, then vaccinate later."
     },
     {
      "x": "**Precaution**: vaccine might be indicated if benefit outweighs risk; vaccines normally deferred, but may be given when benefit outweighs risk (e.g., community pertussis outbreak).",
-     "s": 0
+     "s": 0,
+     "simple": "**In plain English:** A **precaution** is softer than a contraindication. It's a condition that might raise the risk of a reaction or make the vaccine work less well. Normally you'd hold off, but you can still vaccinate if the benefit outweighs the risk. **Example:** A patient has a precaution for a pertussis-containing vaccine, but there's a whooping cough outbreak in town. The protection is worth it, so you vaccinate. **Remember:** Precaution = usually defer, but weigh benefit vs. risk."
     },
     {
      "x": "**False contraindications**: minor illness (mild fever, URI, otitis media, mild diarrhea); allergies to things not in the vaccine (penicillin, bird feathers); non-anaphylactic allergies; **pregnancy in the household (even varicella)**; **breastfeeding (even rubella)**; **premature birth** (don’t adjust for gestation); taking antibiotics.",
-     "s": 1
+     "s": 1,
+     "simple": "**In plain English:** **False contraindications** are things people think block vaccination but don't: mild illness (low fever, cold, ear infection, mild diarrhea), allergies to things not in the vaccine (penicillin, feathers), mild non-anaphylactic allergies, a pregnant person at home (even for varicella), breastfeeding (even rubella), premature birth (vaccinate by actual age), and taking antibiotics. **Example:** A mom with a sniffly toddler on amoxicillin asks to postpone shots. Not needed: vaccinate today. **Remember:** Mild illness, antibiotics, breastfeeding, pregnant household member = still vaccinate."
     },
     {
      "x": "Don’t vaccinate if patient is ill enough to be referred to a physician/hospital (moderate–severe illness → delay).",
-     "s": 0
+     "s": 0,
+     "simple": "**In plain English:** If a patient is sick enough that you'd send them to a doctor or hospital (moderate to severe illness), don't vaccinate today: **delay** until they improve. This avoids confusing vaccine side effects with the illness and avoids adding stress to a very sick person. Mild illness, though, is not a reason to wait. **Example:** A patient walks in with a high fever and trouble breathing wanting a flu shot. Refer them for care and vaccinate once recovered. **Remember:** Too sick for the pharmacy = too sick for a vaccine today."
     }
    ]
   },
@@ -194,47 +227,58 @@ E1_DATA.push({
    "pts": [
     {
      "x": "Form instruction: a **YES does not necessarily mean** don’t vaccinate – it means **additional questions must be asked**.",
-     "s": 1
+     "s": 1,
+     "simple": "**In plain English:** On the screening checklist, a 'YES' answer doesn't automatically mean you can't vaccinate. It means you need to **ask follow-up questions** to figure out whether it actually matters for the specific vaccine. **Example:** A patient checks 'yes' to allergies. You ask what they're allergic to: penicillin is irrelevant to vaccines, but anaphylaxis to gelatin would matter for MMR or varicella. **Remember:** YES = dig deeper, not automatic no."
     },
     {
      "x": "**Q1 Are you sick today?** [all] Moderate/severe acute illness → **delay** until improved. Mild illness (URI, diarrhea) is NOT a contraindication. **Don’t withhold for antibiotics.**",
-     "s": 1
+     "s": 1,
+     "simple": "**In plain English:** Q1 applies to every vaccine. If the patient has a **moderate or severe** illness, **delay** until they feel better. A **mild** illness, like a cold or mild diarrhea, is NOT a reason to skip. And being on **antibiotics** is never a reason to withhold. **Example:** A patient has a runny nose and is on day 3 of amoxicillin for a sinus infection. Vaccinate today. **Remember:** Mild illness and antibiotics = go ahead; moderate/severe illness = wait."
     },
     {
      "x": "**Q2 Allergies to medications, food, vaccine component, or latex?** [all] Anaphylaxis after **gelatin** → no **MMR or varicella**. Local reaction to prior dose/component (e.g., latex) is not a contraindication. **Egg allergy**: RIV3 can be used for age **≥18** with egg allergy of any severity; <18 with serious egg reaction can usually get IIV.",
-     "s": 1
+     "s": 1,
+     "simple": "**In plain English:** Q2 screens for allergies. **Anaphylaxis after gelatin** rules out **MMR and varicella** (they contain gelatin). A local reaction (like latex skin irritation) isn't a contraindication. For **egg allergy**, patients **≥18** with any severity can get **RIV3** (Flublok, egg-free); under 18 with a serious egg reaction can usually still get IIV. **Example:** A 30-year-old with severe egg allergy wants a flu shot: Flublok works. **Remember:** Gelatin anaphylaxis = no MMR/varicella; egg allergy ≠ no flu shot."
     },
     {
      "x": "**Q3 Serious reaction after a vaccination?** [all] Anaphylaxis to a previous dose/component = **contraindication** to further doses. Precautions → usually defer unless benefit outweighs risk (e.g., pertussis outbreak).",
-     "s": 1
+     "s": 1,
+     "simple": "**In plain English:** Q3 asks about past serious vaccine reactions. **Anaphylaxis** to a previous dose or ingredient is a **contraindication**: don't give more doses. If the issue was only a **precaution**, you'd usually hold off unless the benefit outweighs the risk, such as during a pertussis outbreak. **Example:** A patient had hives and wheezing right after their last Tdap. That's anaphylaxis, so no more Tdap. **Remember:** Anaphylaxis to prior dose = stop; precaution = weigh it."
     },
     {
      "x": "**Q4 Long-term health problem (heart, lung, asthma, kidney, metabolic e.g. diabetes, anemia/blood disorder)?** [LAIV] Safety of LAIV not established → **precaution for LAIV** (including asthma in adults).",
-     "s": 1
+     "s": 1,
+     "simple": "**In plain English:** Q4 asks about chronic conditions like heart or lung disease, asthma, kidney disease, diabetes, or blood disorders. This mainly matters for **LAIV** (FluMist), because its safety hasn't been established in these patients, so it's a **precaution** for LAIV, including adults with asthma. **Example:** A 35-year-old with asthma wants the nasal flu vaccine. Steer them to a flu shot instead. **Remember:** Chronic condition = think 'not FluMist,' give an injectable flu vaccine."
     },
     {
      "x": "**Q5 Cancer, leukemia, HIV/AIDS, other immune problem?** [LAIV, MMR, VAR] Live vaccines usually **contraindicated** in immunocompromised. Exception: **MMR recommended and varicella considered** for adults with **CD4 ≥200 cells/µL**. No LAIV for immunosuppressed.",
-     "s": 1
+     "s": 1,
+     "simple": "**In plain English:** Q5 asks about cancer, leukemia, HIV/AIDS, or other immune problems. Live vaccines (LAIV, MMR, varicella) are usually **contraindicated** in immunocompromised people. The exception: adults with HIV and **CD4 ≥200 cells/µL** are recommended to get MMR, and varicella can be considered. **No LAIV** for immunosuppressed patients. **Example:** An adult with HIV and a CD4 count of 450 asks about MMR. That's above 200, so MMR is recommended. **Remember:** Weak immune system = no live, except HIV with CD4 ≥200 for MMR/varicella."
     },
     {
      "x": "**Q6 In past 3 months, immune-weakening meds (cortisone, prednisone, steroids, anticancer drugs) or radiation?** [LAIV, MMR, VAR] Postpone live vaccines until chemo or long-term high-dose steroids have ended. **LAIV only for healthy, non-pregnant people < 50 years.**",
-     "s": 1
+     "s": 1,
+     "simple": "**In plain English:** Q6 asks if, in the past **3 months**, the patient took immune-weakening drugs (prednisone/steroids, cancer drugs) or had radiation. If so, **postpone live vaccines** until chemo or long-term high-dose steroids are finished. Also, **LAIV is only for healthy, non-pregnant people under 50**. **Example:** A patient on long-term high-dose prednisone wants varicella vaccine. Hold off until the steroid course has ended. **Remember:** Recent immune-suppressing treatment = postpone live vaccines."
     },
     {
      "x": "**Q7 Seizure, brain or nervous system problem?** [influenza, Td/Tdap] Tdap **contraindicated** if encephalopathy within **7 days** of DTP/DTaP given before age 7. **Unstable progressive** neuro problem = precaution for Tdap. **Stable** neuro disorder or family history of seizures → vaccinate as usual. GBS within **6 weeks** of tetanus vaccine (if continuing) → give **Tdap instead of Td** if no prior Tdap. GBS within 6 weeks of a flu vaccine → give **IIV** if at high risk of severe flu complications.",
-     "s": 1
+     "s": 1,
+     "simple": "**In plain English:** Q7 screens for brain/nerve problems (flu, Td/Tdap). Tdap is **contraindicated** after **encephalopathy within 7 days** of a childhood DTP/DTaP (before age 7). **Unstable progressive** neuro disease = precaution; **stable** disorders or family seizure history = vaccinate. If **GBS** occurred within **6 weeks** of a tetanus vaccine, give **Tdap instead of Td** if no prior Tdap; after flu-vaccine GBS, give **IIV** if high flu risk. **Example:** A patient with well-controlled epilepsy wants Tdap: vaccinate normally. **Remember:** Stable = go; unstable/progressive = caution."
     },
     {
      "x": "**Q8 In past year, transfusion/blood products, immune (gamma) globulin, or antiviral drug?** [LAIV, MMR, VAR] Live vaccines may need to be **deferred**; check ACIP intervals.",
-     "s": 1
+     "s": 1,
+     "simple": "**In plain English:** Q8 asks about the past year: transfusions, blood products, immune (gamma) globulin, or antiviral drugs. Antibodies in blood products can neutralize live vaccines, and antivirals can stop the weakened live virus (like LAIV or varicella) from working. So live vaccines may need to be **deferred**; check ACIP's recommended intervals. **Example:** A patient got a blood transfusion 4 months ago and wants MMR. Look up the interval before giving it. **Remember:** Recent blood/antibodies/antivirals = check before any live vaccine."
     },
     {
      "x": "**Q9 Pregnant or could become pregnant in the next month?** [MMR, LAIV, VAR] Live vaccines **contraindicated 1 month before and during pregnancy**; women should use careful contraception for **1 month after** a live vaccine. IPV not given in pregnancy unless exposure imminent (e.g., travel). **Td/Tdap not contraindicated** (2nd or 3rd trimester).",
-     "s": 1
+     "s": 1,
+     "simple": "**In plain English:** Q9 asks about pregnancy now or within the next month. Live vaccines (MMR, LAIV, varicella) are **contraindicated 1 month before and during pregnancy**, and women should use contraception for **1 month after** a live vaccine. IPV isn't given in pregnancy unless exposure is imminent (like travel). **Td/Tdap is NOT contraindicated** (given in 2nd or 3rd trimester). **Example:** A pregnant patient at 28 weeks asks about Tdap: give it. She asks about MMR: wait until after delivery. **Remember:** Pregnancy = no live; Tdap is fine."
     },
     {
      "x": "**Q10 Any vaccinations in the past 4 weeks?** [LAIV, MMR, VAR, yellow fever] After LAIV or an injectable live vaccine, **wait 28 days** before another live vaccine. Inactivated vaccines: any spacing.",
-     "s": 1
+     "s": 1,
+     "simple": "**In plain English:** Q10 asks whether the patient had any vaccines in the past **4 weeks**. This matters for live vaccines: after LAIV or an injectable live vaccine, **wait 28 days** before another live vaccine (unless given the same day). Inactivated vaccines can be given at any spacing. **Example:** A traveler got MMR 2 weeks ago and now wants yellow fever. Both are live, so they need to wait until 28 days have passed. **Remember:** Live after live = 28 days; inactivated = any time."
     }
    ]
   },
@@ -244,33 +288,40 @@ E1_DATA.push({
    "pts": [
     {
      "x": "Lab supplies: **IM = 1-inch** (safety hinge) syringes; **SQ = 5/8-inch** (VanishPoint) syringes; band-aids, alcohol pads, cotton balls, gloves, new vials of normal saline. Practice dose = **0.5 mL** saline.",
-     "s": 1
+     "s": 1,
+     "simple": "**In plain English:** These are the lab supplies. **IM** (into the muscle) injections use **1-inch** safety hinge syringes; **SQ** (under the skin) injections use **5/8-inch** VanishPoint syringes. Plus band-aids, alcohol pads, cotton balls, gloves, and new vials of normal saline. The practice dose is **0.5 mL** saline. **Example:** Muscle sits deeper than fat under the skin, so the longer 1-inch needle reaches muscle, while the shorter 5/8-inch needle stays in the fatty layer. **Remember:** IM = 1 inch (longer, deeper); SQ = 5/8 inch (shorter)."
     },
     {
      "x": "Vaccine preparation order: wash hands → check expiration dates → confirm right vaccine → remove protective cap → swab vial top with alcohol → draw air equal to dose volume → insert needle and inject air into vial → invert vial and withdraw dose → ensure no large air bubbles → maintain sterility → recap needle using a **sweeping (one-handed scoop) motion**.",
-     "s": 1
+     "s": 1,
+     "simple": "**In plain English:** This is the order for drawing up a dose: wash hands, check expiration, confirm right vaccine, uncap, swab the vial top, pull air into the syringe equal to the dose, inject that air into the vial, flip the vial and withdraw the dose, remove large air bubbles, stay sterile, and recap with a **one-handed sweeping (scoop) motion** so you don't stick yourself. **Example:** Injecting air first is like letting air into a juice box before sipping; otherwise the vacuum fights you. **Remember:** Check, clean, air in, dose out, scoop-recap."
     },
     {
      "x": "Station: set up all materials and **position the sharps container for YOUR safety**; review proper SQ and IM technique.",
      "s": 1,
-     "note": "REVIEW PROPER TECHNIQUE FOR SQ AND IM DELIVERY!!!!!!!!"
+     "note": "REVIEW PROPER TECHNIQUE FOR SQ AND IM DELIVERY!!!!!!!!",
+     "simple": "**In plain English:** Before injecting, set up everything at your station and **place the sharps container where it keeps YOU safe**, close by so you can drop the needle immediately without reaching across yourself or the patient. Review proper SQ and IM technique ahead of time; your note flags this as a big deal. **Example:** If you're right-handed, put the sharps container on your right, within easy reach, not across the table. **Remember:** Sharps container placement is about your safety, and bad placement is an automatic fail."
     },
     {
      "x": "Gloves on (‘full glove up’). **Handy band-aid technique**: open the band-aid ahead of time and stick it on the back of your gloved hand so it is ready. **Glove garbage removal**: collect wrappers in the gloved hand and pull the glove inside-out over them to discard.",
      "s": 0,
-     "note": "from lab photos (slides 15–16); described from images"
+     "note": "from lab photos (slides 15–16); described from images",
+     "simple": "**In plain English:** These are practical lab tricks. Put gloves on fully. **Handy band-aid technique**: open the band-aid ahead of time and stick it to the back of your gloved hand so it's ready right after the injection. **Glove garbage removal**: gather the wrappers in your gloved hand, then peel the glove inside-out over them so the trash ends up sealed inside. **Example:** Like turning a plastic bag inside out to pick up after a dog: the mess ends up inside the bag. **Remember:** Band-aid ready on the glove; trash wrapped in the glove."
     },
     {
      "x": "Certification: **2 IM injections** (1 VanishPoint, 1 safety hinge needle) + **1 SQ injection**; evaluated with the injection form filled out in lab.",
-     "s": 1
+     "s": 1,
+     "simple": "**In plain English:** To get certified, you must successfully give **3 injections**: **2 IM** (one with a VanishPoint syringe, one with a safety hinge needle) and **1 SQ**. You're graded using the injection assessment form filled out in lab. **Example:** Think of it like a driving test with three required maneuvers; you need to complete each one correctly with the right equipment. **Remember:** 2 IM (VanishPoint + hinge) + 1 SQ = certification."
     },
     {
      "x": "**Automatic fails**: anything unsafe; **injection too high**; **improper sharps container placement**; **improper safety-needle use** (using other hand, not activating in patient, etc.); other serious error; late/unprofessional dress or behavior.",
-     "s": 1
+     "s": 1,
+     "simple": "**In plain English:** Some mistakes mean you fail automatically: anything unsafe, giving the injection **too high** on the arm, **bad sharps container placement**, **improper use of the safety needle** (like using your other hand or not activating it while still in the patient), other serious errors, or late/unprofessional dress or behavior. **Example:** You inject perfectly but then use your free hand to snap the safety cover; that's an automatic fail. **Remember:** Too high, bad sharps spot, wrong safety-needle use = automatic fail."
     },
     {
      "x": "Do NOT inject your partner unless a TA/faculty is watching; have syringe verified first; you are injected with the syringes YOU prepared.",
-     "s": 0
+     "s": 0,
+     "simple": "**In plain English:** Lab safety rules: never inject your partner unless a TA or faculty member is watching, have your syringe checked first, and know that you'll be injected with the syringe **you** prepared. This keeps everyone safe and makes you careful. **Example:** Like a parachute class where you pack your own chute: you'll be extra careful getting it right. **Remember:** Supervisor watching + syringe verified before any injection."
     }
    ]
   },
@@ -280,27 +331,33 @@ E1_DATA.push({
    "pts": [
     {
      "x": "APhA Injection Technique Assessment Form checks: appropriate syringe size, needle gauge, needle length; proper site; site prep; stabilizes patient; holds syringe correctly; inserts needle **to hub in smooth motion**; withdraws appropriately; **activates safety mechanism**; disposes in sharps **immediately**; site care; clean/sterile work space; documents injection.",
-     "s": 1
+     "s": 1,
+     "simple": "**In plain English:** The APhA assessment form is the checklist graders use. It checks you picked the right syringe, needle gauge (thickness), and length; chose and prepped the right site; stabilized the patient; held the syringe correctly; inserted the needle **to the hub in one smooth motion**; withdrew properly; **activated the safety mechanism**; tossed the sharp **immediately**; did site care; kept a clean workspace; and documented. **Example:** Like a pilot's pre-flight checklist: every step gets a tick mark. **Remember:** Smooth to the hub, activate safety, sharps right away, document."
     },
     {
      "x": "Documentation columns: **date given, vaccine given, lot #, manufacturer, dose, route, site, date on VIS, date VIS given**; plus signature of immunizing pharmacist.",
-     "s": 1
+     "s": 1,
+     "simple": "**In plain English:** Every vaccine you give must be documented with: **date given, vaccine given, lot number, manufacturer, dose, route, site, the date printed on the VIS, and the date the VIS was given**, plus the immunizing pharmacist's signature. This creates a record for safety tracking and recalls. **Example:** If a vaccine lot is later recalled, the lot number lets you find exactly who got it. **Remember:** What, when, where, how much, which lot, who made it, which VIS, who gave it."
     },
     {
      "x": "Form rules: ‘Your Name’ = learner assessed; ‘Recipient’s Name’ = partner; fill **all** columns on all three lines; vaccine given must not be fake; site ‘RA’ is broad – be more specific if state requires; Signature of Immunizing Pharmacist = learner.",
-     "s": 0
+     "s": 0,
+     "simple": "**In plain English:** Rules for filling out the lab form: 'Your Name' is you (the learner being assessed), 'Recipient's Name' is your partner, fill in **every** column on all three lines, use a real vaccine name (not made up), be more specific than just 'RA' (right arm) if your state requires it, and you sign as the immunizing pharmacist. **Example:** Writing 'R deltoid' instead of only 'RA' shows exactly where the shot went. **Remember:** Fill everything, be specific, you sign."
     },
     {
      "x": "**VIS** = Vaccine Information Statement (current versions on CDC website). The ‘**Date on VIS**’ is printed at the **bottom of the 2nd page** (e.g., inactivated influenza VIS 8/6/2021).",
-     "s": 1
+     "s": 1,
+     "simple": "**In plain English:** A **VIS** (Vaccine Information Statement) is the official CDC handout explaining a vaccine's benefits and risks, which patients must receive. Get current versions from the CDC website. The **'Date on VIS'** for documentation is printed at the **bottom of the 2nd page** (example: the inactivated influenza VIS dated 8/6/2021). **Example:** When documenting a flu shot, flip to page 2's bottom to copy the VIS date. **Remember:** VIS = CDC patient handout; date is at the bottom of page 2."
     },
     {
      "x": "VIS content example (flu): report adverse reactions to **VAERS**; injury compensation via **VICP**; severe allergic reaction after leaving clinic → call 911.",
-     "s": 0
+     "s": 0,
+     "simple": "**In plain English:** The VIS tells patients what to do if something goes wrong. Adverse reactions are reported to **VAERS** (Vaccine Adverse Event Reporting System). Vaccine injuries may be compensated through **VICP** (Vaccine Injury Compensation Program). A severe allergic reaction after leaving the clinic means **call 911**. **Example:** A patient gets home and develops hives and trouble breathing: call 911 first; the reaction can later be reported to VAERS. **Remember:** VAERS = report; VICP = compensation; emergency = 911."
     },
     {
      "x": "Clinic administration form: **Allergies and Reaction box – DO NOT leave blank** (write none); patient signs certifying they received the current CDC VIS.",
-     "s": 1
+     "s": 1,
+     "simple": "**In plain English:** On the clinic administration form, the **Allergies and Reaction box must never be left blank**. If the patient has none, write 'none,' so it's clear you asked. The patient also signs to confirm they received the current CDC VIS. **Example:** A blank allergy box could mean 'no allergies' or 'forgot to ask,' and nobody can tell the difference. Writing 'none' removes the doubt. **Remember:** Never blank; write 'none.'"
     }
    ]
   },
@@ -311,38 +368,46 @@ E1_DATA.push({
     {
      "x": "Recommendation process: **FDA approval → ACIP recommendation → CDC Director approval**. FDA licenses based on manufacturer data; ACIP also weighs disease burden, data gaps, health impact, cost-effectiveness (GRADE approach; strong vs conditional).",
      "s": 0,
-     "note": "FDA licenses; ACIP looks at the trials from FDA"
+     "note": "FDA licenses; ACIP looks at the trials from FDA",
+     "simple": "**In plain English:** Vaccine recommendations follow a 3-step path: **FDA approval** (licenses the vaccine as safe and effective, based on the manufacturer's data) → **ACIP recommendation** (the expert committee decides who should get it, also weighing disease burden, data gaps, health impact, and cost-effectiveness using the GRADE approach, rated strong or conditional) → **CDC Director approval**. **Example:** Like a new car: the safety agency approves it for the road, experts decide who it's best for, then the boss signs off. **Remember:** FDA → ACIP → CDC Director."
     },
     {
      "x": "ACIP: up to 19 voting members, meets ≥3×/year; recommendations drive VFC, school requirements, insurance coverage, **provider scope of practice**, standing orders.",
      "s": 0,
-     "note": "states broke from ACIP"
+     "note": "states broke from ACIP",
+     "simple": "**In plain English:** **ACIP** (Advisory Committee on Immunization Practices) has up to 19 voting members and meets at least 3 times a year. Its recommendations matter a lot in practice: they drive the Vaccines for Children program, school requirements, insurance coverage, **what pharmacists are allowed to give (scope of practice)**, and standing orders. (Your note: some states have broken from ACIP.) **Example:** If ACIP recommends a vaccine for a group, insurers typically cover it and pharmacists in many states can give it. **Remember:** ACIP recommendations decide coverage and pharmacist scope."
     },
     {
      "x": "Recommendation categories: **Routine** (everyone), **High-risk** (special populations), **Shared clinical decision-making** (provider incl. pharmacist + patient).",
-     "s": 1
+     "s": 1,
+     "simple": "**In plain English:** ACIP recommendations come in three types. **Routine**: everyone in an age group should get it. **High-risk**: only for special populations with certain conditions or exposures. **Shared clinical decision-making**: no blanket rule; the provider (including a pharmacist) and patient decide together. **Example:** A flu shot for adults is routine; a vaccine only for people with a certain medical condition is high-risk; a vaccine where you talk through pros and cons with the patient is shared decision-making. **Remember:** Everyone / special groups / decide together."
     },
     {
      "x": "CDC has **two schedules: child/adolescent and adult**. Child schedule: Table 1 age, Table 2 **catch-up** (minimum intervals), Table 3 medical indication, Notes, Appendix (contraindications/precautions), Addendum.",
      "s": 1,
-     "note": "know diff between child and adult; catch-up not tested but be able to read charts"
+     "note": "know diff between child and adult; catch-up not tested but be able to read charts",
+     "simple": "**In plain English:** CDC publishes **two schedules**: one for **children/adolescents** and one for **adults**. The child schedule has Table 1 (by age), Table 2 (**catch-up** with minimum intervals), Table 3 (by medical condition), Notes, an Appendix (contraindications/precautions), and an Addendum. Catch-up isn't tested, but you should be able to read the charts. **Example:** A 10-year-old missed shots: Table 2 shows the minimum spacing to catch up. **Remember:** Two schedules; child has age, catch-up, condition tables + Notes + Appendix."
     },
     {
      "x": "How to use: 1) recommended vaccines by age (Table 1) → 2) catch-up interval (Table 2) → 3) medical conditions (Table 3) → 4) Notes → 5) contraindications/precautions (Appendix). **Always read the Notes.**",
-     "s": 1
+     "s": 1,
+     "simple": "**In plain English:** To use the schedule: 1) check which vaccines are due by **age** (Table 1), 2) check **catch-up** intervals (Table 2), 3) check **medical conditions** (Table 3), 4) read the **Notes**, 5) check **contraindications/precautions** (Appendix). The details that change the answer are usually in the Notes. **Example:** The age table says a vaccine is due, but the Notes explain how many doses depend on prior history. **Remember:** Age → catch-up → condition → Notes → Appendix, and ALWAYS read the Notes."
     },
     {
      "x": "Age-table colors: **yellow** = recommended age for all; yellow with spots = can begin in this age group; **green** = catch-up; **purple** = high-risk/additional indication; **blue** = shared clinical decision-making; **gray** = no guidance.",
-     "s": 1
+     "s": 1,
+     "simple": "**In plain English:** Colors on the age table tell you who should get what. **Yellow** = recommended for everyone at that age; yellow with spots = can start in this age group; **green** = catch-up; **purple** = high-risk/extra indication; **blue** = shared clinical decision-making; **gray** = no guidance. **Example:** A yellow box at 12–15 months means every child that age should get it; a purple box means only children with certain risk conditions. **Remember:** Yellow all, green catch-up, purple high-risk, blue shared decision, gray nothing."
     },
     {
      "x": "Medical-condition colors: yellow = recommended; blue = SCDM; purple = some based on age/risk; **brown** = recommended + extra doses may be needed; **orange = precaution**; **red = not recommended/contraindicated** (*vaccinate after pregnancy); gray = N/A.",
      "s": 1,
-     "note": "live vaccines are contraindicated for pregnancy (red boxes)"
+     "note": "live vaccines are contraindicated for pregnancy (red boxes)",
+     "simple": "**In plain English:** The medical-condition table uses colors too: yellow = recommended; blue = shared decision; purple = some patients by age/risk; **brown** = recommended plus maybe extra doses; **orange = precaution**; **red = not recommended/contraindicated** (with an asterisk meaning vaccinate after pregnancy); gray = not applicable. **Example:** Look at the pregnancy column: live vaccines like MMR show red, meaning don't give during pregnancy, vaccinate after. **Remember:** Red = stop, orange = caution, brown = extra doses."
     },
     {
      "x": "Other organizations: AAP (pediatric), ACOG (pregnancy), AAFP, ACP (adult narrative), IDSA (condition-based). Comparison table ‘not tested on this but good to know’.",
-     "s": 0
+     "s": 0,
+     "simple": "**In plain English:** Other groups also publish vaccine guidance: **AAP** (pediatrics), **ACOG** (obstetricians, pregnancy), **AAFP** (family physicians), **ACP** (internists, adult narrative guidance), and **IDSA** (infectious disease, organized by condition). Your lecture said the comparison table is not tested but good to know. **Example:** A pregnant patient's OB may follow ACOG guidance; a pediatrician may follow AAP. **Remember:** Know the names exist; the comparison isn't on the test."
     }
    ]
   },
@@ -353,39 +418,47 @@ E1_DATA.push({
     {
      "x": "Types: **IIV3** standard egg-based; **ccIIV3** cell culture (Flucelvax, not egg); **aIIV3** adjuvanted with MF59 (Fluad, ≥65); **HD-IIV3** high-dose, 4× antigen (Fluzone High-Dose, ≥65); **RIV3** recombinant (Flublok, ≥9 y, 45 µg HA); **LAIV3** live intranasal (FluMist, 2–49 y).",
      "s": 1,
-     "note": "need to know: the abbreviations and what they mean******; trivalent = 3 strains"
+     "note": "need to know: the abbreviations and what they mean******; trivalent = 3 strains",
+     "simple": "**In plain English:** Know each flu vaccine abbreviation (trivalent = 3 strains). **IIV3**: standard, egg-based. **ccIIV3**: grown in cell culture, not eggs (Flucelvax). **aIIV3**: has adjuvant MF59 (Fluad, ≥65). **HD-IIV3**: high-dose, 4× antigen (Fluzone High-Dose, ≥65). **RIV3**: recombinant (Flublok, ≥9 y, 45 µg HA). **LAIV3**: live nasal spray (FluMist, 2–49 y). **Example:** A 70-year-old would get the 'a' or 'HD' or 'R' version. **Remember:** cc = cells, a = adjuvant, HD = high-dose, R = recombinant, LA = live."
     },
     {
      "x": "Doses: IIV IM 0.5 mL (Afluria 6–35 mo **0.25 mL**; Fluzone 6–35 mo 0.25 or 0.5 mL); FluMist **0.2 mL (1 spray each nostril)**.",
-     "s": 0
+     "s": 0,
+     "simple": "**In plain English:** Flu shot doses: injectable IIV is **0.5 mL IM**. Exceptions for young kids 6–35 months: Afluria is **0.25 mL**, and Fluzone can be 0.25 or 0.5 mL. FluMist is **0.2 mL total, given as 1 spray in each nostril**. **Example:** For an adult flu shot, draw up 0.5 mL; for FluMist, split the 0.2 mL dose between both nostrils. **Remember:** Most shots 0.5 mL; Afluria tiny kids 0.25 mL; FluMist 0.2 mL split between nostrils."
     },
     {
      "x": "Children **6 mo–8 y**: if NOT ≥2 prior doses before July 1, 2026 (or unknown) → **2 doses ≥4 weeks apart**; otherwise 1 dose.",
      "s": 1,
-     "note": "children under 9 need 2 doses 4 weeks apart"
+     "note": "children under 9 need 2 doses 4 weeks apart",
+     "simple": "**In plain English:** Kids **6 months to 8 years** who have NOT had at least 2 flu doses before July 1, 2026 (or whose history is unknown) need **2 doses at least 4 weeks apart** this season. If they've had 2 or more prior doses, they need just 1. Young immune systems need a 'primer' dose first. **Example:** A 4-year-old getting a flu vaccine for the first time comes back 4 weeks later for dose 2. **Remember:** Under 9 and not 2 prior doses = 2 doses, 4 weeks apart."
     },
     {
      "x": "**Precaution: egg allergy** (any flu vaccine can be used). Contraindication: severe hypersensitivity to a component. **LAIV only** contraindications: pregnancy, immunocompromise, HIV, asplenia, complement disorders, children <5 with recurrent wheezing, asthma, aspirin/salicylates, influenza antivirals.",
      "s": 1,
-     "note": "egg allergy is just a precaution"
+     "note": "egg allergy is just a precaution",
+     "simple": "**In plain English:** Per your lecture, **egg allergy is only a precaution**, and any flu vaccine can be used. The real contraindication for all flu vaccines is severe hypersensitivity to a component. **LAIV only** has extra contraindications: pregnancy, immunocompromise, HIV, asplenia, complement disorders, children under 5 with recurrent wheezing, asthma, aspirin/salicylate use, and recent flu antivirals. **Example:** A patient on aspirin wants FluMist: give a flu shot instead. **Remember:** Egg allergy ≠ no flu vaccine; LAIV has the long 'no' list."
     },
     {
      "x": "Adults ≥65: **HD-IIV3, aIIV3, or RIV3** preferred (any age-appropriate vaccine if unavailable). 19–64: age-appropriate vaccine; SOT recipients on immunosuppression: HD-IIV3 or aIIV3 acceptable.",
      "s": 1,
-     "note": "RIV3 for over 65… know the difference; recommend high dose for >65 because weaker immune system but they can still get the regular dose"
+     "note": "RIV3 for over 65… know the difference; recommend high dose for >65 because weaker immune system but they can still get the regular dose",
+     "simple": "**In plain English:** Adults **≥65** should preferably get **HD-IIV3** (high-dose), **aIIV3** (adjuvanted), or **RIV3** (recombinant), because their immune systems respond weaker and these give a stronger response. If none are available, any age-appropriate flu vaccine is fine. Ages 19–64 get any age-appropriate vaccine; solid organ transplant patients on immunosuppression may get HD-IIV3 or aIIV3. **Example:** A 72-year-old comes in and you only have standard IIV3 left: give it rather than send them away. **Remember:** 65+ = high-dose, adjuvanted, or recombinant preferred."
     },
     {
      "x": "Timing: **September or October** for most; continue through season while virus circulates and vaccine unexpired. July/August only for 3rd-trimester pregnancy, children <9 needing 2 doses, or if later vaccination may not be possible.",
      "s": 1,
-     "note": "no earlier than Sept; keep giving until it runs out/expires (June)"
+     "note": "no earlier than Sept; keep giving until it runs out/expires (June)",
+     "simple": "**In plain English:** Most people should get flu vaccine in **September or October**, and you keep vaccinating through the season as long as the virus is circulating and the vaccine hasn't expired. July/August is only for third-trimester pregnancy, kids under 9 needing 2 doses, or people who may not be able to get it later. **Example:** A patient asks for a flu shot in January. Still give it; it's not too late. **Remember:** Sept/Oct ideal; keep going all season; early only for special cases."
     },
     {
      "x": "Adverse effects: injection site pain/erythema; systemic H/A, fatigue, syncope; uncommon anaphylaxis, GBS, febrile seizures. LAIV: runny nose, congestion; wheezing risk in <5 with recurrent wheezing/asthma.",
-     "s": 0
+     "s": 0,
+     "simple": "**In plain English:** Common flu shot side effects: sore, red injection site; headache, tiredness, and fainting (syncope). Uncommon: anaphylaxis, Guillain-Barré syndrome (GBS), febrile seizures. FluMist commonly causes runny nose and congestion, and can cause wheezing in children under 5 with recurrent wheezing or asthma. **Example:** A patient feels lightheaded right after the shot. Have them sit, since fainting is a known effect. **Remember:** Shot = sore arm; FluMist = runny nose; serious reactions are rare."
     },
     {
      "x": "FluMist Home: use within **12 hours** outside refrigerator; children <18 should not self-administer.",
-     "s": 0
+     "s": 0,
+     "simple": "**In plain English:** FluMist Home lets people give the nasal spray at home. Once out of the refrigerator, it must be used within **12 hours**. Children under **18** should not give it to themselves; an adult should do it. **Example:** A parent gets FluMist Home delivered and leaves it on the counter overnight; if it's been out more than 12 hours, it shouldn't be used. **Remember:** 12 hours out of the fridge; under 18 doesn't self-administer."
     }
    ]
   },
@@ -395,30 +468,36 @@ E1_DATA.push({
    "pts": [
     {
      "x": "Products: **PPSV23** (Pneumovax, IM or SC); **PCV15** (Vaxneuvance, ≥6 wk); **PCV20** (Prevnar 20, ≥6 wk); **PCV21** (Capvaxive, ≥18 y). All 0.5 mL. **Not live.**",
-     "s": 1
+     "s": 1,
+     "simple": "**In plain English:** Pneumococcal vaccine products: **PPSV23** (Pneumovax, IM or SC), **PCV15** (Vaxneuvance, from 6 weeks), **PCV20** (Prevnar 20, from 6 weeks), **PCV21** (Capvaxive, adults ≥18). All are **0.5 mL** and **none are live**. The number is how many pneumococcal strains it covers. **Example:** A patient with a weak immune system can still get pneumococcal vaccines since they're not live. **Remember:** PPSV = sugar only; PCV = conjugate; number = strains; all 0.5 mL, not live."
     },
     {
      "x": "Precaution: immunosuppressive therapy may reduce efficacy. Contraindication: severe hypersensitivity to a component.",
-     "s": 0
+     "s": 0,
+     "simple": "**In plain English:** For pneumococcal vaccines, the **precaution** is immunosuppressive therapy: the vaccine is still safe, but the patient may not respond as strongly. The **contraindication** is a severe allergic reaction to a vaccine component. **Example:** A patient on high-dose steroids can still get PCV20; they just might get a weaker response. **Remember:** Immunosuppression = may work less well (precaution); severe allergy = don't give (contraindication)."
     },
     {
      "x": "Children: routine **PCV15 or PCV20 at 2, 4, 6, 12–15 months**; healthy 24–59 mo with incomplete series → 1 dose. Risk conditions: if PCV15 used, PPSV23 ≥8 weeks later.",
-     "s": 0
+     "s": 0,
+     "simple": "**In plain English:** Babies routinely get **PCV15 or PCV20 at 2, 4, 6, and 12–15 months**. Healthy kids 24–59 months who didn't finish the series get **1 dose**. Kids with risk conditions who got PCV15 should also get PPSV23 at least **8 weeks** later. **Example:** A healthy 3-year-old who only got two infant doses needs just one more PCV dose. **Remember:** Infant series 2-4-6-12/15 months; healthy 2–4-year-old catch-up = 1 dose."
     },
     {
      "x": "Adults **≥50** and **19–64 with risk conditions** (e.g., diabetes, smoking, alcoholism, chronic heart/lung/liver disease, CKD, asplenia, HIV, CSF leak, cochlear implant): **PCV20 or PCV21 alone**, OR **PCV15 → PPSV23 ≥1 year later** (≥8 weeks if immunocompromised, CSF leak, cochlear implant).",
      "s": 1,
-     "note": "20 or 21 means you're done; 13 or 15 need 'sprinkles' one year apart; if in doubt, 20 or 21 it out"
+     "note": "20 or 21 means you're done; 13 or 15 need 'sprinkles' one year apart; if in doubt, 20 or 21 it out",
+     "simple": "**In plain English:** Adults **≥50**, and adults **19–64 with risk conditions** (diabetes, smoking, alcoholism, chronic heart/lung/liver disease, CKD, asplenia, HIV, CSF leak, cochlear implant), get either **PCV20 or PCV21 alone** (done), OR **PCV15 followed by PPSV23 at least 1 year later** (≥8 weeks if immunocompromised, CSF leak, or cochlear implant). **Example:** A 55-year-old with no prior pneumococcal vaccine gets one PCV20 and is finished. **Remember:** 'If in doubt, 20 or 21 it out'; PCV15 needs PPSV23 'sprinkles' later."
     },
     {
      "x": "PPSV23 only (prior) → PCV20/21 ≥1 year later. PCV13 only → PCV20/21 ≥1 year later.",
      "s": 1,
-     "note": "PPSV23 by itself is useless, need 20"
+     "note": "PPSV23 by itself is useless, need 20",
+     "simple": "**In plain English:** For adults who already got an older pneumococcal vaccine: if they had **only PPSV23**, give **PCV20 or PCV21 at least 1 year later**. If they had **only PCV13**, also give **PCV20 or PCV21 at least 1 year later**. PPSV23 alone isn't enough protection. **Example:** A 68-year-old got PPSV23 two years ago and nothing else. Give PCV20 or PCV21 today. **Remember:** Old single vaccine (PPSV23 or PCV13) → PCV20/21 at ≥1 year."
     },
     {
      "x": "Case: 19-year-old with diabetes, no prior pneumococcal vaccine → **PCV20 × 1 dose**.",
      "s": 1,
-     "note": "diabetes is a condition; PCV20 one and done"
+     "note": "diabetes is a condition; PCV20 one and done",
+     "simple": "**In plain English:** This is a classic case. A **19-year-old with diabetes** has a risk condition, so they qualify for pneumococcal vaccine even though they're young. With no prior pneumococcal vaccine, the simplest choice is **PCV20 × 1 dose**, and they're done. **Example:** Think of diabetes as a ticket that lets a young adult into the 'needs pneumococcal' group early. **Remember:** Diabetes = risk condition; PCV20 = one and done."
     }
    ]
   },
@@ -429,29 +508,35 @@ E1_DATA.push({
     {
      "x": "**Monoclonal antibodies** (nirsevimab/Beyfortus, clesrovimab/Enflonsia) = **passive** immunity for infants, last ~5 months. **Vaccines**: protein (Arexvy, Abrysvo) or mRNA (mResvia).",
      "s": 1,
-     "note": "mAb is just for kids; babies DO NOT get vaccine – mom gets vaccine"
+     "note": "mAb is just for kids; babies DO NOT get vaccine – mom gets vaccine",
+     "simple": "**In plain English:** RSV protection comes in two forms. **Monoclonal antibodies** (nirsevimab/Beyfortus, clesrovimab/Enflonsia) give infants ready-made antibodies: **passive** immunity lasting about **5 months**. **Vaccines** train your own immune system: protein-based (Arexvy, Abrysvo) or mRNA (mResvia). Babies don't get the vaccine; mom can get it during pregnancy instead. **Example:** A newborn gets nirsevimab to get through RSV season; her 80-year-old grandma gets Arexvy. **Remember:** Antibody shot = babies (passive); vaccine = adults/pregnant moms."
     },
     {
      "x": "Nirsevimab 1st season: **50 mg if <5 kg**, **100 mg if ≥5 kg**; 2nd season (high-risk 8–19 mo): **200 mg (2 × 100 mg)** IM. Clesrovimab: 105 mg/0.7 mL IM regardless of weight.",
-     "s": 1
+     "s": 1,
+     "simple": "**In plain English:** Nirsevimab dosing by weight in the **first season**: **50 mg if under 5 kg**, **100 mg if 5 kg or more**. In the **second season** (high-risk kids 8–19 months): **200 mg**, given as **2 × 100 mg** IM injections. Clesrovimab is simpler: **105 mg/0.7 mL IM no matter the weight**. **Example:** A 4.2 kg baby in first season gets 50 mg; a 6 kg baby gets 100 mg. **Remember:** Under 5 kg = 50, 5 kg+ = 100, 2nd season = 200 (two 100s); clesrovimab = 105 for all."
     },
     {
      "x": "Infant mAb if <8 months entering first RSV season AND mom did not get RSV vaccine, status unknown, or infant born <14 days after maternal vaccine. Born in season → within 1 week of birth.",
-     "s": 0
+     "s": 0,
+     "simple": "**In plain English:** Infants **under 8 months** entering their first RSV season should get the antibody if mom **didn't get the RSV vaccine**, her status is **unknown**, or the baby was born **less than 14 days** after mom's vaccine (not enough time for antibodies to pass). Babies born during the season get it **within 1 week of birth**. **Example:** Mom got Abrysvo 10 days before delivery, so the newborn still gets nirsevimab. **Remember:** No/unknown/too-recent maternal vaccine = give infant antibody."
     },
     {
      "x": "Maternal: **Abrysvo ONLY** in pregnancy, at **32–36 weeks**, given **September–January**. Mom OR infant antibody – most infants don’t need both.",
      "s": 1,
-     "note": "Abrysvo is the ONLY brand approved for pregnant women; DO NOT give pregnant woman Arexvy – that is wrong and needs to be reported"
+     "note": "Abrysvo is the ONLY brand approved for pregnant women; DO NOT give pregnant woman Arexvy – that is wrong and needs to be reported",
+     "simple": "**In plain English:** **Abrysvo is the ONLY RSV vaccine for pregnancy**, given at **32–36 weeks** during **September–January**. Mom's antibodies cross the placenta to protect the baby. Most babies need either mom's vaccine OR the infant antibody, not both. Giving Arexvy to a pregnant patient is an error that must be reported. **Example:** A patient 34 weeks pregnant in October: give Abrysvo. **Remember:** Pregnant = Abrysvo only, 32–36 weeks, Sept–Jan."
     },
     {
      "x": "Adults: **all ≥75** get RSV vaccine; **50–74 at increased risk** (e.g., chronic heart/lung disease, diabetes with end-organ damage, severe obesity, nursing home) get **one dose**. One and done – no repeat this year. Best given late summer/early fall.",
      "s": 1,
-     "note": "ALL PT 75 OLDER NEED RSV; younger than 50 don't get"
+     "note": "ALL PT 75 OLDER NEED RSV; younger than 50 don't get",
+     "simple": "**In plain English:** **Everyone 75 and older** should get an RSV vaccine. Adults **50–74 at increased risk** (chronic heart/lung disease, diabetes with organ damage, severe obesity, nursing home residents) get **one dose**. It's one and done, not yearly, and ideally given late summer/early fall. Under 50 don't get it (per your note). **Example:** An 80-year-old healthy patient: give it. A 60-year-old with COPD: give it. A healthy 60-year-old: not recommended. **Remember:** All 75+; 50–74 only if high risk; one dose."
     },
     {
      "x": "Do NOT give Abrysvo/Arexvy/mResvia to infants; do NOT give RSV antibody to older adults. Shingrix contains the same adjuvant as Arexvy.",
-     "s": 0
+     "s": 0,
+     "simple": "**In plain English:** Don't mix up the RSV products. RSV **vaccines** (Abrysvo, Arexvy, mResvia) are **not for infants**, and RSV **antibodies** (nirsevimab, clesrovimab) are **not for older adults**. Also, Shingrix contains the same adjuvant as Arexvy. **Example:** A pharmacy tech pulls Beyfortus for a 78-year-old. Stop: that's the baby antibody; he needs an RSV vaccine. **Remember:** Babies get antibodies; adults get vaccines; never swap."
     }
    ]
   },
@@ -461,25 +546,30 @@ E1_DATA.push({
    "pts": [
     {
      "x": "Types: **mRNA** (Comirnaty, Spikevax, mNEXSPIKE) and **protein-based** with adjuvant (Nuvaxovid). 2026–27 composition: monovalent **XFG-lineage**.",
-     "s": 0
+     "s": 0,
+     "simple": "**In plain English:** COVID-19 vaccines come in two types: **mRNA** (Comirnaty, Spikevax, mNEXSPIKE), which gives your cells instructions to make a spike protein for the immune system to learn, and **protein-based** with an adjuvant (Nuvaxovid), which delivers the protein directly. The 2026–27 version is **monovalent** (one strain), targeting the **XFG lineage**. **Example:** mRNA is like sending a recipe; protein-based is like sending the finished dish. **Remember:** mRNA = Comirnaty, Spikevax, mNEXSPIKE; protein = Nuvaxovid; 2026–27 = XFG."
     },
     {
      "x": "Labeled: 65+ and younger people with ≥1 high-risk condition. Comirnaty 5–11 y 0.3 mL (10 mcg); ≥12 y 0.3 mL (30 mcg). Spikevax 6 mo–11 y 0.25 mL; ≥12 y 0.5 mL.",
-     "s": 0
+     "s": 0,
+     "simple": "**In plain English:** COVID vaccines are labeled for people **65+** and younger people with **at least 1 high-risk condition**. Doses: Comirnaty ages 5–11 is **0.3 mL (10 mcg)** and ≥12 is **0.3 mL (30 mcg)**: same volume, different strength. Spikevax 6 months–11 years is **0.25 mL**, ≥12 is **0.5 mL**. **Example:** Comirnaty kids vs. adults are both 0.3 mL, so you must check the strength (10 vs 30 mcg) carefully. **Remember:** Comirnaty: same 0.3 mL, 10 vs 30 mcg; Spikevax: 0.25 vs 0.5 mL."
     },
     {
      "x": "**People ≥65, and people moderately/severely immunocompromised: 2 doses spaced 6 months apart (minimum 2 months).**",
      "s": 1,
-     "note": "over 65 recommended to get 2 doses; min interval 2 months, should be 6 months later***"
+     "note": "over 65 recommended to get 2 doses; min interval 2 months, should be 6 months later***",
+     "simple": "**In plain English:** Per your lecture, people **65 and older** and people who are **moderately or severely immunocompromised** should get **2 doses spaced 6 months apart**, with an absolute minimum of **2 months** between them. Their immune protection fades faster, so a second dose helps. **Example:** A 70-year-old got a COVID dose in October; plan the second for about April, and no earlier than December. **Remember:** 65+ or immunocompromised = 2 doses, 6 months apart (min 2 months)."
     },
     {
      "x": "After infection, may consider delaying dose **3 months**. Use same manufacturer when possible. Can be co-administered with other vaccines (incl. flu).",
-     "s": 0
+     "s": 0,
+     "simple": "**In plain English:** After a COVID infection, a patient **may consider waiting 3 months** before their next dose, since the infection itself gives some temporary protection. Use the **same manufacturer** when possible for a series. COVID vaccine can be given on the same day as other vaccines, **including flu**. **Example:** A patient had COVID 6 weeks ago and asks about their vaccine. They can consider waiting until about 3 months after infection. **Remember:** Recent infection = may delay 3 months; co-administration with flu is fine."
     },
     {
      "x": "Safety: myocarditis/pericarditis rare (identified for mRNA); GBS uncommon. Pregnancy is a high-risk condition.",
      "s": 0,
-     "note": "pregnant patients need to get COVID vaccines"
+     "note": "pregnant patients need to get COVID vaccines",
+     "simple": "**In plain English:** COVID vaccine safety: **myocarditis/pericarditis** (heart muscle or heart lining inflammation) is rare and was identified with mRNA vaccines; **GBS** is uncommon. **Pregnancy counts as a high-risk condition**, so pregnant patients should get COVID vaccines. **Example:** A pregnant patient asks if she qualifies for a COVID vaccine even though she's young and healthy. Yes: pregnancy itself makes her high-risk. **Remember:** Rare heart inflammation with mRNA; pregnancy = high-risk = vaccinate."
     }
    ]
   },
@@ -490,24 +580,29 @@ E1_DATA.push({
     {
      "x": "**DTaP** (Daptacel, Infanrix): kids **6 weeks–6 years**, capital D and P = higher diphtheria/pertussis antigen. **Tdap** (Adacel 10–64 y, Boostrix ≥10 y): adults/adolescents, ~1/3 diphtheria dose. All 0.5 mL IM, aluminum adjuvant.",
      "s": 1,
-     "note": "capital letter = higher doses"
+     "note": "capital letter = higher doses",
+     "simple": "**In plain English:** **DTaP** (Daptacel, Infanrix) is for kids **6 weeks–6 years**; capital D and P mean **higher** diphtheria and pertussis antigen. **Tdap** (Adacel ages 10–64, Boostrix ≥10) is for adolescents/adults, with lowercase d and p meaning smaller doses (about 1/3 the diphtheria). All are **0.5 mL IM** with aluminum adjuvant. **Example:** A 4-year-old gets DTaP; a 30-year-old gets Tdap. **Remember:** Capital letters = bigger doses = little kids; lowercase = older people."
     },
     {
      "x": "Contraindications: severe hypersensitivity; **encephalopathy within 7 days** of pertussis vaccine; progressive neurologic disorder until stabilized. DTaP precautions: fever ≥40.5 °C, hypotonic-hyporesponsive episode, inconsolable crying within 48 h, seizure within 3 days.",
-     "s": 1
+     "s": 1,
+     "simple": "**In plain English:** Don't give DTaP/Tdap with severe allergy to it, **encephalopathy (brain dysfunction) within 7 days** of a prior pertussis vaccine, or a progressive neurologic disorder until it's stable. DTaP precautions: fever **≥40.5 °C**, a hypotonic-hyporesponsive episode (floppy and unresponsive), inconsolable crying within **48 h**, or seizure within **3 days** of a prior dose. **Example:** A baby cried nonstop for hours the day after DTaP. That's a precaution for the next dose. **Remember:** Encephalopathy within 7 days = contraindication."
     },
     {
      "x": "Recommendations: 7–10 y not fully vaccinated → 1 Tdap; ≥11 y no Tdap record → **1 Tdap then Td or Tdap every 10 years**; ≥65 → **Boostrix** preferred (use Adacel rather than miss opportunity).",
-     "s": 1
+     "s": 1,
+     "simple": "**In plain English:** Children **7–10** not fully vaccinated get **1 Tdap**. Anyone **≥11** with no Tdap record gets **1 Tdap**, then **Td or Tdap every 10 years**. For adults **≥65**, **Boostrix** is preferred, but if only Adacel is available, give it rather than miss the chance. **Example:** A 40-year-old has no record of Tdap: give Tdap today, then a booster in 10 years. **Remember:** One Tdap, then boost every 10 years; 65+ prefer Boostrix."
     },
     {
      "x": "**Pregnancy: Tdap EVERY pregnancy, preferably 27–36 weeks**; if missed, give postpartum. **Cocooning**: vaccinate family/caregivers of infant.",
      "s": 1,
-     "note": "EVERY PREGNANCY; 27–36 for Tdap, 32 for RSV; pertussis = whooping cough"
+     "note": "EVERY PREGNANCY; 27–36 for Tdap, 32 for RSV; pertussis = whooping cough",
+     "simple": "**In plain English:** Pregnant women get **Tdap in EVERY pregnancy**, ideally at **27–36 weeks**, so antibodies pass to the baby before birth and protect against pertussis (whooping cough). If missed, give it after delivery. **Cocooning** means vaccinating family and caregivers around the baby so nobody brings pertussis home. **Example:** A mom who got Tdap in her first pregnancy two years ago still needs it again at 28 weeks now. **Remember:** Every pregnancy, 27–36 weeks (RSV is 32–36); cocoon the family."
     },
     {
      "x": "Wound management: no Tdap record → Tdap; previously had Tdap → Td or Tdap.",
-     "s": 0
+     "s": 0,
+     "simple": "**In plain English:** For wound care (like stepping on a rusty nail), tetanus protection matters. If the patient has **no record of Tdap**, give **Tdap**. If they've **already had Tdap**, either **Td or Tdap** works. **Example:** A 45-year-old cuts their hand gardening and has never had Tdap. Give Tdap, which also covers pertussis. **Remember:** Never had Tdap = Tdap; had it before = Td or Tdap."
     }
    ]
   },
@@ -517,35 +612,42 @@ E1_DATA.push({
    "pts": [
     {
      "x": "**MMR (live)**: 0.5 mL **SQ or IM** (M-M-R II) / SQ (Priorix), ≥12 months. Children: **12–15 months and 4–6 years**; min interval **4 weeks** (MMRV 3 months).",
-     "s": 1
+     "s": 1,
+     "simple": "**In plain English:** **MMR is live**. Dose is **0.5 mL**, given **SQ or IM** for M-M-R II, or SQ for Priorix, starting at **12 months**. Kids get it at **12–15 months** and again at **4–6 years**. The minimum interval between MMR doses is **4 weeks** (for MMRV it's **3 months**). **Example:** A toddler gets MMR at 13 months and the second dose before kindergarten. **Remember:** MMR at 1 year and before kindergarten; doses at least 4 weeks apart (MMRV 3 months)."
     },
     {
      "x": "MMR/varicella contraindications: severe allergy, **severe immune deficiency**, **pregnancy**, active (untreated) TB. Precautions: alpha-gal allergy, recent antibody-containing blood products (**wait 3–11 months**); MMR – thrombocytopenia history, need for TB testing; varicella – antivirals within 24 h before, aspirin use.",
      "s": 1,
-     "note": "alpha-gal = carbohydrate found in mammalian meat"
+     "note": "alpha-gal = carbohydrate found in mammalian meat",
+     "simple": "**In plain English:** MMR/varicella **contraindications**: severe allergy, **severe immune deficiency**, **pregnancy**, and active untreated TB. **Precautions**: alpha-gal allergy (a sugar in mammal meat), recent antibody-containing blood products (**wait 3–11 months**), and for MMR a history of low platelets (thrombocytopenia) or needing TB testing; for varicella, antivirals within 24 h before, or aspirin use. **Example:** A patient got IVIG 2 months ago and wants MMR: wait longer. **Remember:** Pregnant/severe immune deficiency = no; recent antibodies = wait."
     },
     {
      "x": "Adults born ≥1957 low risk: 1 dose MMR; healthcare workers, international travelers, college students: **2 doses ≥4 weeks apart**. Outbreak/travel: MMR from **6 months** (doesn’t count), post-exposure within **72 hours**; mumps outbreak → 3rd dose.",
      "s": 0,
-     "note": "provider-diagnosed measles: not necessarily immune; measles needs 95% vaccination rate"
+     "note": "provider-diagnosed measles: not necessarily immune; measles needs 95% vaccination rate",
+     "simple": "**In plain English:** Adults born in **1957 or later** at low risk need **1 dose** of MMR. Healthcare workers, international travelers, and college students need **2 doses at least 4 weeks apart**. In outbreaks or for travel, babies can get MMR from **6 months** (but it doesn't count toward the series), post-exposure MMR should be given within **72 hours**, and a mumps outbreak may call for a 3rd dose. **Example:** A college freshman with only 1 MMR on record needs a 2nd. **Remember:** Low-risk adult 1 dose; healthcare/travel/college 2 doses."
     },
     {
      "x": "**Varicella (live)**: 0.5 mL SQ or IM; 12–15 mo and 4–6 y; age 7–12 → 2 doses 3 months apart; ≥13 → 2 doses 4–8 weeks apart. Immunity shown by **titers**.",
-     "s": 0
+     "s": 0,
+     "simple": "**In plain English:** **Varicella is live**: 0.5 mL **SQ or IM**. Kids get it at **12–15 months and 4–6 years**. Ages **7–12** catching up get **2 doses 3 months apart**; ages **13 and up** get **2 doses 4–8 weeks apart**. Immunity can be shown by **titers** (blood antibody levels). **Example:** A 15-year-old who never had chickenpox or the vaccine gets 2 doses about a month apart. **Remember:** Under 13 = 3 months apart; 13+ = 4–8 weeks apart."
     },
     {
      "x": "**MMRV (ProQuad)**: 12 mo–12 y; reconstitute and give immediately, **discard after 30 min**; febrile seizure risk 1–2 weeks after 1st dose; preferred for 2nd dose at 4–6 y. (Lecture: no preference for 1st dose. Note: since Oct 2025 CDC/ACIP says MMRV not recommended under age 4.)",
-     "s": 0
+     "s": 0,
+     "simple": "**In plain English:** **MMRV (ProQuad)** is for ages 12 months–12 years. Reconstitute and give right away; **discard after 30 minutes**. There's a higher febrile seizure risk **1–2 weeks after the 1st dose**, so it's preferred for the **2nd dose at 4–6 years**. Your lecture says no preference for the 1st dose (note: since Oct 2025 CDC/ACIP says MMRV isn't recommended under age 4). **Example:** A 5-year-old due for MMR and varicella boosters can get one MMRV shot. **Remember:** MMRV: 30-minute clock; best for the 2nd dose."
     },
     {
      "x": "**Zoster – Shingrix (RZV)**: recombinant, adjuvanted (AS01B), **not live**, 0.5 mL IM. **≥50** immunocompetent (even if had Zostavax) and **≥19 immunocompromised**. Precaution: pregnancy. **2-dose series**.",
      "s": 1,
-     "note": "shingles is 2 shot series, 2nd dose 2–6 months; absolute minimum 1 month; don't restart the series; 20 mg prednisone is immunosuppressive"
+     "note": "shingles is 2 shot series, 2nd dose 2–6 months; absolute minimum 1 month; don't restart the series; 20 mg prednisone is immunosuppressive",
+     "simple": "**In plain English:** **Shingrix (RZV)** is recombinant with adjuvant AS01B, **not live**, 0.5 mL IM. Give it to people **≥50** with healthy immune systems (even if they had the old Zostavax) and **≥19 if immunocompromised**. It's a **2-dose series** (2nd dose 2–6 months later per your notes; don't restart if late). Pregnancy is a precaution. **Example:** A 35-year-old on 20 mg prednisone daily is immunosuppressed, so they qualify for Shingrix. **Remember:** 50+ or 19+ immunocompromised; 2 doses; not live."
     },
     {
      "x": "**HPV – Gardasil 9**: 9–45 y, 0.5 mL IM; contraindication: severe hypersensitivity, **immediate hypersensitivity to yeast**.",
      "s": 0,
-     "note": "prevents cervical cancer, painful shot"
+     "note": "prevents cervical cancer, painful shot",
+     "simple": "**In plain English:** **Gardasil 9** (HPV vaccine) is for ages **9–45**, given as **0.5 mL IM**. It helps prevent cervical cancer. Contraindications: severe hypersensitivity, and **immediate hypersensitivity to yeast**, since the vaccine is made using yeast. It's known as a painful shot. **Example:** A 20-year-old with a yeast allergy that caused hives and swelling right away should not receive Gardasil 9. **Remember:** HPV = 9 to 45; yeast allergy = contraindication."
     }
    ]
   }

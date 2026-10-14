@@ -12,36 +12,44 @@ E1_DATA.push({
    "pts": [
     {
      "x": "Lecture: **Medication Adherence & Vaccine Screening Form** (Rajul A. Patel, PharmD, PhD, Sept 28, 2026). Agenda: adherence barriers, impact of non-adherence, medication utilization, Vaccine Screening Form.",
-     "s": 0
+     "s": 0,
+     "simple": "**In plain English:** This lecture by Dr. Rajul Patel covers two things: why patients don't take their meds as directed (barriers, impact, how meds get used) and how to fill out the Vaccine Screening Form used at Pacific's events. **Example:** Think of it as a two-part training: first why people skip pills, then the paperwork you complete before giving a shot. **Remember:** Agenda = **barriers → impact of non-adherence → medication utilization → Vaccine Screening Form**."
     },
     {
      "x": "**>194 million** people in the US have at least one major chronic condition (CDC, 2023); CDC estimates **6/10 adults** live with a chronic disease.",
-     "s": 0
+     "s": 0,
+     "simple": "**In plain English:** Chronic conditions are long-lasting health problems like diabetes or high blood pressure. More than **194 million** people in the US have at least one (CDC, 2023), and the CDC estimates **6 in 10 adults** live with a chronic disease. **Example:** At a family reunion of 10 adults, roughly 6 are managing some ongoing condition with daily meds. **Remember:** **>194 million** people, **6/10 adults**: a huge group whose health depends on taking meds correctly."
     },
     {
      "x": "Medication nonadherence is associated with **poorer health outcomes, more hospital admissions, and higher costs**.",
-     "s": 0
+     "s": 0,
+     "simple": "**In plain English:** When patients don't take their meds as directed, three bad things follow: they get sicker (poorer outcomes), they end up in the hospital more, and care costs more. **Example:** A man skips his blood pressure pills for weeks, has a stroke, and lands in the hospital: worse health, an admission, and a big bill all at once. **Remember:** Nonadherence → **worse outcomes, more admissions, higher costs**."
     },
     {
      "x": "Morbidity and mortality from **nonoptimized prescription medication therapy** cost an estimated **$528.4 billion** = **16% of U.S. health care spending** that year (2016).",
-     "s": 0
+     "s": 0,
+     "simple": "**In plain English:** \"Nonoptimized\" therapy means meds that are wrong, poorly managed, or not taken right. The harm and deaths from this cost about **$528.4 billion** in 2016, which was **16% of all U.S. health care spending** that year. **Example:** Out of every $100 the country spent on health care, about $16 went to cleaning up problems caused by medication therapy that wasn't working well. **Remember:** **$528.4 billion = 16%** (2016)."
     },
     {
      "x": "**Medication nonadherence** = patients fail to take their medications **as directed**; it is quite common.",
-     "s": 0
+     "s": 0,
+     "simple": "**In plain English:** Medication nonadherence simply means a patient doesn't take their medicine **as directed**: skipping doses, taking the wrong amount, stopping early, or never filling it. It's very common. **Example:** A doctor says take an antibiotic twice daily for 10 days; the patient feels better on day 4 and stops. That's nonadherence. **Remember:** Adherence = taking it **as directed**. Any gap between the instructions and what the patient actually does counts."
     },
     {
      "x": "Slide lists \"Top reasons for **intentional** medication non-adherence (American Medical Association)\" — the list itself is blank in the student notes (only a photo).",
      "s": 0,
-     "note": "List content not shown in the student-notes version."
+     "note": "List content not shown in the student-notes version.",
+     "simple": "**In plain English:** \"Intentional\" non-adherence means the patient chooses not to take a med (as opposed to forgetting). The slide listed the AMA's top reasons, but the list isn't in your notes, only a photo, so don't memorize details you can't verify. **Example:** A patient deliberately stops a pill because she decided she doesn't need it: that's a choice, not forgetfulness. **Remember:** Know the term **intentional** = on purpose; check the slide photo for the actual list."
     },
     {
      "x": "**Every $1 spent improving adherence saves $7** in total health care costs (underlined on slide).",
-     "s": 1
+     "s": 1,
+     "simple": "**In plain English:** Money spent helping patients take their meds correctly pays for itself many times over: **every $1 spent on adherence saves $7** in total health care costs, mostly by preventing hospital visits and complications. **Example:** Spending a few dollars on a pill calendar for a diabetic patient can prevent a costly ER visit for very high blood sugar. **Remember:** **$1 in → $7 saved**. The underlined number on the slide, likely tested."
     },
     {
      "x": "**Health literacy and language barriers** are obstacles to adherence.",
-     "s": 1
+     "s": 1,
+     "simple": "**In plain English:** Health literacy is how well someone can read, understand and use health information. If a patient can't understand the label, or it isn't in their language, they can't take the med correctly. **Example:** A patient who reads only Vietnamese gets an English label saying \"take twice daily with food\" and guesses wrong. That's a literacy/language barrier. **Remember:** **Health literacy + language** = barriers. This is why Meducation offers simple reading levels and many languages."
     }
    ]
   },
@@ -51,15 +59,18 @@ E1_DATA.push({
    "pts": [
     {
      "x": "Barriers are addressed in two buckets: **Cost** and **Complexity**.",
-     "s": 1
+     "s": 1,
+     "simple": "**In plain English:** Pacific's program sorts adherence barriers into two buckets: **Cost** (the patient can't afford the meds) and **Complexity** (the regimen is too confusing to follow). Each bucket has its own set of fixes. **Example:** A patient skipping insulin because it's too expensive is a Cost problem; one mixing up 10 pills at different times is a Complexity problem. **Remember:** Two buckets: **Cost and Complexity**. Identify the bucket first, then pick the fix."
     },
     {
      "x": "**Cost** solutions: **Part D plan optimization**; **Medication Affordability** — Patient Assistance Programs, Discount Programs, Drug coupons.",
-     "s": 1
+     "s": 1,
+     "simple": "**In plain English:** Cost fixes make meds cheaper. **Part D plan optimization** means finding the Medicare drug plan that covers the patient's meds for the least money. **Medication Affordability** tools are Patient Assistance Programs, Discount Programs and drug coupons. **Example:** A senior paying $400/year more than needed switches to a better Part D plan and uses a coupon for an expensive inhaler. **Remember:** **Cost = Part D optimization + affordability (assistance programs, discounts, coupons)**."
     },
     {
      "x": "**Complexity** solutions: **Meducation®**, **Medication Action Plan**, **Prescriber Communication Form**.",
-     "s": 1
+     "s": 1,
+     "simple": "**In plain English:** Complexity fixes make the regimen easier to understand: **Meducation®** (simple instructions and a pill calendar), the **Medication Action Plan**, and the **Prescriber Communication Form** (a note to the doctor suggesting changes). **Example:** Confused by 9 pills? A picture calendar plus a note to the doctor helps; a coupon doesn't. **Remember:** **Complexity = Meducation, Action Plan, Prescriber Communication Form**. Money tools belong to Cost."
     }
    ]
   },
@@ -69,31 +80,38 @@ E1_DATA.push({
    "pts": [
     {
      "x": "**Section 6: Plan Finder Medication and Cost Data** — a PERSONALIZED Medicare Plan Finder search displays pharmacy claims data from the **past 12 months** and/or the beneficiary's most recently updated drug list.",
-     "s": 0
+     "s": 0,
+     "simple": "**In plain English:** Section 6 of the Medicare Part D form uses a **personalized** Medicare Plan Finder search. Once logged in as the patient, it shows their pharmacy claims from the **past 12 months** and/or their most recently updated drug list. **Example:** Like logging into a store account that shows your past year of purchases, Plan Finder shows the meds that were actually filled. **Remember:** Personalized Plan Finder = **past 12 months** of claims and/or latest drug list."
     },
     {
      "x": "Steps: (1) arrange meds in **ALPHABETICAL ORDER**; (2) **verify** each med by comparing what the beneficiary brought to claims data/existing drug list; (3) **confirm** which meds are current and identify any stopped, changed or added; (4) **update** the drug list so it accurately reflects current meds.",
-     "s": 1
+     "s": 1,
+     "simple": "**In plain English:** Four steps to build an accurate drug list: (1) put meds in **alphabetical order**; (2) **verify** what the patient brought against claims data/existing list; (3) **confirm** which are current and spot stopped, changed or added meds; (4) **update** the drug list. **Example:** The patient's bag has lisinopril, but claims show amlodipine too; she says amlodipine was stopped, so you remove it. **Remember:** **Alphabetize → Verify → Confirm → Update**."
     },
     {
      "x": "Item 1: **Total number of current PRESCRIPTION drugs** (red-boxed on slide).",
-     "s": 1
+     "s": 1,
+     "simple": "**In plain English:** Item 1 on the form asks for the **total number of current prescription drugs** the patient takes. It was red-boxed on the slide, so it matters: it's a key data point you must fill in after verifying the list. **Example:** After sorting the bag, you count 7 current prescriptions (not counting a stopped one), so Item 1 = 7. **Remember:** Item 1 = **count of current PRESCRIPTION drugs**. OTCs are counted separately in 14b."
     },
     {
      "x": "Item 2: **Estimated ANNUAL cost** (yearly drug **and premium** cost) in Plan Finder of their **CURRENT** plan (or assigned plan) for **2027**.",
-     "s": 0
+     "s": 0,
+     "simple": "**In plain English:** Item 2 records the **estimated annual cost** (yearly drug costs **plus premiums**) shown in Plan Finder for the patient's **current** (or assigned) plan for **2027**. This is the baseline you compare other plans against. **Example:** Plan Finder shows the patient's current plan will cost $1,800 in premiums and drugs for 2027; that number goes in Item 2. **Remember:** Item 2 = **annual drug + premium cost, CURRENT plan, 2027**."
     },
     {
      "x": "**14a** — If YES (taking OTC products), ASK: \"What kind of products are you taking and what are they for?\" Identify ALL OTC categories: Allergy; Antidiarrheal, Gas Relief & Laxative; Aspirin; Cough & Cold; Dry & Itchy Skin; Eye Care; Foot Care; Headache & Pain; Heartburn & GERD; Memory loss; Natural Products; Oral Care; Probiotics; Sleep Aids; Supplements; Vitamins & Minerals; Weight Loss; Wound Care; Other.",
-     "s": 0
+     "s": 0,
+     "simple": "**In plain English:** Question 14a: if the patient takes over-the-counter (OTC) products, ask \"What kind of products are you taking and what are they for?\" and mark **every** category that applies, from Allergy to Wound Care (plus Natural Products, Supplements, Vitamins, Other). **Example:** A patient mentions melatonin and fish oil: you check Sleep Aids and Supplements. **Remember:** Ask **what and why**, then identify **ALL** OTC categories, not just the first one."
     },
     {
      "x": "**14b — Total number of NON-PRESCRIPTION drugs** they are taking (red-boxed on slide).",
-     "s": 1
+     "s": 1,
+     "simple": "**In plain English:** Question 14b asks for the **total number of non-prescription (OTC) drugs** the patient takes. It's red-boxed like Item 1, which counts prescriptions; 14b counts the OTC side. **Example:** The patient takes vitamin D, a daily aspirin and an allergy pill: 14b = 3. **Remember:** **Item 1 = Rx count; 14b = OTC count**. Two separate totals, both red-boxed."
     },
     {
      "x": "OTC handouts exist for each category: if patient is using **or considering** an OTC product, give the **appropriate OTC handout** AND the **OTC cover sheet**.",
-     "s": 1
+     "s": 1,
+     "simple": "**In plain English:** There's an OTC handout for each category. If the patient is using **or even considering** an OTC product, give them the matching **OTC handout** plus the **OTC cover sheet**. **Example:** A patient says she's thinking about trying a sleep aid: even though she hasn't started, she gets the Sleep Aids handout and the cover sheet. **Remember:** Using **or considering** → **category handout + cover sheet**. Both pieces, every time."
     }
    ]
   },
@@ -103,35 +121,43 @@ E1_DATA.push({
    "pts": [
     {
      "x": "Meducation® is by **First Databank (fdb)**; used by Pacific to simplify medication instructions for senior adults.",
-     "s": 0
+     "s": 0,
+     "simple": "**In plain English:** Meducation® is a software program made by **First Databank (fdb)**, a drug-information company. Pacific uses it to turn complicated medication instructions into simple, easy-to-follow ones for older adults. **Example:** Like a translator that converts a doctor's shorthand into \"take 1 pill every morning with breakfast\" with pictures. **Remember:** Meducation = **by First Databank**, used to **simplify instructions for seniors**."
     },
     {
      "x": "Detailed instructions for **5,000+ medications**.",
-     "s": 0
+     "s": 0,
+     "simple": "**In plain English:** Meducation has detailed patient instructions for **more than 5,000 medications**, so nearly anything a patient takes can be looked up and explained. **Example:** Whether the patient takes a common statin or an unusual inhaler, you can likely find ready-made instructions for it. **Remember:** **5,000+ meds** covered."
     },
     {
      "x": "Written at a **5–8th grade reading level**.",
-     "s": 1
+     "s": 1,
+     "simple": "**In plain English:** Meducation writes its instructions at a **5th–8th grade reading level**, meaning plain, short sentences most people can understand, which directly tackles the health-literacy barrier. **Example:** Instead of \"administer orally twice daily,\" it says \"take 1 pill by mouth in the morning and 1 at night.\" **Remember:** **5–8th grade** reading level. Simple words fix low health literacy."
     },
     {
      "x": "**6 font size choices** (up to **18-point** font); **visual spacing** to reduce cognitive overload.",
-     "s": 0
+     "s": 0,
+     "simple": "**In plain English:** Meducation offers **6 font-size choices** (up to **18-point**, which is large print) and uses **visual spacing** so the page isn't crowded, reducing \"cognitive overload\" (too much info at once). **Example:** An 80-year-old with poor eyesight gets a calendar in big 18-point text with lots of white space, easy to read at a glance. **Remember:** **6 sizes, up to 18-pt, plus spacing** = easier on aging eyes and minds."
     },
     {
      "x": "Summarizes complex regimen into a **Medication Calendar**; **pictograms** depicting usage to **reduce dosing errors**.",
-     "s": 0
+     "s": 0,
+     "simple": "**In plain English:** Meducation condenses a complicated regimen into one **Medication Calendar** and uses **pictograms** (little pictures showing how and when to take a med) to **reduce dosing errors**. **Example:** Instead of reading 8 labels, a patient looks at one chart: a sun icon for morning pills, a moon for bedtime. **Remember:** **Calendar + pictograms** → fewer dosing mistakes."
     },
     {
      "x": "Links to a library of **multilingual videos** demonstrating proper use of difficult devices/meds (e.g., inhalers, injectables).",
-     "s": 0
+     "s": 0,
+     "simple": "**In plain English:** Meducation links to a library of **multilingual videos** that show how to use tricky meds or devices, like **inhalers** and **injectables**, which are hard to learn from text alone. **Example:** A patient new to an inhaler watches a short video in Spanish showing exactly how to breathe in the dose. **Remember:** Hard-to-use devices → **multilingual demo videos**."
     },
     {
      "x": "All available in **33 languages** (e.g., Spanish, Vietnamese, Mandarin Simplified & Traditional, Tagalog, Punjabi, Hmong, Farsi, Arabic, Russian, Yiddish…).",
-     "s": 0
+     "s": 0,
+     "simple": "**In plain English:** All Meducation materials are available in **33 languages**, including Spanish, Vietnamese, Mandarin (Simplified and Traditional), Tagalog, Punjabi, Hmong, Farsi, Arabic, Russian and Yiddish. This tackles the language barrier. **Example:** A Hmong-speaking grandmother can get her whole medication calendar printed in Hmong. **Remember:** **33 languages**. Pairs with the language-barrier point from the adherence lecture."
     },
     {
      "x": "Site: **rs.meducation.com** — Professionals sign in (username: pacific); Patients retrieve via **Document ID**.",
-     "s": 0
+     "s": 0,
+     "simple": "**In plain English:** The Meducation site is **rs.meducation.com**. Professionals (you) sign in with the Pacific account (username: pacific); patients pull up their own materials using a **Document ID**. **Example:** After the event, a patient at home types her Document ID into the site and reprints her calendar. **Remember:** **rs.meducation.com**: pros sign in, **patients use the Document ID**."
     }
    ]
   },
@@ -141,33 +167,40 @@ E1_DATA.push({
    "pts": [
     {
      "x": "**Medication List** view columns: Medicine, Structured SIG, Links, Category (Daily vs **PRN**), Cal (include on calendar), PMI.",
-     "s": 0
+     "s": 0,
+     "simple": "**In plain English:** The Medication List screen shows each med in columns: Medicine, Structured SIG (the directions), Links, Category (**Daily** vs **PRN**, meaning \"as needed\"), Cal (whether to include it on the calendar) and PMI (patient instructions). **Example:** Ventolin used only for wheezing gets marked PRN; a daily statin gets marked Daily and included on the calendar. **Remember:** **Daily vs PRN** category; \"Cal\" = show on calendar."
     },
     {
      "x": "Legend: **Blue SIG** = SIG not recognized; **Blue Drug** = medicine not recognized; red icon = structure unrecognized SIG; orange = edit SIG; blue page = **View PMI (Personal Med Instructions)**; gray page = PMI unavailable; play icon = view demonstration; yellow ⚠ = **View FDA Med Guide**.",
-     "s": 0
+     "s": 0,
+     "simple": "**In plain English:** Icons on the list flag problems or extras. **Blue SIG** = directions not recognized; **Blue Drug** = med not recognized; red = structure an unrecognized SIG; orange = edit SIG; blue page = **View PMI** (Personal Med Instructions); gray page = PMI unavailable; play = demo video; yellow warning = **FDA Med Guide**. **Example:** A drug name shows up blue, so you know the software didn't recognize it and you must re-enter it. **Remember:** **Blue = not recognized**; blue page = PMI; yellow ⚠ = FDA Med Guide."
     },
     {
      "x": "**Drug Monograph** (e.g., Advair Diskus): what it's for, how to take it (with morning/noon/evening/bedtime pictogram), instructions, cautions, side effects, and a **QR code linking to an online demonstration** (QR code red-boxed).",
-     "s": 1
+     "s": 1,
+     "simple": "**In plain English:** A Drug Monograph is a one-drug info sheet (example: Advair Diskus) covering what it's for, how to take it with a time-of-day pictogram, instructions, cautions and side effects, plus a **QR code linking to an online demonstration**. **Example:** The patient scans the QR code with a phone and watches how to use the Diskus inhaler. **Remember:** Monograph = **one drug, full info, QR code to demo** (the red-boxed part)."
     },
     {
      "x": "**Calendar**: REGULAR SCHEDULE / EVERY DAY meds in Morning–Noon–Evening–Bedtime columns with a Reason; separate **AS NEEDED** section (e.g., Ventolin: every 4 hours, 2 puffs each time).",
-     "s": 0
+     "s": 0,
+     "simple": "**In plain English:** The calendar groups **regular/every-day** meds into **Morning, Noon, Evening, Bedtime** columns with the reason for each, and lists **AS NEEDED** meds separately. **Example:** A daily blood pressure pill sits in the Morning column; Ventolin appears in the As Needed section: every 4 hours, 2 puffs each time. **Remember:** **Scheduled meds by time of day; PRN meds in their own section**."
     },
     {
      "x": "Calendar buttons include **Optimize** and **Alphabetize**; printed calendar can be in another language (example shown in Vietnamese).",
-     "s": 0
+     "s": 0,
+     "simple": "**In plain English:** The calendar has buttons like **Optimize** and **Alphabetize** (sorts meds A–Z). It can also be printed in another language; the slide example was in Vietnamese. **Example:** You save the calendar under Optimize, then print one copy in English and one in Vietnamese for the patient's family. **Remember:** **Optimize, Alphabetize, other languages**. Your homework is saved under Optimize."
     },
     {
      "x": "The calendar's **ID (e.g., Y253RLJP)** in the upper right is red-boxed: it **is recorded in the Medicare Passport** and **also recorded by the Medicare student**.",
      "s": 1,
-     "note": "Hidden slide text: \"This will be recorded in the Medicare Passport / This will also be recorded by the Medicare student\""
+     "note": "Hidden slide text: \"This will be recorded in the Medicare Passport / This will also be recorded by the Medicare student\"",
+     "simple": "**In plain English:** Each calendar has an **ID** (e.g., Y253RLJP) in the upper-right corner. It's red-boxed because it **gets recorded in the Medicare Passport** and **also recorded by the Medicare student**, so the calendar can be found again. **Example:** Like a receipt number: write it on the patient's passport so anyone later can pull up the same calendar. **Remember:** Calendar ID → **Passport + Medicare student** both record it."
     },
     {
      "x": "Student handwritten note: \"① add new med → look up med\".",
      "s": 1,
-     "note": "Handwritten on p.45: \"①add new med ↳ look up med\""
+     "note": "Handwritten on p.45: \"①add new med ↳ look up med\"",
+     "simple": "**In plain English:** The handwritten note \"① add new med → look up med\" is the first step for entering a medication: click to add a new med, then look it up in the database rather than typing it freely. **Example:** To add metformin, you click Add New Med, search \"metformin,\" and pick the correct strength and form from the list. **Remember:** Step 1: **add new med → look up med** (search the database)."
     }
    ]
   },
@@ -177,29 +210,35 @@ E1_DATA.push({
    "pts": [
     {
      "x": "Enter **BOTH prescription AND OTC meds** (video tutorial shows how to enter OTCs not in the database).",
-     "s": 1
+     "s": 1,
+     "simple": "**In plain English:** Enter **both prescription and OTC** meds in Meducation so the calendar shows everything the patient takes. A video tutorial shows how to add OTCs that aren't in the database. **Example:** A patient takes a prescribed blood thinner plus daily aspirin from the store; both go on the calendar so nothing is missed. **Remember:** **Rx AND OTC**, every time. A complete list is a safe list."
     },
     {
      "x": "Scroll carefully to find the correct **dose, salt form**, etc. If in doubt, **ASK** — check with Medicare students.",
-     "s": 0
+     "s": 0,
+     "simple": "**In plain English:** When choosing a med in Meducation, scroll carefully to pick the right **dose** and **salt form** (the chemical version of the drug, e.g., metoprolol tartrate vs succinate). If unsure, **ask** the Medicare students. **Example:** You see three entries for metoprolol: instead of guessing, you check the bottle and ask a Medicare student. **Remember:** Correct **dose + salt form**; **when in doubt, ASK**."
     },
     {
      "x": "Be careful with **formulations (capsule vs tablet)** and **ER vs IR**.",
-     "s": 1
+     "s": 1,
+     "simple": "**In plain English:** Watch the **formulation**: capsule vs tablet, and **ER** (extended-release, released slowly over the day) vs **IR** (immediate-release, works right away). Picking the wrong one gives wrong instructions. **Example:** The patient takes metformin ER once daily; choosing IR could make the calendar tell them to take it differently. **Remember:** Check **capsule vs tablet** and **ER vs IR** before you click."
     },
     {
      "x": "**Do NOT** use \"Select an order string\" — it **bypasses important steps**.",
      "s": 1,
-     "note": "Student-notes blank: \"____ use 'Select an order string'\" — answer: Do NOT"
+     "note": "Student-notes blank: \"____ use 'Select an order string'\" — answer: Do NOT",
+     "simple": "**In plain English:** **Do NOT** use the \"Select an order string\" shortcut in Meducation. It skips (bypasses) important steps in entering a med correctly, which can lead to errors on the calendar. **Example:** Like skipping the safety checklist to save time: faster, but you may miss a key detail like the right dose. **Remember:** Fill in the blank: \"**Do NOT** use 'Select an order string'\". It bypasses steps."
     },
     {
      "x": "**Do NOT** add information you are uncertain of (don't assume). Ask the patient/MTM student when unclear; don't stop/interrupt the intervention — work with the Medicare student when appropriate.",
      "s": 1,
-     "note": "Student-notes blank: \"____ add information you are uncertain of\" — answer: Do NOT"
+     "note": "Student-notes blank: \"____ add information you are uncertain of\" — answer: Do NOT",
+     "simple": "**In plain English:** **Do NOT** add anything you're unsure of; never assume. Ask the patient or MTM student instead, but don't interrupt or stop the ongoing intervention; work with the Medicare student when it fits. **Example:** The bottle label is smudged: instead of guessing \"twice daily,\" you quietly check with the Medicare student when there's a natural pause. **Remember:** Fill in the blank: \"**Do NOT** add information you are uncertain of\"."
     },
     {
      "x": "For **NEW patients**: upper right-hand corner → select **'New'**. **Do NOT 'Clear meds'** and **do NOT 'Load' patients** — either action **overrides information**.",
-     "s": 1
+     "s": 1,
+     "simple": "**In plain English:** For a **new patient**, click **'New'** in the upper-right corner. **Don't** click 'Clear meds' and **don't** 'Load' patients, because both **override (overwrite) existing information**. **Example:** Clicking 'Clear meds' to start fresh could wipe out the previous patient's saved list. **Remember:** New patient = **'New'** button only. Clear meds and Load = overwrite danger."
     }
    ]
   },
@@ -209,31 +248,38 @@ E1_DATA.push({
    "pts": [
     {
      "x": "**Medicare Healthcare Passport** = the patient's **roadmap**; lists intern pharmacists, **meducation® password** (red-boxed) and meducation website; Medicare Help Hotline (209) 910-3784.",
-     "s": 1
+     "s": 1,
+     "simple": "**In plain English:** The **Medicare Healthcare Passport** is the patient's **roadmap** through the event. It lists the intern pharmacists, the **Meducation password** (red-boxed) and website, and the Medicare Help Hotline (209) 910-3784. **Example:** Like a boarding pass that goes with the traveler to every checkpoint, each station reads and adds to it. **Remember:** Passport = **roadmap**; holds the **Meducation password**."
     },
     {
      "x": "**4-digit code** (e.g., 26-**4235**): patient scheduled for **Part D and/or MTM services**; use the passport to move the patient through the event.",
-     "s": 1
+     "s": 1,
+     "simple": "**In plain English:** A passport number with a **4-digit** code after the dash (e.g., 26-**4235**) means the patient is scheduled for **Part D and/or MTM services** (plan review and medication therapy management). Use the passport to guide them through each station. **Example:** You see 26-4235: this patient is here for a full Part D plan review and med check. **Remember:** **4 digits = Part D/MTM**."
     },
     {
      "x": "**3-digit code** (e.g., 26-**167**): patient attending for **screenings/services only**; keep documentation clear and legible — the passport **travels with the patient**.",
-     "s": 1
+     "s": 1,
+     "simple": "**In plain English:** A **3-digit** code (e.g., 26-**167**) means the patient is there for **screenings/services only** (like blood pressure checks or vaccines). Write clearly and legibly because the passport **travels with the patient** to other stations. **Example:** Passport 26-167: this patient only wants a flu shot and a BP check, not a plan review. **Remember:** **3 digits = screenings only**; 4 digits = Part D/MTM."
     },
     {
      "x": "Key points: record the Meducation password in the Passport; a **pharmacist reviews your Meducation record during their MTM review**; directly enter meds into **HomeMeds** (medication assessment program); print **ONE copy** of the calendar for the patient (individual drug monographs may also be printed if needed/wanted).",
-     "s": 1
+     "s": 1,
+     "simple": "**In plain English:** Key steps: record the Meducation password in the Passport; know a **pharmacist reviews your Meducation record during their MTM review**; enter meds directly into **HomeMeds** (a medication-assessment program); print **ONE copy** of the calendar (monographs too if wanted). **Example:** You finish a calendar, write the password on the passport, enter meds in HomeMeds, and print one calendar for the patient. **Remember:** **Password in Passport, HomeMeds entry, ONE calendar copy**."
     },
     {
      "x": "Take great care — calendars are given to the patient and **can influence behavior** and have even more severe consequences.",
-     "s": 0
+     "s": 0,
+     "simple": "**In plain English:** Calendars go home with the patient and **can change how they take their meds**. A mistake on the calendar can lead to serious harm, so be extremely careful. **Example:** If the calendar wrongly shows a blood thinner twice daily instead of once, the patient may follow it exactly and bleed. **Remember:** The calendar **influences behavior**; errors have **severe consequences**."
     },
     {
      "x": "Process order: **Create calendar → get it checked off by pharmacist → give Meducation password to Medicare student → record password in Healthcare Passport**.",
-     "s": 1
+     "s": 1,
+     "simple": "**In plain English:** Order of steps: **create the calendar → have a pharmacist check it off → give the Meducation password to the Medicare student → record the password in the Healthcare Passport**. **Example:** You build the calendar, the pharmacist approves it, you hand the password to the Medicare student, and it's written in the passport. **Remember:** **Create → Check (pharmacist) → Give password → Record in Passport**. Nothing goes to the patient unchecked."
     },
     {
      "x": "**In-person events**: print a copy for the patient; enter into **HomeMeds**. **Virtual events**: **SAVE** calendar to the patient's **OneDrive folder** (or make sure the Medicare student does).",
-     "s": 1
+     "s": 1,
+     "simple": "**In plain English:** **In-person** events: print a copy for the patient and enter meds in **HomeMeds**. **Virtual** events: **save** the calendar to the patient's **OneDrive folder** (or make sure the Medicare student does), since you can't hand them paper. **Example:** Over Zoom, you can't give the patient a printout, so the calendar goes into their OneDrive folder. **Remember:** **In-person = print + HomeMeds; Virtual = save to OneDrive**."
     }
    ]
   },
@@ -243,27 +289,33 @@ E1_DATA.push({
    "pts": [
     {
      "x": "Used to send findings to the prescriber **on behalf of the patient (or legal representative) with their permission**, based on the patient's **self-reported** conditions and medications.",
-     "s": 0
+     "s": 0,
+     "simple": "**In plain English:** The Prescriber Communication Form sends your findings to the patient's doctor **on behalf of the patient (or legal representative), with their permission**. It's based on what the patient **self-reports** about conditions and meds. **Example:** You notice two meds that interact; with the patient's OK, you fill out the form so their doctor can review it. **Remember:** **Patient's permission + self-reported info**. You act on their behalf, never without consent."
     },
     {
      "x": "Header: Form ID #, Date, \"Dear ___\", Prescriber Phone/Fax, Patient's Preferred Pharmacy Name/Phone/Fax; Patient's Name, DOB, Phone #, **MRN# if applicable (e.g., Kaiser Permanente)**.",
-     "s": 0
+     "s": 0,
+     "simple": "**In plain English:** The form's header identifies everyone: Form ID #, date, \"Dear ___\" (prescriber), prescriber phone/fax, the patient's preferred pharmacy (name/phone/fax), and patient name, DOB, phone, and **MRN# if applicable** (medical record number, e.g., Kaiser Permanente). **Example:** A Kaiser patient's form includes her Kaiser MRN so the doctor can find her chart quickly. **Remember:** **MRN only if applicable**, e.g., Kaiser."
     },
     {
      "x": "Possible medication-related issues: potentially severe **drug-drug** interaction; potentially severe **drug-disease** interaction; adverse drug reaction; therapeutic duplication; potentially inappropriate medication; **medication non-adherence**; unnecessary drug therapy; potentially inappropriate dose/strength; **cheaper therapeutic alternative available**; untreated condition/additional therapy needed; other. Plus Comments and Medical References.",
-     "s": 0
+     "s": 0,
+     "simple": "**In plain English:** The form has checkboxes for med problems: severe **drug-drug** or **drug-disease** interaction, adverse reaction, duplication, inappropriate med or dose, **non-adherence**, unnecessary drug, **cheaper alternative available**, untreated condition, other, plus comments and references. **Example:** A patient on two drugs from the same class gets \"therapeutic duplication\" checked. **Remember:** Problems are what's **wrong**; note that **non-adherence** and **cheaper alternative** are on the list."
     },
     {
      "x": "Suggested recommendations: add medication; discontinue medication; dosage adjustment from/to; change medication from/to; **cost savings alternative** (current vs alternative med with **cost/year**).",
-     "s": 0
+     "s": 0,
+     "simple": "**In plain English:** After the problem, you suggest a fix: **add** a med, **discontinue** one, **adjust the dose** (from/to), **change** a med (from/to), or a **cost-savings alternative**, showing the current vs alternative med and their **cost per year**. **Example:** You suggest switching an expensive brand to a generic and show $1,200/year vs $90/year. **Remember:** Recommendations = **add, stop, adjust, change, or save money (with cost/year)**."
     },
     {
      "x": "Prescriber response: **Yes / No / Will resolve through another route**, then **fax back to 209-932-4009** for documentation.",
-     "s": 0
+     "s": 0,
+     "simple": "**In plain English:** The prescriber answers **Yes**, **No**, or **Will resolve through another route**, then **faxes the form back to 209-932-4009** so it's documented. **Example:** The doctor checks \"Will resolve through another route\" because she'll discuss it at the patient's next visit, then faxes it back. **Remember:** Three responses: **Yes / No / Another route**; fax back to **209-932-4009**."
     },
     {
      "x": "Signatures: **Patient**, **Student Pharmacist** (print/sign), **Pharmacist Preceptor** (print/sign). Contact: 209-932-2959 (phone), 209-932-4113 (fax), medicareclinics@pacific.edu.",
-     "s": 0
+     "s": 0,
+     "simple": "**In plain English:** Three people sign: the **Patient**, the **Student Pharmacist** (print and sign) and the **Pharmacist Preceptor** (print and sign). Program contact: phone 209-932-2959, fax 209-932-4113, medicareclinics@pacific.edu. **Example:** Before the form goes out, you sign, your supervising pharmacist signs, and the patient signs to show consent. **Remember:** Signatures: **Patient + Student + Preceptor**. Note the return fax (4009) differs from the contact fax (4113)."
     }
    ]
   },
@@ -273,55 +325,68 @@ E1_DATA.push({
    "pts": [
     {
      "x": "Top (yellow-highlighted): **Passport ID#**, **TIME IN**; Location: circle **FAST PASS** or **WAITING**; Table # or patient location.",
-     "s": 1
+     "s": 1,
+     "simple": "**In plain English:** The top of the vaccine form (highlighted yellow) records the **Passport ID#**, **TIME IN**, location (circle **FAST PASS** or **WAITING**) and the table # or where the patient is. **Example:** A patient arrives at 10:15 for just a flu shot: you write the passport ID, 10:15, and circle Fast Pass. **Remember:** Top = **Passport ID, Time In, Fast Pass vs Waiting, location**."
     },
     {
      "x": "**Allergies and Reaction: DO NOT leave blank if none** (red box). Also a box for the **Pharmacy Student Screener**.",
-     "s": 1
+     "s": 1,
+     "simple": "**In plain English:** **Never leave the Allergies and Reaction box blank**, even if there are none; write \"none.\" A blank could mean \"didn't ask.\" There's also a box for the **Pharmacy Student Screener**. **Example:** A patient has no allergies, so you write \"None\" instead of leaving it empty, then sign as screener. **Remember:** Allergies: **DO NOT leave blank if none**."
     },
     {
      "x": "Demographics: name, DOB, age, sex, street address, city, state, **Zip Code (must match Medicare bill)**, phone, email (optional); \"Is your Medicare plan an HMO or Medicare Advantage plan?\" YES / NO / KAISER / NOT SURE.",
-     "s": 1
+     "s": 1,
+     "simple": "**In plain English:** Demographics: name, DOB, age, sex, address, phone, email (optional). The **Zip Code must match the Medicare bill**, otherwise billing can fail. Also ask: is the Medicare plan an **HMO or Medicare Advantage**? (Yes / No / Kaiser / Not sure). **Example:** A patient recently moved; you confirm the zip on her Medicare bill before writing it down. **Remember:** **Zip must match Medicare bill**; ask HMO/Advantage."
     },
     {
      "x": "Patient signature certifies: received current **CDC Vaccine Information Statement (VIS)**; understands risks/benefits, no guarantee of effectiveness, side effects; info for Medicare/Part D payment is correct; authorizes release of records & payment; reviewed the **Notice of Privacy Practices**; authorizes **Proveri Pharmacy Services** to release information and request payment.",
-     "s": 0
+     "s": 0,
+     "simple": "**In plain English:** By signing, the patient confirms they got the current **CDC Vaccine Information Statement (VIS)**, understand risks, benefits and side effects (no guarantee it works), their Medicare/Part D info is correct, they authorize release of records and payment, reviewed the **Notice of Privacy Practices**, and authorize **Proveri Pharmacy Services** to bill. **Example:** Before her shot, the patient reads the VIS, then signs. **Remember:** Signature = **VIS received + consent + billing authorization (Proveri)**."
     },
     {
      "x": "Administration table columns: Vaccine name, **NDC, Lot #, Manufacturer, Exp. Date**, **VIS Date**, Initials, **Successful Billing?? (leave blank if not billed)**, Route, Site, Dosage, # in series, Registry Entry, Qualtrics.",
-     "s": 1
+     "s": 1,
+     "simple": "**In plain English:** The administration table records each shot: vaccine name, **NDC** (drug code), **Lot #, Manufacturer, Expiration Date**, **VIS date**, initials, **Successful Billing?? (leave blank if not billed)**, route, site, dosage, # in series, Registry Entry and Qualtrics. **Example:** If a recall hits a vaccine lot, the lot # on the form tells you which patients got it. **Remember:** Track **NDC, Lot, Mfr, Exp, VIS date**; billing box **blank if not billed**."
     },
     {
      "x": "All listed vaccines are **IM, deltoid (L/R)**: Inactivated Influenza (SD or HD) **0.5 mL**; COVID-19 (Spikevax **0.5 mL** or Comirnaty **0.3 mL**); Pneumococcal PCV (Prevnar 20) 0.5 mL; Shingrix RZV 0.5 mL (series 1–2); Tdap (Boostrix) 0.5 mL; RSV (Abrysvo) 0.5 mL; **Hepatitis B (Engerix-B) 1 mL** (series 1–2–3).",
-     "s": 1
+     "s": 1,
+     "simple": "**In plain English:** Every vaccine on the form is given **IM (into the muscle) in the deltoid** (upper arm, L or R). Most doses are **0.5 mL**; the exceptions are **Comirnaty 0.3 mL** and **Engerix-B (Hep B) 1 mL**. Shingrix is a 1–2 series; Hep B is 1–2–3. **Example:** Drawing up Hep B? Grab 1 mL, double the usual flu shot volume. **Remember:** **All IM deltoid, 0.5 mL** except **Comirnaty 0.3** and **Engerix-B 1 mL**."
     },
     {
      "x": "Bottom: Immunizer signature, print name, **Date/TIME** (yellow), check **Intern Pharmacist** or **Pharmacist**.",
-     "s": 0
+     "s": 0,
+     "simple": "**In plain English:** The bottom of the form is signed by whoever gave the shot (the immunizer): signature, printed name, **date and time** (highlighted yellow), and a check showing whether they're an **Intern Pharmacist** or **Pharmacist**. **Example:** As a student, you give the flu shot, sign, print your name, write the time, and check Intern Pharmacist. **Remember:** Bottom = **immunizer signs, Date/TIME, Intern vs Pharmacist**."
     },
     {
      "x": "Screening Qs (Yes/No/Don't Know): (1) sick today (fever, N/V, diarrhea); (2) allergies to food (**eggs or gelatin**), medications, a vaccine, or **latex** — list allergies & reactions; (3) serious reaction after a vaccination (3a what reaction); (4) seizure, encephalopathy, other nervous system problem, or **Guillain-Barré Syndrome**; (5) nursing home or long-term health problem (heart, lung, liver, asthma, kidney, metabolic e.g. diabetes, anemia/blood disorder); (6) immunocompromising conditions/immunosuppressants, **no spleen, cochlear implant, CSF leak, or smoke**; (7) **women only**: pregnant or could become pregnant in the next month; (8) **Hep B ONLY** risk factors.",
-     "s": 1
+     "s": 1,
+     "simple": "**In plain English:** Eight Yes/No/Don't Know screening questions catch reasons to delay or avoid a vaccine: sick today; allergies (**eggs, gelatin, latex**, meds, vaccines); past vaccine reaction; seizures/nerve problems/**Guillain-Barré**; long-term health problems; immune problems (incl. **no spleen, cochlear implant, CSF leak, smoking**); **women only**: pregnancy; and **Hep B-only** risk factors. **Example:** A patient feels sick today: answer Yes so the pharmacist can decide; a mild illness alone doesn't rule out the shot. **Remember:** Q1 sick, Q2 allergy, Q3 reaction, Q4 nerves, Q5 chronic, Q6 immune, Q7 pregnancy, Q8 Hep B."
     },
     {
      "x": "Q8 Hep B risk factors: ESRD, hemophilia, client/staff of institution for developmentally disabled, household with Hep B carrier, unprotected sex with multiple partners or with someone with Hep B, illicit injection drugs, **diabetes**, health care professional with frequent blood/body-fluid contact, or not completed Hep B series/status unknown. **If YES → circle reason and bill Medicare Part B. If NO → bill Medicare Part D (may require insurance authorization).**",
-     "s": 1
+     "s": 1,
+     "simple": "**In plain English:** Q8 lists Hep B risk factors (e.g., ESRD, hemophilia, **diabetes**, Hep B household contact, injection drug use, health workers exposed to blood, incomplete series). This decides who pays: **YES → circle the reason and bill Medicare Part B. NO → bill Part D** (may need authorization). **Example:** A diabetic patient wants Hep B: circle diabetes, bill Part B. **Remember:** **Risk factor YES = Part B; NO = Part D**."
     },
     {
      "x": "Q4–6 and Q8 say **(Circle all that apply)**.",
-     "s": 0
+     "s": 0,
+     "simple": "**In plain English:** Questions **4, 5, 6 and 8** say **\"Circle all that apply\"**, so the patient may have several conditions and you must mark every one, not just the first. **Example:** A patient on dialysis with diabetes answering Q8: you circle both ESRD and diabetes. **Remember:** **Q4–6 and Q8 = circle ALL that apply**. These are the multi-condition questions."
     },
     {
      "x": "Did you bring your immunization record card? **Read to patient**: keep a personal vaccination record; we can provide one. Would you like a vaccine card? Race (circle all that apply) and Hispanic/Latino/Spanish origin.",
-     "s": 0
+     "s": 0,
+     "simple": "**In plain English:** Ask if the patient brought their immunization record card, and **read to them** that they should keep a personal vaccine record and you can provide one; offer a vaccine card. The form also collects race (circle all that apply) and Hispanic/Latino/Spanish origin. **Example:** A patient forgot her card, so you offer her a new vaccine card to keep. **Remember:** **Read to patient**: keep a record, offer a card."
     },
     {
      "x": "**Read to patient: California law requires us to enter any vaccine administered in the California state immunization registry.** Check box **ONLY IF patient declines**.",
-     "s": 1
+     "s": 1,
+     "simple": "**In plain English:** **Read to the patient**: California law requires every vaccine given to be entered in the **California state immunization registry** (a statewide vaccine database). Check the box **only if the patient declines**. **Example:** Most patients don't object, so the box stays empty and the shot goes into the registry; if one refuses, you check the box. **Remember:** **CA law = registry entry**; check box **ONLY if they decline**."
     },
     {
      "x": "Registry entry gives the doctor/health care team access; receipt offered for provider. \"Please notify my physician\" can **only** be done with **complete contact information**.",
-     "s": 0
+     "s": 0,
+     "simple": "**In plain English:** Entering the shot in the registry lets the patient's doctor and care team see it, and a receipt can be offered for the provider. \"Please notify my physician\" can be done **only** with the physician's **complete contact information**. **Example:** A patient wants her doctor notified but only knows \"Dr. Smith\": without full contact info, you can't notify. **Remember:** Notify physician **only with complete contact info**."
     }
    ]
   },
@@ -331,33 +396,40 @@ E1_DATA.push({
    "pts": [
     {
      "x": "**Vaccination Card — \"If you document it, document it correctly.\"** Contains **patient information · vaccines received · series status · reminders**.",
-     "s": 1
+     "s": 1,
+     "simple": "**In plain English:** The Vaccination Card is the patient's personal record: **\"If you document it, document it correctly.\"** It holds **patient information, vaccines received, series status and reminders** for upcoming doses. **Example:** After the first Shingrix shot, the card shows dose 1 given and a reminder for dose 2. **Remember:** Card = **info · vaccines received · series status · reminders**, and it must be accurate."
     },
     {
      "x": "Card fields: Name, DOB, Allergies, **Passport ID#**; Vaccine Reminder(s) table (Name, Dose #, Date/Range Due); Other Notes. Co-branded Pacific / APhA-ASP **Operation Immunization**.",
-     "s": 0
+     "s": 0,
+     "simple": "**In plain English:** The card's fields are name, DOB, allergies, **Passport ID#**, a Vaccine Reminder(s) table (vaccine name, dose #, date or range due) and other notes. It's co-branded Pacific and APhA-ASP **Operation Immunization**. **Example:** For a Hep B patient, the reminder table lists \"Hep B, dose 2, due in the next window\" so she knows when to come back. **Remember:** Card includes **Passport ID#** and a **Reminder table**; Operation Immunization branding."
     },
     {
      "x": "Card \"Vaccines Received On\": Influenza (annual; check box if **high dose, age 65+**); COVID-19 (annual); Pneumococcal (indicate type: PCV13, PCV15, PCV20, PCV21, PPSV23; series complete?); Shingrix (age 50+; 1st/2nd dose; series complete?); Tdap (every 10 years); RSV (age 75+, age 50–74 high risk; brands Abrysvo, Arexvy, mResvia); Hepatitis B (brand; 1st–3rd dose; series complete?); Other(s).",
-     "s": 0
+     "s": 0,
+     "simple": "**In plain English:** The \"Vaccines Received On\" section (your lecture's version): Influenza annual (check if **high dose, 65+**); COVID-19 annual; Pneumococcal (mark type: PCV13/15/20/21, PPSV23; series complete?); Shingrix (**50+**, dose 1/2); Tdap (**every 10 years**); RSV (**75+**, or **50–74 high risk**; Abrysvo, Arexvy, mResvia); Hep B (dose 1–3). **Example:** A 70-year-old gets a high-dose flu shot: you check the high-dose box. **Remember:** Check boxes track **dose type and series status**."
     },
     {
      "x": "**Vaccine Menu** (patient's FULL name, DOB; check box for each vaccine patient wants/is indicated for): Influenza **Standard Dose (SD)** = under 65, annual; **High Dose (HD)** = 65 or older, annual.",
-     "s": 0
+     "s": 0,
+     "simple": "**In plain English:** The Vaccine Menu lets the patient pick vaccines (write their **full** name and DOB, check each one they want/need). Flu comes in two versions: **Standard Dose (SD) for under 65** and **High Dose (HD) for 65 or older**, both **annual**. **Example:** A 58-year-old gets standard dose; her 72-year-old husband gets high dose, since older immune systems need a stronger boost. **Remember:** **Under 65 = SD; 65+ = HD**; flu is **every year**."
     },
     {
      "x": "Menu: **COVID-19** annual updated vaccine; adults **over 65 should get a booster 6 months after their last dose**. **Pneumococcal PCV**: most adults only need **one** pneumococcal vaccine, depending on age, risk factors and history.",
      "s": 0,
-     "note": "Per lecture menu. Note: COVID-19 recommendations for 2025–26 moved to individual-based (shared) decision-making; ACIP now recommends pneumococcal vaccination for all adults ≥50."
+     "note": "Per lecture menu. Note: COVID-19 recommendations for 2025–26 moved to individual-based (shared) decision-making; ACIP now recommends pneumococcal vaccination for all adults ≥50.",
+     "simple": "**In plain English:** Per your lecture's menu: **COVID-19** is an annual updated vaccine, and adults **over 65 should get a booster 6 months after their last dose**. For **pneumococcal (PCV)**, most adults need only **one** vaccine, depending on age, risk factors and history. **Example:** A 70-year-old got her COVID shot in October, so per the menu she's due for a booster around April. **Remember:** COVID: **over 65 → booster at 6 months**; pneumococcal: usually **just one**."
     },
     {
      "x": "Menu: **Shingrix** 2-shot series, given after **50 years** of age, good for lifetime, **second shot in 2–6 months**. **Tdap** protects against whooping cough, diphtheria and tetanus; given **every 10 years**.",
      "s": 0,
-     "note": "Per lecture menu. Note: current CDC/ACIP adult schedule = 1 dose of Tdap, then a Td OR Tdap booster every 10 years."
+     "note": "Per lecture menu. Note: current CDC/ACIP adult schedule = 1 dose of Tdap, then a Td OR Tdap booster every 10 years.",
+     "simple": "**In plain English:** Per your lecture's menu: **Shingrix** is a **2-shot series** given after age **50**, good for a lifetime, with the **second shot 2–6 months** later. **Tdap** protects against whooping cough (pertussis), diphtheria and tetanus, given **every 10 years**. **Example:** A 55-year-old gets Shingrix in March; she returns between May and September for shot 2. **Remember:** **Shingrix: 2 shots, 50+, 2–6 months apart; Tdap: every 10 years**."
     },
     {
      "x": "Menu: **RSV** for adults **75 or older** or **50–74 with certain risk factors** (e.g., heart, lung disease); **only one dose** recommended. **Hepatitis B** 3-shot series for those at risk (e.g., **dialysis, diabetes**).",
-     "s": 0
+     "s": 0,
+     "simple": "**In plain English:** **RSV** (a respiratory virus) vaccine is for adults **75 or older** or **50–74 with certain risk factors** like heart or lung disease, and **only one dose** is recommended. **Hepatitis B** is a **3-shot series** for people at risk, e.g., on **dialysis** or with **diabetes**. **Example:** A 62-year-old with COPD qualifies for RSV; a 60-year-old diabetic qualifies for Hep B. **Remember:** **RSV: 75+ or 50–74 at risk, one dose; Hep B: 3 shots**."
     }
    ]
   },
@@ -367,23 +439,28 @@ E1_DATA.push({
    "pts": [
     {
      "x": "Homework: watch the Meducation tutorial; create a **Personalized Medication Calendar** for the given profile; save under **'Optimize'**; upload to PHRM 131 Canvas (Assignments → Meducation Assignment): calendar in **English** AND in **another language** of your choice, plus your Meducation password. Due **Wed 9/30 at 6 pm**.",
-     "s": 1
+     "s": 1,
+     "simple": "**In plain English:** Homework: watch the Meducation tutorial, build a **Personalized Medication Calendar** for the given patient, save it under **'Optimize'**, and upload to PHRM 131 Canvas: the calendar in **English AND another language**, plus your Meducation password. Due **Wed 9/30 at 6 pm**. **Example:** You make the calendar, click Optimize, export English and Spanish versions, and submit both with your password. **Remember:** **Optimize; English + another language; password; due 9/30, 6 pm**."
     },
     {
      "x": "Profile: Farxiga 10 mg 1 PO daily (HF); Metformin 500 mg 2 tabs PO daily (T2DM); Spironolactone 25 mg 1 PO daily (HF); Carvedilol 6.25 mg 1 PO BID (HF); Eliquis 5 mg 1 PO BID (stroke prevention); Sacubitril/Valsartan 24/26 mg 1 PO BID (HF); Atorvastatin 40 mg 1 PO daily (cholesterol); Ozempic pen 0.5 mg SQ once weekly (T2DM).",
-     "s": 0
+     "s": 0,
+     "simple": "**In plain English:** The homework patient has heart failure (HF), type 2 diabetes, stroke prevention and high cholesterol. Daily: Farxiga 10 mg, Metformin 500 mg 2 tabs, Spironolactone 25 mg, Atorvastatin 40 mg. Twice daily (BID): Carvedilol 6.25 mg, Eliquis 5 mg, Sacubitril/Valsartan 24/26 mg. Weekly: Ozempic 0.5 mg SQ. **Example:** Your calendar puts BID meds in morning and evening and Ozempic once a week. **Remember:** **4 daily, 3 BID, 1 weekly injection**."
     },
     {
      "x": "**10 points** — must be completed **PERFECTLY** or remediation (new patient case). If you are the **3rd student at a Medicare table** and need remediation, you are **reassigned to a different station**.",
-     "s": 1
+     "s": 1,
+     "simple": "**In plain English:** The assignment is worth **10 points** and must be **perfect**; otherwise you do remediation (a new patient case). If you need remediation and you're the **3rd student at a Medicare table**, you'll be **moved to a different station**. **Example:** One wrong dose on the calendar means redoing it with a new case, just as one calendar error could harm a real patient. **Remember:** **10 points, perfect or remediation**; 3rd student → reassigned."
     },
     {
      "x": "**Mental Health First Aid**: **Recognize** (notice signs of mental health or substance use challenge) → **Respond** (listen without judgment, initial support incl. crisis) → **Connect** (help reach professional care/other support).",
-     "s": 0
+     "s": 0,
+     "simple": "**In plain English:** Mental Health First Aid (MHFA) is a 3-step approach: **Recognize** signs of a mental health or substance-use problem, **Respond** by listening without judgment and giving initial support (including in a crisis), and **Connect** the person to professional care or other help. **Example:** A patient seems withdrawn and mentions not sleeping: you notice, listen calmly, then point her to a counselor. **Remember:** **Recognize → Respond → Connect**."
     },
     {
      "x": "MHFA elective: 1 unit, intended every semester, class 5–30 (target ~15); students earn **MHFA Certification**.",
-     "s": 0
+     "s": 0,
+     "simple": "**In plain English:** The MHFA elective is **1 unit**, intended to be offered every semester, with a class size of 5–30 (target about 15). Students who complete it earn **MHFA Certification**. **Example:** Take it in the spring and you leave with a certificate showing you're trained to help someone in a mental health crisis. **Remember:** **1 unit, earns MHFA Certification**."
     }
    ]
   }

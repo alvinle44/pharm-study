@@ -12,39 +12,47 @@ E1_DATA.push({
    "pts": [
     {
      "x": "Objectives: demonstrate **seated and standing** BP with both a **sphygmomanometer** and an **automated** machine; know health issues HTN contributes to, factors for accurate measurement, **interpret readings into BP categories**, and discuss lifestyle mods, **orthostatic hypotension**, **white coat HTN**, **wrist cuff use**.",
-     "s": 0
+     "s": 0,
+     "simple": "**In plain English:** This is the to-do list for the unit. You should be able to take a BP sitting and standing, both by hand (a manual cuff, called a sphygmomanometer, plus a stethoscope) and with an automatic machine, sort readings into categories, and explain lifestyle changes, orthostatic hypotension, white coat HTN and wrist cuffs. **Example:** In lab, a classmate sits, you take a manual reading, then have them stand and repeat, then call it \"Stage 1\" or \"Normal.\" **Remember:** Measure it right, then read it right, then counsel."
     },
     {
      "x": "**BP** = force of blood being pumped by the heart. Units: **mmHg** (millimeters of mercury).",
      "s": 0,
-     "note": "Student wrote \"ml/mercury\" – mmHg = MILLIMETERS of mercury (not mL)"
+     "note": "Student wrote \"ml/mercury\" – mmHg = MILLIMETERS of mercury (not mL)",
+     "simple": "**In plain English:** Blood pressure (BP) is how hard the blood pushes as the heart pumps it through your arteries. It is measured in mmHg, which means millimeters of mercury (how high the push could lift a column of mercury), not milliliters. **Example:** A reading of 120/80 mmHg means the push could hold mercury 120 millimeters high at the heartbeat. **Remember:** mm = millimeters (a length), not mL (a volume)."
     },
     {
      "x": "**SBP (systolic)** = pressure against vessel walls caused by the heart **contracting** (systole). **DBP (diastolic)** = pressure against vessels when the heart is **at rest/relaxing** (diastole).",
      "s": 1,
-     "note": "Student: \"heart fills on diastolic\"; systole = \"contracts\"; diastole = \"at rest\""
+     "note": "Student: \"heart fills on diastolic\"; systole = \"contracts\"; diastole = \"at rest\"",
+     "simple": "**In plain English:** BP has two numbers. The top one, systolic (SBP), is the push on vessel walls when the heart squeezes (systole). The bottom one, diastolic (DBP), is the leftover pressure while the heart relaxes and refills (diastole). **Example:** Squeeze a water balloon on a hose: the surge as you squeeze is systolic; the pressure still in the hose after you let go is diastolic. **Remember:** Systolic = Squeeze; Diastolic = Downtime."
     },
     {
      "x": "Glossary: **Auscultation** = manual BP with cuff + stethoscope; **Palpate** = examine by touch; **Sphygmomanometer** = manual BP cuff; **Diastole** = muscles relaxed, heart refills with blood; **Systole** = muscles contracting, squeezing blood out; Hyper-/Hypotension = high/low BP.",
-     "s": 0
+     "s": 0,
+     "simple": "**In plain English:** Key vocab: auscultation = listening (manual BP with cuff + stethoscope); palpate = feel with your fingers; sphygmomanometer = the manual BP cuff; systole = heart squeezing blood out; diastole = heart relaxed and refilling; hyper- = high, hypo- = low. **Example:** \"I palpated the radial pulse, then took BP by auscultation with a sphygmomanometer\" means: felt the wrist pulse, then used the cuff and stethoscope. **Remember:** Hyper = high (like hyperactive); hypo = low."
     },
     {
      "x": "CDC stats: **49.1%** of adults ≥20 y/o have HTN (measured high and/or on antihypertensive; Aug 2021–Aug 2023); **42,343** deaths from essential HTN + hypertensive renal disease (**12.4** per 100,000).",
-     "s": 0
+     "s": 0,
+     "simple": "**In plain English:** CDC numbers show how common and deadly high BP (HTN) is: 49.1% of adults age 20 and up have HTN (measured high and/or on BP meds, Aug 2021 to Aug 2023), and 42,343 deaths came from essential HTN plus hypertensive kidney disease (12.4 per 100,000). **Example:** In a pharmacy line of 10 adults, about half would have HTN. **Remember:** About half of adults = 49.1%. Know the numbers exactly as written in case they are asked."
     },
     {
      "x": "CDC facts: HTN puts you at risk for **heart disease and stroke** (leading causes of death in US). In 2024 HTN was a primary/contributing cause of **680,179** deaths. Nearly half of adults (**48.1%, 119.9 million**) have HTN, defined (slide wording) as SBP >130 or DBP >80 or on BP meds. Only **~1 in 4 (22.5%)** have it controlled. ~45% of uncontrolled have BP **≥140/90** (37 million).",
      "s": 0,
-     "note": "Slide says \">130 / >80\"; CDC/AHA actually use ≥130 or ≥80 (Stage 1 starts AT 130 or 80). Use the category table (p.29) for classifying."
+     "note": "Slide says \">130 / >80\"; CDC/AHA actually use ≥130 or ≥80 (Stage 1 starts AT 130 or 80). Use the category table (p.29) for classifying.",
+     "simple": "**In plain English:** HTN raises the risk of heart disease and stroke, top causes of death in the US. In 2024 it was a main or contributing cause of 680,179 deaths. Nearly half of adults (48.1%, 119.9 million) have it (slide: SBP >130 or DBP >80 or on BP meds), but only about 1 in 4 (22.5%) are controlled; ~45% of uncontrolled are at 140/90 or higher (37 million). **Example:** Of 4 patients with HTN, only about 1 is at goal. **Remember:** Common, deadly, mostly uncontrolled. Classify with the category table."
     },
     {
      "x": "BP is used to: **assess CVD risk**, **diagnose HTN**, **adjust anti-HTN medication**.",
-     "s": 0
+     "s": 0,
+     "simple": "**In plain English:** Checking BP has three jobs: estimate someone's risk of heart and blood vessel disease (CVD), diagnose high BP (HTN), and see whether BP meds need to be changed. **Example:** A patient on lisinopril gets a pharmacy check at 150/95; that reading helps the doctor decide whether the dose should be adjusted. **Remember:** Risk, diagnose, adjust: BP is the scoreboard for heart health and BP meds."
     },
     {
      "x": "Elevated BP can contribute to: **heart attack, stroke, kidney damage/reduced kidney function, sexual dysfunction**, etc.",
      "s": 1,
-     "note": "Student: \"anything with capillaries will get blown out by hypertension\""
+     "note": "Student: \"anything with capillaries will get blown out by hypertension\"",
+     "simple": "**In plain English:** High BP slowly damages blood vessels everywhere, so the organs fed by them suffer: heart (heart attack), brain (stroke), kidneys (damage, reduced function) and even sexual function. **Example:** Think of a garden hose kept at too-high pressure for years: it weakens and leaks, and whatever it waters gets hurt. **Remember:** HTN is a silent pipe problem that shows up as heart, brain, kidney and sexual problems."
     }
    ]
   },
@@ -55,12 +63,14 @@ E1_DATA.push({
     {
      "x": "**Age** (older = more likely to get HTN), **race**, **time of day (diurnal variation)**, **body weight** (obesity/overweight), **emotions**, **medications/foods** (caffeine, tobacco, anti-HTN meds), **physical condition** (exercise, fitness, full bladder).",
      "s": 1,
-     "note": "Student: diurnal – \"most time BP ↑ in morn\"; emotions – \"mad\"; exercise/caffeine \"triggers fight or flight\", \"increases your tension, causing vessels to constrict\""
+     "note": "Student: diurnal – \"most time BP ↑ in morn\"; emotions – \"mad\"; exercise/caffeine \"triggers fight or flight\", \"increases your tension, causing vessels to constrict\"",
+     "simple": "**In plain English:** Many things change BP or its reading: age (older = more HTN), race, time of day (BP naturally rises and falls through the day, called diurnal variation), body weight, emotions like anger or stress, meds and foods (caffeine, tobacco, BP meds), and physical condition (exercise, fitness, a full bladder). **Example:** A patient who just drank coffee, is upset about a long wait and needs the restroom will likely read high. **Remember:** Ask about anything that might push the number up before trusting it."
     },
     {
      "x": "**Full bladder** causes physical stress that can artificially raise BP → **FALSE HIGH**.",
      "s": 1,
-     "note": "Student handwritten: \"full bladder causes physical stress that can artificially raise your BP reading – FALSE HIGH\""
+     "note": "Student handwritten: \"full bladder causes physical stress that can artificially raise your BP reading – FALSE HIGH\"",
+     "simple": "**In plain English:** A full bladder is a physical stress on the body, and that stress can push the BP reading up, giving a false high (a number higher than the person's true BP). **Example:** A patient who has been holding it during a long drive comes straight to the BP station; their reading may look high even if their real BP is normal. **Remember:** Let them use the restroom first. Full bladder = false high."
     }
    ]
   },
@@ -70,29 +80,35 @@ E1_DATA.push({
    "pts": [
     {
      "x": "Cuff **WIDTH ≈ 40%** of upper arm circumference, OR the inflatable **bladder wraps 80–100%** of arm circumference **with no overlap**.",
-     "s": 1
+     "s": 1,
+     "simple": "**In plain English:** The cuff must match the arm. Rule of thumb: the cuff width is about 40% of the upper-arm circumference, or the inflatable bag inside (the bladder) wraps 80–100% of the way around the arm without overlapping. **Example:** Like a belt: it should go almost all the way around, but not wrap past itself. **Remember:** 40% wide, 80–100% around, no overlap."
     },
     {
      "x": "**Too SMALL cuff = falsely HIGH BP. Too LARGE cuff = falsely LOW BP.**",
      "s": 1,
-     "note": "Starred + \"!!!\" by student; AHA: undersized cuff increases errors"
+     "note": "Starred + \"!!!\" by student; AHA: undersized cuff increases errors",
+     "simple": "**In plain English:** Wrong cuff size gives wrong numbers. A cuff that is too small has to squeeze extra hard to close the artery, so the reading comes out falsely high. A cuff too large closes it too easily, so the reading comes out falsely low. **Example:** A bodybuilder measured with a small cuff may look hypertensive when they are not. **Remember:** Small cuff = High reading; Large cuff = Low reading (they go opposite)."
     },
     {
      "x": "AHA: cuff bladder should encircle **80% or more** of arm circumference; an **undersized cuff increases errors**.",
-     "s": 0
+     "s": 0,
+     "simple": "**In plain English:** The American Heart Association (AHA) says the cuff's inner bladder should circle at least 80% of the arm. A cuff that is too small (undersized) makes the reading less accurate. **Example:** If the bag only covers half the arm, it cannot press evenly on the artery, so the number is off, usually too high. **Remember:** 80% or more around the arm; small cuff = more error."
     },
     {
      "x": "Measure the arm: (1) **find the midpoint** between shoulder and elbow with a flexible tape; (2) **wrap the tape horizontally** around that midpoint (not too tight); (3) **note the number** in cm or inches.",
-     "s": 0
+     "s": 0,
+     "simple": "**In plain English:** To pick a cuff, measure the upper arm: find the midpoint between shoulder and elbow with a soft tape, wrap the tape straight around (horizontally) at that spot without squeezing, and read the number in cm or inches. **Example:** Like measuring for a bracelet: loosely around the middle of the upper arm, then match the number to the cuff chart. **Remember:** Midpoint, wrap level, read the number, then choose the cuff."
     },
     {
      "x": "Standard adult sizes: **Small adult 22–26 cm** (8.7–10.2 in); **Regular/Standard >26–34 cm** (10.2–13.4 in); **Large >34–44 cm** (13.4–17.3 in); **Extra-large >44 cm** (17.3 in and up).",
-     "s": 1
+     "s": 1,
+     "simple": "**In plain English:** Adult cuffs come in sizes based on arm circumference: Small adult 22–26 cm (8.7–10.2 in); Regular/Standard >26–34 cm (10.2–13.4 in); Large >34–44 cm (13.4–17.3 in); Extra-large >44 cm (17.3 in and up). **Example:** A patient's arm measures 36 cm, which is over 34, so use the Large cuff. **Remember:** Cutoffs go 22, 26, 34, 44 cm. Each size starts just above the previous top number."
     },
     {
      "x": "Lab: bring your cuff and stethoscope.",
      "s": 1,
-     "note": "Student: \"BRING CUFF AND STETHOSCOPE\""
+     "note": "Student: \"BRING CUFF AND STETHOSCOPE\"",
+     "simple": "**In plain English:** This is a logistics reminder: for the BP lab you need to bring your own BP cuff and stethoscope, because you will be practicing manual readings on classmates. **Example:** Show up without a stethoscope and you cannot hear the tapping sounds needed for a manual reading. **Remember:** Cuff + stethoscope in the bag the night before lab."
     }
    ]
   },
@@ -102,35 +118,42 @@ E1_DATA.push({
    "pts": [
     {
      "x": "Pharmacists most commonly do **sitting and standing** measurements (BP can also be taken lying down or exercising). BP is part of vitals; measured at clinics, health fairs, pharmacies.",
-     "s": 0
+     "s": 0,
+     "simple": "**In plain English:** Pharmacists usually take BP sitting and standing, though it can also be done lying down or during exercise. BP is one of the vital signs and is checked at clinics, health fairs and pharmacies. **Example:** At a community pharmacy health fair, you check a patient seated, then standing if they report dizziness. **Remember:** Pharmacy = mostly sitting and standing."
     },
     {
      "x": "Rest before measuring: **Sitting = 5 minutes**; **Standing = 2–3 minutes**. Rest **without talking**.",
      "s": 1,
-     "note": "\"without talking\" circled by student"
+     "note": "\"without talking\" circled by student",
+     "simple": "**In plain English:** The body needs to settle before a reading. Have the patient rest quietly 5 minutes if sitting, 2–3 minutes if standing, and no talking during that time, because talking raises BP. **Example:** A patient rushes in from the parking lot chatting about their day; have them sit quietly for 5 minutes before you start. **Remember:** Sit 5, stand 2–3, zip it."
     },
     {
      "x": "Make sure to **select the correct cuff size**.",
      "s": 1,
-     "note": "\"!!!\" by student"
+     "note": "\"!!!\" by student",
+     "simple": "**In plain English:** Before measuring, choose the cuff that fits the patient's arm. The wrong size is one of the most common reasons for a wrong reading. **Example:** Using the regular cuff on a very large arm makes the reading falsely high; using it on a very thin arm makes it falsely low. **Remember:** Measure the arm first, then grab the cuff. Small = high, large = low."
     },
     {
      "x": "Ask: in the **last 30 minutes** has the pt consumed **caffeine**, **exercised**, or **smoked**? Has the pt **emptied their bladder**? Is the pt taking any **BP medications**?",
-     "s": 1
+     "s": 1,
+     "simple": "**In plain English:** Screen for things that skew BP. Ask: in the last 30 minutes, has the patient had caffeine, exercised or smoked? Have they emptied their bladder? Are they on any BP meds? **Example:** \"Mr. Lee, any coffee, cigarettes or a workout in the last half hour? Have you used the restroom? Do you take anything for blood pressure?\" **Remember:** 30 minutes: caffeine, exercise, smoking; plus bladder and BP meds."
     },
     {
      "x": "**Sitting posture:** arm supported at **heart level**; **feet flat** on ground, **legs uncrossed**; **back fully supported**.",
      "s": 1,
-     "note": "\"heart level\" circled"
+     "note": "\"heart level\" circled",
+     "simple": "**In plain English:** Correct sitting position: arm resting on a support at heart level, feet flat on the floor, legs uncrossed, back fully against the chair. **Example:** Patient sits in a chair with a back, arm resting on the counter at chest height, both feet on the floor. **Remember:** Arm at heart, feet flat, legs uncrossed, back supported. Most of these mistakes push the number up."
     },
     {
      "x": "**Standing posture:** support pt's arm **fully at heart level**; **feet flat**, centered posture.",
-     "s": 0
+     "s": 0,
+     "simple": "**In plain English:** Standing position: you hold or support the patient's arm fully at heart level, and they stand with feet flat in a balanced, centered stance. **Example:** For a standing check, you cradle the patient's forearm so the cuff stays at chest height while they stand still. **Remember:** Standing still needs the arm supported at heart level."
     },
     {
      "x": "Reminders: arm **fully supported and level with heart**; **no talking**; cuff on **bare skin** (no clothing); **correct cuff size**.",
      "s": 1,
-     "note": "Student: \"Select all that applies type of question\""
+     "note": "Student: \"Select all that applies type of question\"",
+     "simple": "**In plain English:** Quick checklist for every reading: arm fully supported and level with the heart, nobody talking, cuff on bare skin (not over a sleeve) and the right cuff size. Expect a \"select all that apply\" question on this. **Example:** Patient wearing a sweater: roll up or remove the sleeve, rest the arm on the table and stay quiet while measuring. **Remember:** Heart level, hush, bare skin, right size."
     }
    ]
   },
@@ -140,32 +163,39 @@ E1_DATA.push({
    "pts": [
     {
      "x": "AMA/AHA \"7 simple tips\": **cuff too small adds 2–10 mmHg**; **cuff over clothing adds 5–50 mmHg**; **unsupported arm adds 10 mmHg**; **crossed legs add 2–8 mmHg**; **unsupported back/feet add 6 mmHg**; **full bladder adds 10 mmHg**; **talking/active listening adds 10 mmHg**.",
-     "s": 1
+     "s": 1,
+     "simple": "**In plain English:** AMA/AHA list how much common mistakes can falsely raise BP: cuff too small +2–10 mmHg; cuff over clothing +5–50; unsupported arm +10; crossed legs +2–8; unsupported back/feet +6; full bladder +10; talking/active listening +10. **Example:** A chatty patient with a full bladder could read about 20 mmHg high and look hypertensive when they are not. **Remember:** All of these push the number UP. Several are 10; clothing has the widest range (5–50)."
     },
     {
      "x": "**Arm below heart level (right atrium) → too HIGH; arm above heart level → too LOW.** Arm unsupported/held up by pt → **higher**.",
-     "s": 1
+     "s": 1,
+     "simple": "**In plain English:** The arm should be level with the heart (the right atrium). Arm below the heart: gravity adds pressure, so the reading is too high. Arm above the heart: too low. If the patient holds the arm up themselves, the muscle effort makes it read higher. **Example:** Arm hanging down at the side gives a falsely high number. **Remember:** Below = high, above = low; unsupported = higher."
     },
     {
      "x": "**Unsupported back may increase DIASTOLIC; crossing legs may increase SYSTOLIC.**",
-     "s": 1
+     "s": 1,
+     "simple": "**In plain English:** Position mistakes affect specific numbers: an unsupported back may raise the bottom number (diastolic), while crossing the legs may raise the top number (systolic). **Example:** A patient perched forward on a stool with no backrest may show a higher diastolic; one sitting with legs crossed may show a higher systolic. **Remember:** Back = Bottom (diastolic); Crossed legs = top (systolic)."
     },
     {
      "x": "Position: **DBP is higher seated**; **SBP is higher supine** (lying down).",
-     "s": 0
+     "s": 0,
+     "simple": "**In plain English:** Body position shifts the numbers a little: the bottom number (DBP) is higher when sitting, and the top number (SBP) is higher when lying flat (supine). **Example:** The same patient might read slightly different seated versus lying in a hospital bed, so note the position you used. **Remember:** Seated = DBP higher; supine = SBP higher. Always record the position."
     },
     {
      "x": "Deflate at **2–3 mmHg/sec**. Too-fast deflation (AHA: >2 mm/sec) makes **SBP appear LOWER and DBP appear HIGHER**.",
      "s": 1,
-     "note": "Source slide says 2–3 mmHg/s is correct but comment says \">2 mm per second\" causes error; kept source wording"
+     "note": "Source slide says 2–3 mmHg/s is correct but comment says \">2 mm per second\" causes error; kept source wording",
+     "simple": "**In plain English:** After pumping up the cuff, let air out slowly, 2–3 mmHg per second. If you deflate too fast (the AHA flags faster than 2 mm/sec), you miss the exact moments of the sounds, so SBP looks lower and DBP looks higher than reality. **Example:** If the needle drops 10 mmHg a second, the first tap gets heard late (SBP reads low) and the last tap is passed early (DBP reads high). **Remember:** Too fast squeezes the reading together: SBP down, DBP up."
     },
     {
      "x": "**Neither the patient nor the measurer should talk** – talking may cause deviations.",
-     "s": 0
+     "s": 0,
+     "simple": "**In plain English:** During the reading, neither the patient nor the person measuring should talk, because talking (and even actively listening) can change BP and make the reading off. **Example:** Save the small talk for after: \"Let's stay quiet for a minute while I take this, then we can chat.\" **Remember:** Talking can add about 10 mmHg. Nobody talks during the reading."
     },
     {
      "x": "Cuff too large → falsely **low**.",
-     "s": 1
+     "s": 1,
+     "simple": "**In plain English:** A cuff that is too big for the arm closes the artery too easily, so the reading comes out falsely low (lower than the person's real BP). **Example:** Using an adult large cuff on a petite adult may make their BP look nicely normal when it is actually high. **Remember:** Large cuff = Low reading; small cuff = high."
     }
    ]
   },
@@ -175,45 +205,55 @@ E1_DATA.push({
    "pts": [
     {
      "x": "Equipment: **sphygmomanometer/manual cuff** (cuff, gauge, bulb/pump) + **stethoscope** (earpieces, bell, diaphragm).",
-     "s": 0
+     "s": 0,
+     "simple": "**In plain English:** Manual BP equipment has two parts: the sphygmomanometer (the cuff, the gauge you read and the bulb/pump you squeeze) and the stethoscope (earpieces, plus the chest piece with a bell and a diaphragm). **Example:** In lab you will hold the bulb in one hand, watch the gauge and listen through the stethoscope at the same time. **Remember:** Cuff + gauge + bulb, and stethoscope."
     },
     {
      "x": "1) Wrap cuff on **upper arm** (move clothing), position so you can **see the gauge**.",
-     "s": 0
+     "s": 0,
+     "simple": "**In plain English:** Step 1: wrap the cuff on the bare upper arm (move clothing out of the way) and turn it so you can easily see the gauge. **Example:** Roll up the patient's sleeve, put the cuff on the upper arm, and angle the dial toward you so you are not twisting to read it. **Remember:** Bare upper arm, gauge where you can see it."
     },
     {
      "x": "2) Line up the **artery mark** with the **brachial artery**; lower cuff edge **½–1 inch above the antecubital space** (elbow bend).",
-     "s": 1
+     "s": 1,
+     "simple": "**In plain English:** Step 2: line up the artery mark on the cuff with the brachial artery (the big artery on the inner side of the elbow area). The bottom edge of the cuff sits ½–1 inch above the antecubital space (the inside bend of the elbow). **Example:** Leave about a finger's width above the elbow crease so there is room for the stethoscope. **Remember:** Arrow on artery, ½–1 inch above the elbow bend."
     },
     {
      "x": "3) Snugness: you can fit **two fingers** under the cuff – snug enough not to fall off but not cutting off blood flow before inflation.",
-     "s": 1
+     "s": 1,
+     "simple": "**In plain English:** Step 3: check the fit by sliding two fingers under the cuff. It should be snug enough not to slip off, but not so tight it blocks blood flow before you even pump it up. **Example:** Like a watch band: two fingers fit under it, but it does not slide around. **Remember:** Two-finger rule."
     },
     {
      "x": "If usual SBP unknown → **estimate (palpated) SBP**: palpate **radial artery** (wrist, under thumb) with **index and middle fingers**, inflate until you **can't feel the pulse**. **IT IS AN ESTIMATE ONLY.**",
-     "s": 1
+     "s": 1,
+     "simple": "**In plain English:** If you do not know the patient's usual top number, estimate it first by feel (palpated SBP). Put your index and middle fingers on the radial pulse (wrist, thumb side), pump the cuff until the pulse disappears and note that number. It is only an estimate. **Example:** The pulse vanishes at 130, so the patient's SBP is roughly 130. **Remember:** Pulse gone = rough SBP. Estimate only, not a reading."
     },
     {
      "x": "4) Place stethoscope **diaphragm over the brachial artery**; inflate to **~30 mmHg above estimated SBP**.",
-     "s": 1
+     "s": 1,
+     "simple": "**In plain English:** Step 4: place the flat side of the stethoscope (the diaphragm) over the brachial artery, then pump the cuff to about 30 mmHg above the estimated SBP, so you start above where the first sound will appear. **Example:** Estimated SBP was 130, so inflate to about 160. **Remember:** Estimate + 30. Diaphragm on the brachial artery."
     },
     {
      "x": "5) Open valve, release air at **2–3 mmHg per second**; earpieces pointed **forward (toward your nose)**.",
-     "s": 1
+     "s": 1,
+     "simple": "**In plain English:** Step 5: open the valve and let air out slowly, 2–3 mmHg per second. Wear the stethoscope earpieces pointing forward (toward your nose) so they fit your ear canals and you hear clearly. **Example:** Turn the valve just a little so the needle ticks down steadily, not drops. **Remember:** Slow and steady 2–3 per second; earpieces face your nose."
     },
     {
      "x": "Cuff inflated → artery occluded → **no sound**. **First tapping sound = SBP** (dial may bounce; blood spurts into constricted artery). When flow returns completely, **tapping stops = DBP** (blood flows freely). These are **Korotkoff sounds** – we mainly care about the **first and last**.",
      "s": 1,
-     "note": "Student: \"don't follow gauge; use sound\"; \"listen for last sound\""
+     "note": "Student: \"don't follow gauge; use sound\"; \"listen for last sound\"",
+     "simple": "**In plain English:** With the cuff fully pumped up, the artery is squeezed shut, so there is no sound. As air is let out, the first tapping sound is SBP (blood spurting through). When flow is fully normal again, the tapping stops; that point is DBP. These are Korotkoff sounds; you mainly need the first and last. **Example:** Tap starts at 128, stops at 78, so 128/78. **Remember:** Go by what you hear, not the needle bounce: first tap = top, last tap = bottom."
     },
     {
      "x": "Record **SBP/DBP in mmHg**; manual readings recorded in **EVEN NUMBERS** (nearest 2 mmHg), e.g., 120/80.",
      "s": 1,
-     "note": "\"!!!!\" by student"
+     "note": "\"!!!!\" by student",
+     "simple": "**In plain English:** Write BP as SBP/DBP in mmHg. Manual readings are recorded in even numbers, rounded to the nearest 2 mmHg. **Example:** You hear the first tap between 121 and 122: write 122. Final record looks like 122/80, never 121/79. **Remember:** Manual = even numbers only."
     },
     {
      "x": "Lab videos: full auscultation demo – **disregard the part about taking BP during exercise**.",
-     "s": 0
+     "s": 0,
+     "simple": "**In plain English:** Admin note: the lab videos show the full manual (auscultation) technique; ignore the part about taking BP during exercise, since that is not part of what you need to know. **Example:** When watching, focus on cuff placement, inflation, deflation speed and the sounds, and skip the treadmill segment. **Remember:** Learn the resting technique; skip the exercise part."
     }
    ]
   },
@@ -223,16 +263,19 @@ E1_DATA.push({
    "pts": [
     {
      "x": "Automated: wrap cuff on upper arm (move clothing) so you can see the screen → line artery mark up with **brachial artery**, lower edge ½–1 inch above antecubital space → **hit start** → **record BP and pulse**.",
-     "s": 0
+     "s": 0,
+     "simple": "**In plain English:** Automated steps: wrap the cuff on the bare upper arm so you can see the screen, line the artery mark up with the brachial artery, lower edge ½–1 inch above the elbow bend, press start, then write down BP and pulse. **Example:** Like a pharmacy kiosk machine: the cuff placement is the same as manual, but the machine does the listening. **Remember:** Same cuff placement as manual; record BP AND pulse."
     },
     {
      "x": "**Auscultation:** needs **quiet location**; requires manual cuff + stethoscope; **skilled** measurement; **does NOT require calibration**.",
-     "s": 1
+     "s": 1,
+     "simple": "**In plain English:** Manual (auscultation) BP needs a quiet room so you can hear the sounds, a manual cuff and stethoscope, and practiced skill. It does not need calibration (checking and adjusting a device to make sure it reads correctly). **Example:** Trying a manual reading at a loud health fair is hard because you cannot hear the taps. **Remember:** Manual = quiet + skill, no calibration."
     },
     {
      "x": "**Automation:** **not impacted by background noise**; no stethoscope; **can be taught to a patient for self-measured BP**; **may require calibration**.",
      "s": 1,
-     "note": "Student: \"doc or cardiologist mainly use manual\""
+     "note": "Student: \"doc or cardiologist mainly use manual\"",
+     "simple": "**In plain English:** Automated BP machines are not affected by background noise, need no stethoscope, and can be taught to patients for home (self-measured) BP, but they may need calibration, meaning periodic checks that they still read accurately. **Example:** A patient buys a home upper-arm monitor; you show them how to use it and suggest checking it against the clinic's readings. **Remember:** Automated = easy and noise-proof, but needs calibration."
     }
    ]
   },
@@ -243,30 +286,36 @@ E1_DATA.push({
     {
      "x": "Recorded as **SBP/DBP**. Classify by **whichever number is worse** (higher category).",
      "s": 1,
-     "note": "Student boxed: \"Whichever one is worse\"; \"<120 = good, <80 = good\""
+     "note": "Student boxed: \"Whichever one is worse\"; \"<120 = good, <80 = good\"",
+     "simple": "**In plain English:** BP is written top/bottom (SBP/DBP). To classify it, check both numbers and put the patient in whichever category is worse (higher). **Example:** 118/92: the 118 alone would be normal, but 92 is Stage 2, so the reading is Stage 2. **Remember:** The worse number wins."
     },
     {
      "x": "**Normal:** SBP **<120 AND** DBP **<80**.",
-     "s": 1
+     "s": 1,
+     "simple": "**In plain English:** Normal BP means both numbers are good: the top under 120 AND the bottom under 80. **Example:** 116/76 is normal. 116/82 is not, because the bottom number is 80 or above. **Remember:** Normal = under 120 AND under 80 (both)."
     },
     {
      "x": "**Elevated:** SBP **120–129 AND** DBP **<80**.",
-     "s": 1
+     "s": 1,
+     "simple": "**In plain English:** Elevated means the top number is 120–129 while the bottom is still under 80. It is a warning zone, not yet hypertension. **Example:** 124/78 is Elevated. 124/82 is Stage 1, because the bottom number pulls it up. **Remember:** Elevated is only about the top number (120s) with a normal bottom."
     },
     {
      "x": "**HTN Stage 1:** SBP **130–139 OR** DBP **80–89**.",
      "s": 1,
-     "note": "\"or\" circled"
+     "note": "\"or\" circled",
+     "simple": "**In plain English:** Stage 1 hypertension is a top number of 130–139 OR a bottom number of 80–89. Only one needs to be in range. **Example:** 128/84 is Stage 1 because 84 is in the 80s, even though 128 alone would be Elevated. **Remember:** 130s or 80s = Stage 1. \"OR\" means either number counts."
     },
     {
      "x": "**HTN Stage 2:** SBP **≥140 OR** DBP **≥90**.",
      "s": 1,
-     "note": "\"or\" circled"
+     "note": "\"or\" circled",
+     "simple": "**In plain English:** Stage 2 hypertension is a top number of 140 or higher OR a bottom number of 90 or higher. Either one is enough. **Example:** 138/92 is Stage 2 because the bottom number is 90 or more. **Remember:** 140 or 90 and up = Stage 2."
     },
     {
      "x": "**Hypertensive crisis:** SBP **>180 AND/OR** DBP **>120** – consult doctor immediately.",
      "s": 1,
-     "note": "\"and/or\" circled. Current AHA chart (2025 AHA/ACC guideline) keeps all cutoffs but splits >180/>120 into \"severe hypertension\" (no symptoms → recheck, call HCP) vs \"hypertensive emergency\" (symptoms/organ damage → 911). Use lecture term \"hypertensive crisis\" on the exam."
+     "note": "\"and/or\" circled. Current AHA chart (2025 AHA/ACC guideline) keeps all cutoffs but splits >180/>120 into \"severe hypertension\" (no symptoms → recheck, call HCP) vs \"hypertensive emergency\" (symptoms/organ damage → 911). Use lecture term \"hypertensive crisis\" on the exam.",
+     "simple": "**In plain English:** Hypertensive crisis is a top number above 180 and/or a bottom number above 120. The patient should see or contact a doctor immediately. Use \"hypertensive crisis\" on the exam (your lecture's term). **Example:** A pharmacy reading of 186/110 is a crisis because the top number is over 180; refer right away. **Remember:** Over 180 or over 120 = crisis, refer now."
     }
    ]
   },
@@ -277,26 +326,31 @@ E1_DATA.push({
     {
      "x": "**Orthostatic/postural hypotension (OH):** **≥20 mmHg ↓ SBP** or **≥10 mmHg ↓ DBP** from sitting (to standing). Sitting→standing BP must be measured **within 5 minutes**.",
      "s": 1,
-     "note": "Lecture = within 5 min (exam answer). FYI standard consensus/AHA definition: drop within 3 min of standing."
+     "note": "Lecture = within 5 min (exam answer). FYI standard consensus/AHA definition: drop within 3 min of standing.",
+     "simple": "**In plain English:** Orthostatic hypotension (OH) is BP falling too much on standing up: a drop of 20 mmHg or more in SBP, or 10 mmHg or more in DBP, from sitting to standing. Per your lecture, the standing reading must be taken within 5 minutes. **Example:** Seated 130/80, standing 108/76: SBP fell 22, so OH. **Remember:** 20 top or 10 bottom; within 5 minutes (lecture's version)."
     },
     {
      "x": "OH symptoms: **lightheadedness, fainting, blurry vision**. Cause: heart can't adequately pump blood to the brain after a posture change (sitting/lying → standing).",
-     "s": 0
+     "s": 0,
+     "simple": "**In plain English:** OH causes lightheadedness, fainting and blurry vision. It happens because after sitting or lying, then standing up, the heart cannot pump enough blood up to the brain fast enough. **Example:** An older patient stands up from a chair, feels woozy and grabs the counter; that may be OH. **Remember:** Stand up, blood stays down, brain gets less: dizzy."
     },
     {
      "x": "**White coat HTN:** BP higher in clinic but normal outside; **~13%** of patients. Official definition: **≥3 separate clinic readings >140/90** AND **≥2 non-clinic readings <140/90**.",
      "s": 1,
-     "note": "Student: \"get nervous when they see doctor\". Lecture uses the older 140/90 cutoff (exam answer); 2017/2025 ACC/AHA use office ≥130/80 with out-of-office <130/80."
+     "note": "Student: \"get nervous when they see doctor\". Lecture uses the older 140/90 cutoff (exam answer); 2017/2025 ACC/AHA use office ≥130/80 with out-of-office <130/80.",
+     "simple": "**In plain English:** White coat HTN is when BP is high in the clinic (often from nerves) but normal elsewhere; about 13% of patients. Official definition (lecture): at least 3 separate clinic readings over 140/90 AND at least 2 readings outside the clinic under 140/90. **Example:** A patient reads 150/95 three times at the doctor but 125/80 twice at home. **Remember:** High in the clinic, normal at home: 3 high in, 2 normal out."
     },
     {
      "x": "**Wrist cuff:** **NOT recommended by AHA**; restrict to patients whose **arms are too large** for available arm cuffs. Wrist BP usually **reads higher** and is **less accurate** than a well-performed arm BP. Counsel: **bring the wrist cuff to the doctor** so it can be compared with in-office devices.",
      "s": 1,
-     "note": "Student: \"if lower than heart, gravity pushes more so it reads higher\""
+     "note": "Student: \"if lower than heart, gravity pushes more so it reads higher\"",
+     "simple": "**In plain English:** The AHA does not recommend wrist cuffs; use them only when the arm is too big for any available arm cuff. Wrist readings usually run higher and are less accurate than a well-done arm reading. Tell patients to bring their wrist cuff to the doctor to compare with the office device. **Example:** A patient's wrist cuff says 150/90 at home; checking it against the clinic's arm reading shows whether it is off. **Remember:** Wrist = last resort; reads higher; bring it in."
     },
     {
      "x": "**Lifestyle mods** (can be done before resorting to meds): **DASH** diet (more fruits/veggies, low-fat dairy, less saturated & total fat); **weight loss** if overweight; **sodium <1500 mg/day**; alcohol **≤2 drinks/day men, ≤1/day women**; **quit smoking**; **exercise ≥30 min several days/week**.",
      "s": 1,
-     "note": "Student: sodium \"retains fluids\"; exercise → \"endothelium (helps), more stretch\""
+     "note": "Student: sodium \"retains fluids\"; exercise → \"endothelium (helps), more stretch\"",
+     "simple": "**In plain English:** Lifestyle changes can lower BP, sometimes before meds are needed: DASH diet (more fruits/veggies and low-fat dairy, less saturated and total fat), weight loss if overweight, sodium under 1500 mg/day, alcohol at most 2 drinks/day for men and 1 for women, quit smoking, and exercise at least 30 min several days a week. **Example:** Swap chips for fruit and take a 30-minute walk most days. **Remember:** DASH, drop weight, salt <1500, limit drinks (2/1), no smoking, move 30."
     }
    ]
   }

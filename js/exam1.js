@@ -133,7 +133,7 @@ function e1Guide(card,t){
     <p class="hint">★ = emphasized on the slides or in the student notes. <i>Note</i> = handwritten/typed annotation. Sources: ${esc(t.sources.join(", "))}</p>
     ${t.guide.map((s,si)=>{ const pts=s.pts.filter(p=>!so||p.s); if(!pts.length) return "";
       return `<details class="gsec" ${so||si===0?"open":""}><summary><b>${esc(s.t)}</b> ${s.src?`<span class="lbl">${esc(s.src)}</span>`:""}</summary>
-      <ul class="gpts">${pts.map(p=>`<li class="${p.s?"st":""}">${p.s?'<span class="star">★</span> ':""}${md(p.x)}${p.note?`<div class="mynote">Note: ${esc(p.note)}</div>`:""}</li>`).join("")}</ul></details>`; }).join("")}
+      <ul class="gpts">${s.pts.map((p,pi)=>(!so||p.s)?`<li class="${p.s?"st":""}">${p.s?'<span class="star">★</span> ':""}${md(p.x)}${p.simple?` <button type="button" class="e1gx" data-e1simple="g~${t.id}|${si}|${pi}" aria-label="Explain this simply" title="Explain simply">💡</button>`:""}${p.note?`<div class="mynote">Note: ${esc(p.note)}</div>`:""}</li>`:"").join("")}</ul></details>`; }).join("")}
     <div class="row"><button class="primary" data-e1m="quiz">Practice questions →</button></div>`;
 }
 
@@ -288,6 +288,7 @@ Reply with only a JSON array like:
 function e1SimpleBtn(kind,key){ return `<div class="row left e1simrow"><button type="button" class="ghost e1simbtn" data-e1simple="${kind}~${esc(key)}">💡 Explain simply</button></div>`; }
 function e1FindItem(ref){
   const i=ref.indexOf("~"), kind=ref.slice(0,i), key=ref.slice(i+1);
+  if(kind==="g"){ const [id,si,pi]=key.split("|"), t=e1topic(id), sec=t&&t.guide[+si], p=sec&&sec.pts[+pi]; return p?{kind, t, sec, p}:null; }
   for(const t of E1_DATA){
     if(kind==="c"){ const c=e1Cards(t.id).find(c=>c.key===key); if(c) return {kind, t, c}; }
     else { const q=e1Qs(t.id).find(q=>q.key===key); if(q) return {kind, t, q}; }
@@ -297,7 +298,8 @@ function e1FindItem(ref){
 const e1Plain = s => String(s||"").replace(/\*\*/g,"").replace(/\s+/g," ").trim();
 function e1GptPrompt(it){
   let body;
-  if(it.kind==="c") body=`Flashcard question: ${e1Plain(it.c.f)}\nAnswer from my lecture: ${e1Plain(it.c.b)}`;
+  if(it.kind==="g") body=`Study guide section: ${e1Plain(it.sec.t)}\nPoint from my lecture notes: ${e1Plain(it.p.x)}`+(it.p.note?`\nMy handwritten note: ${e1Plain(it.p.note)}`:"");
+  else if(it.kind==="c") body=`Flashcard question: ${e1Plain(it.c.f)}\nAnswer from my lecture: ${e1Plain(it.c.b)}`;
   else { const q=it.q;
     const ans = q.type==="order" ? q.o.map((o,i)=>(i+1)+". "+e1Plain(o)).join("  ") : q.type==="fill" ? q.n+(q.unit?" "+q.unit:"") : q.a.map(i=>e1Plain(q.o[i])).join("; ");
     body=`Exam question: ${e1Plain(q.q)}\n`+(q.type==="single"||q.type==="multi"?`Options: ${q.o.map(e1Plain).join(" | ")}\n`:"")+`Correct answer${q.type==="multi"?"s":""} (per my lecture): ${ans}\nMy lecture's explanation: ${e1Plain(q.w)}`; }
@@ -324,8 +326,8 @@ let e1SimCur=null;
 function e1OpenSimple(ref){
   const it=e1FindItem(ref); if(!it) return toast("Couldn't find that item");
   e1SimCur=it;
-  const text = it.kind==="c" ? it.c.simple : it.q.simple;
-  const title = it.kind==="c" ? it.c.f : it.q.q;
+  const text = it.kind==="g" ? it.p.simple : it.kind==="c" ? it.c.simple : it.q.simple;
+  const title = it.kind==="g" ? it.p.x : it.kind==="c" ? it.c.f : it.q.q;
   let m=document.getElementById("e1sim");
   if(!m){ m=document.createElement("div"); m.id="e1sim"; m.setAttribute("role","dialog"); m.setAttribute("aria-modal","true"); document.body.appendChild(m);
     m.addEventListener("click", e=>{ if(e.target===m||e.target.closest("[data-simclose]")){ m.hidden=true; document.body.classList.remove("e1simopen"); }
@@ -348,7 +350,9 @@ function e1OpenSimple(ref){
 #e1sim .e1simtxt p{margin:0 0 10px}
 body.e1simopen{overflow:hidden}
 .e1simrow{margin-top:8px}
-#toast{z-index:1001}`; document.head.appendChild(st); })();
+#toast{z-index:1001}
+.gpts .e1gx{display:inline-flex;align-items:center;justify-content:center;min-width:30px;height:26px;padding:0 6px;margin-left:4px;border-radius:99px;font-size:14px;line-height:1;vertical-align:middle;border:1px solid rgba(127,127,127,.35);background:transparent;cursor:pointer}
+.gpts .e1gx:hover{background:rgba(127,127,127,.12)}`; document.head.appendChild(st); })();
 
 // ---------- events ----------
 function e1Cur(){ if(e1q&&e1q.id==="mix"&&e1s().tab==="exam") return e1q.list[e1q.i]; return e1s().tab==="exam" ? (e1x&&e1x.list[e1x.i]) : (e1q&&e1q.list[e1q.i]); }
