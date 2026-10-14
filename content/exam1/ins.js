@@ -339,342 +339,410 @@ E1_DATA.push({
   [
    "Generic for Humalog?",
    "**Insulin lispro** (rapid-acting)",
-   1
+   1,
+   "**In plain English:** Humalog is a brand name; the actual drug inside is **insulin lispro**, a rapid-acting insulin meaning it kicks in within minutes to cover a meal. **Example:** Like \"Kleenex\" being a brand of tissue: the box says Kleenex, but what you are using is tissue. The pen says Humalog, the drug is lispro. **Remember:** **H**uma**L**og ↔ **L**ispro: both have an \"L,\" and Admelog is the other lispro brand."
   ],
   [
    "Generic for Admelog?",
    "**Insulin lispro** (rapid-acting)",
-   1
+   1,
+   "**In plain English:** Admelog is another brand of **insulin lispro**, the same rapid-acting drug found in Humalog. Two companies, one molecule. **Example:** Like two different labels on cans of the same soup: the label changes, the ingredient inside doesn't. Admelog and Humalog are both lispro. **Remember:** Admel**og** and Humal**og** both end in \"log\" and both are lispro."
   ],
   [
    "Generic for Novolog?",
    "**Insulin aspart** (rapid-acting)",
-   1
+   1,
+   "**In plain English:** Novolog is the brand name for **insulin aspart**, a rapid-acting insulin that starts working within minutes, used to cover meals. **Example:** Think of a fast-food order: you take Novolog right around mealtime because it acts fast, just like the other rapid-acting insulins (lispro, glulisine). **Remember:** **N**ovolog = **A**spart. Try \"**Novo** **A**rt\": a new piece of art."
   ],
   [
    "Generic for Apidra?",
    "**Insulin glulisine** (rapid-acting)",
-   1
+   1,
+   "**In plain English:** Apidra is the brand name for **insulin glulisine**, the third rapid-acting insulin alongside lispro and aspart. **Example:** Picture a sprinter named \"Apidra\" who is \"rapid\" on the track; she is the glulisine member of the rapid-acting team. **Remember:** **A**pidra sounds like \"r**apid**\" and it is rapid-acting glulisine."
   ],
   [
    "Generic for Humulin R?",
    "**Regular insulin** (short-acting)",
-   1
+   1,
+   "**In plain English:** Humulin R contains **regular insulin**, the short-acting type. It works slower than rapid-acting insulin but faster than NPH. **Example:** Like a regular coffee versus an espresso shot: regular insulin is the \"regular\" middle speed, starting in about 30 min to 1 hr. **Remember:** The **R** in Humulin **R** stands for **R**egular."
   ],
   [
    "Generic for Novolin R?",
    "**Regular insulin** (short-acting)",
-   1
+   1,
+   "**In plain English:** Novolin R is the other brand of **regular insulin** (short-acting), made by a different company than Humulin R. **Example:** Two brands of the same plain item, like two labels of \"regular\" milk on a shelf. Novolin R and Humulin R are both regular insulin. **Remember:** **R** = **R**egular, whether it says Humulin or Novolin."
   ],
   [
    "Generic for Humulin N?",
    "**Insulin NPH** (intermediate-acting)",
-   1
+   1,
+   "**In plain English:** Humulin N contains **insulin NPH**, an intermediate-acting insulin: slower to start and lasts longer than regular insulin. It is the cloudy one. **Example:** Like a slow-cooker meal: it takes a few hours to get going (1–3 hrs) and peaks later (4–12 hrs). **Remember:** The **N** in Humulin **N** stands for **N**PH."
   ],
   [
    "Generic for Novolin N?",
    "**Insulin NPH** (intermediate-acting)",
-   1
+   1,
+   "**In plain English:** Novolin N is the other brand of **insulin NPH**, the intermediate-acting, cloudy insulin. **Example:** Same idea as Humulin N, just a different company label, like two brands of the same generic cereal. **Remember:** **N** = **N**PH; Novolin N and Humulin N are twins."
   ],
   [
    "Generic for Levemir?",
    "**Insulin detemir** (long-acting)",
-   1
+   1,
+   "**In plain English:** Levemir is the brand name for **insulin detemir**, a long-acting insulin that gives steady background coverage with no peak. **Example:** Like a slow, steady drip from a faucet all day, instead of a big splash at mealtime. **Remember:** **L**evemir is **L**ong-acting detemir: \"Lev\" sounds like \"level,\" a level, flat line with no peak."
   ],
   [
    "Generic for Lantus?",
    "**Insulin glargine** (long-acting)",
-   1
+   1,
+   "**In plain English:** Lantus is the brand name for **insulin glargine**, a long-acting, background (basal) insulin with no peak. **Example:** Like a thermostat keeping the house at a steady temperature all day; glargine keeps a low, steady insulin level. **Remember:** **Lantus** = glargine; glargine has three brands: Lantus, Basaglar, Semglee."
   ],
   [
    "Generic for Basaglar?",
    "**Insulin glargine** (long-acting)",
-   1
+   1,
+   "**In plain English:** Basaglar is another brand of **insulin glargine**, the long-acting background insulin with no peak. **Example:** Like different labels on the same bottled water: Lantus, Basaglar and Semglee all contain glargine. **Remember:** **Bas**aglar sounds like \"**bas**al\" (background), and glargine is basal insulin."
   ],
   [
    "Generic for Semglee?",
    "**Insulin glargine** (long-acting)",
-   1
+   1,
+   "**In plain English:** Semglee is a brand of **insulin glargine**, the long-acting, no-peak background insulin. **Example:** Semglee is to Lantus what a different label is to the same product: same glargine inside, different name on the box. **Remember:** Glargine trio: **L**antus, **B**asaglar, **S**emglee (\"L-B-S,\" like pounds)."
   ],
   [
    "Brand name(s) of insulin lispro?",
    "**Humalog, Admelog**",
-   1
+   1,
+   "**In plain English:** Insulin lispro is sold under the brands **Humalog** and **Admelog**. Both are rapid-acting mealtime insulins. **Example:** Like one song released by two record labels: same tune (lispro), two names on the cover. **Remember:** Both brands end in \"**-log**\": Huma**log**, Adme**log**. (Careful: Novo**log** is aspart, the exception.)"
   ],
   [
    "Brand name of insulin aspart?",
    "**Novolog**",
-   1
+   1,
+   "**In plain English:** Insulin aspart's brand name is **Novolog**, a rapid-acting insulin taken around mealtime. **Example:** If a prescription says \"insulin aspart,\" the pen on the shelf will say Novolog, like a generic recipe that has one famous brand. **Remember:** Novolog = **aspart**: think \"Novo art.\""
   ],
   [
    "Brand name of insulin glulisine?",
    "**Apidra**",
-   1
+   1,
+   "**In plain English:** Insulin glulisine's brand name is **Apidra**, a rapid-acting insulin. **Example:** A patient asks for glulisine; you grab the Apidra box, the third member of the rapid-acting club with lispro and aspart. **Remember:** **Apidra** hides \"r**apid**\" inside it."
   ],
   [
    "Brand names of regular insulin?",
    "**Humulin R, Novolin R**",
-   1
+   1,
+   "**In plain English:** Regular (short-acting) insulin is sold as **Humulin R** and **Novolin R**. Same drug, two manufacturers, starting in about 30 min to 1 hr. **Example:** Like two grocery store brands of plain white bread; both are \"regular.\" **Remember:** **R** in the name = **R**egular insulin."
   ],
   [
    "Brand names of insulin NPH?",
    "**Humulin N, Novolin N**",
-   1
+   1,
+   "**In plain English:** Insulin NPH (intermediate-acting, and the cloudy one that gets rolled) is sold as **Humulin N** and **Novolin N**. Same drug, two manufacturers. **Example:** Two labels on the same slow-cooker style insulin that ramps up over hours (onset 1–3 hrs, peak 4–12 hrs). **Remember:** **N** in the name = **N**PH."
   ],
   [
    "Brand name of insulin detemir?",
    "**Levemir**",
-   1
+   1,
+   "**In plain English:** Insulin detemir's brand name is **Levemir**, a long-acting background insulin with no peak. **Example:** Think of a flat, level road with no hills: steady coverage all day, no spike. **Remember:** **Lev**emir = \"**lev**el\" = no peak, long-acting detemir."
   ],
   [
    "Brand names of insulin glargine?",
    "**Lantus, Basaglar, Semglee**",
-   1
+   1,
+   "**In plain English:** Insulin glargine is sold as **Lantus, Basaglar,** and **Semglee**: three brands of the same long-acting, no-peak background insulin. **Example:** Like three phone cases holding the same phone. Different outside, same glargine inside. **Remember:** \"**L-B-S**\" = Lantus, Basaglar, Semglee = glargine."
   ],
   [
    "Which insulins are rapid-acting?",
    "Lispro, aspart, glulisine",
-   0
+   0,
+   "**In plain English:** The **rapid-acting** insulins are **lispro, aspart,** and **glulisine**. They start in minutes and are used to cover meals. **Example:** Like a microwave versus an oven: rapid-acting insulins heat up fast, right when you eat. **Remember:** \"**L-A-G**\": Lispro, Aspart, Glulisine. The fast ones don't \"lag.\""
   ],
   [
    "Rapid-acting onset and peak?",
    "Starts **5–10 min**, peaks **30–90 min**",
-   1
+   1,
+   "**In plain English:** Rapid-acting insulin **starts in 5–10 minutes** and **peaks at 30–90 minutes**, so it is strongest around the time food is hitting your blood. **Example:** You eat a sandwich; the sugar from it rises over the next hour, and rapid-acting insulin peaks right then to match it. **Remember:** Fast start (**5–10 min**), fast peak (**30–90 min**). Minutes, not hours."
   ],
   [
    "Regular (short-acting) onset and peak?",
    "Starts **30 min–1 hr**, peaks **2–3 hrs**",
-   1
+   1,
+   "**In plain English:** Regular (short-acting) insulin **starts in 30 min–1 hr** and **peaks at 2–3 hrs**. Slower than rapid-acting, so it needs a head start before meals. **Example:** Like preheating an oven: you start regular insulin before dinner so it is \"warmed up\" when the food arrives. **Remember:** Regular: onset **30 min–1 hr**, peak **2–3 hrs**. That is why it's given 30 min before meals."
   ],
   [
    "NPH onset and peak?",
    "Starts **1–3 hrs**, peaks **4–12 hrs**",
-   1
+   1,
+   "**In plain English:** NPH (intermediate-acting) **starts in 1–3 hrs** and **peaks at 4–12 hrs**. Slow to rise and has a long, broad peak. **Example:** Like a slow cooker you set in the morning: it takes hours to get going and is \"cooking\" strongest mid-day. **Remember:** NPH: onset **1–3 hrs**, peak **4–12 hrs**. Hours, not minutes."
   ],
   [
    "Detemir/glargine onset and peak?",
    "Starts **1–2 hrs**, **no peak**",
-   1
+   1,
+   "**In plain English:** Long-acting detemir and glargine **start in 1–2 hrs** and have **no peak**. They give a flat, steady background level of insulin. **Example:** Like a low, steady hum from a fridge running all day, not a loud burst. **Remember:** Long-acting = **flat line**, **no peak**, starts in **1–2 hrs**."
   ],
   [
    "Which insulin is ultra long-acting?",
    "Insulin **degludec**",
-   0
+   0,
+   "**In plain English:** **Insulin degludec** is the **ultra long-acting** insulin. It provides background coverage even longer than glargine or detemir. **Example:** If glargine is a long-lasting candle, degludec is the extra-long version that burns even longer. **Remember:** **Degludec** = ultra long. Its open-vial/pen stability is also the longest (56 days)."
   ],
   [
    "When to give rapid-acting insulin?",
    "**15 min before a meal or immediately after** a meal",
-   1
+   1,
+   "**In plain English:** Because rapid-acting insulin starts in 5–10 min, it is given **15 minutes before a meal or immediately after** eating. **Example:** Forgot your dose before dinner? With rapid-acting insulin, you can still take it right after you finish eating. **Remember:** Rapid = **15 min before or right after** the meal."
   ],
   [
    "When to give regular insulin?",
    "**30 min before a meal**",
-   1
+   1,
+   "**In plain English:** Regular insulin is slower to start (30 min–1 hr), so it is given **30 minutes before a meal** to be working when food arrives. **Example:** Like leaving for the movies 30 minutes early so you are seated when it starts. **Remember:** **R**egular = **30** min before. Slower insulin, bigger head start."
   ],
   [
    "When to give NPH?",
    "Without regard to meals, but **eat within 4 hours**",
-   1
+   1,
+   "**In plain English:** NPH can be given **without regard to meals**, but the person **should eat within 4 hours**, since it ramps up over hours and could drop blood sugar if they skip eating. **Example:** Take NPH at 8 am, then make sure lunch happens by about noon. **Remember:** NPH: timing is flexible, but **eat within 4 hours**."
   ],
   [
    "When to give long/ultra long-acting insulin?",
    "Without regard to meals",
-   0
+   0,
+   "**In plain English:** Long-acting (glargine, detemir) and ultra long-acting (degludec) insulins are given **without regard to meals** because they are flat background insulin. **Example:** Like paying a monthly utility bill: it is about steady background coverage, not about what you had for dinner. **Remember:** Basal/background insulin = **no meal timing**."
   ],
   [
    "Basal vs bolus insulin?",
    "Basal = **background** control; bolus = **mealtime** control",
-   0
+   0,
+   "**In plain English:** **Basal** insulin is the steady **background** level your body needs all day and night. **Bolus** insulin is the **mealtime** burst to handle food. **Example:** Basal is like the steady trickle keeping a garden damp; bolus is the extra watering after a hot day (a meal). **Remember:** **Basal** = **background**; **bolus** = **meals**. Goal: mimic how a healthy pancreas works."
   ],
   [
    "Which insulins are cloudy?",
    "**Intermediate-acting (NPH) and premixed**; rapid, short and long-acting are clear",
-   1
+   1,
+   "**In plain English:** **NPH (intermediate-acting)** and **premixed** insulins are **cloudy**. Rapid, short, and long-acting insulins are **clear**. **Example:** Like a bottle of salad dressing that settles: cloudy insulins need gentle rolling (never shaking) to mix; clear ones are like water and don't. **Remember:** Cloudy = **NPH and premixed**. Everything else is clear."
   ],
   [
    "How do you mix cloudy insulin?",
    "Turn vial/pen on its side and **gently roll between palms** – **never shake** (denatures protein, reduces efficacy)",
-   1
+   1,
+   "**In plain English:** Cloudy insulin is mixed by **gently rolling** the vial or pen between your palms. **Never shake** it: shaking damages (denatures) the insulin protein so it works less well. **Example:** Like rolling a snowball between your hands rather than shaking a snow globe hard. **Remember:** **Roll, don't shake**. Shaking = denatured protein = weaker insulin."
   ],
   [
    "Drawing NPH + regular into one syringe: order?",
    "**Clear before cloudy** – draw the fast-acting (clear) first, NPH **after**",
-   1
+   1,
+   "**In plain English:** When you need NPH and regular insulin in the same syringe, draw up the **clear (regular) first**, then the **cloudy (NPH)** second. NPH always goes in after the fast-acting insulin. **Example:** Like a simple house rule you follow every time: water (clear) is poured first, the milky one comes second. **Remember:** \"**Clear before cloudy**.\""
   ],
   [
    "Injection site absorption, fastest → slowest?",
    "**Abdomen > backs of arms > thighs > buttocks**",
-   1
+   1,
+   "**In plain English:** Insulin is absorbed fastest from the **abdomen**, then **backs of the arms**, then **thighs**, and slowest from the **buttocks**. **Example:** Picture a race: belly finishes first, arms second, thighs third, buttocks last. **Remember:** \"**A-A-T-B**\": Abdomen > Arms > Thighs > Buttocks."
   ],
   [
    "Why are backs of the arms not preferred for self-injection?",
    "Hard to reach",
-   0
+   0,
+   "**In plain English:** The backs of the arms absorb insulin well, but they are **hard to reach** when you inject yourself, so they are not preferred for self-injection. **Example:** Try pinching the back of your own upper arm and injecting with one hand; it is awkward. **Remember:** Arms are 2nd fastest but **hard to reach** yourself."
   ],
   [
    "How far from the belly button should you avoid injecting?",
    "**2-inch radius**",
-   1
+   1,
+   "**In plain English:** Avoid injecting within a **2-inch radius of the belly button**. Also avoid scars, moles, and open skin. **Example:** Picture an imaginary circle drawn 2 inches out from your navel; stay outside that circle when choosing your spot. **Remember:** Belly button \"no-go zone\" = **2 inches**."
   ],
   [
    "What is lipodystrophy and how is it prevented?",
    "Inflammation/fat breakdown from repeated same-site injection (lumps, thick skin, poor absorption); prevent by **rotating sites ≥ 1 inch** from last injection",
-   1
+   1,
+   "**In plain English:** **Lipodystrophy** is lumpy, thickened skin from inflammation/fat breakdown caused by injecting in the **same spot** over and over. Insulin absorbs poorly there. Prevent it by **rotating sites at least 1 inch** from the last one. **Example:** Like walking the same path across a lawn until it's worn out; switch paths and the grass stays healthy. **Remember:** Rotate **≥ 1 inch** from the last shot to avoid lumps."
   ],
   [
    "Vial: how much air do you draw into the syringe?",
    "Air **equal to the insulin dose**",
-   0
+   0,
+   "**In plain English:** Before drawing up insulin from a vial, pull **air equal to the dose** into the syringe and push it into the vial. **Example:** Like letting air into a juice box so it doesn't collapse when you sip; 20 units dose = 20 units of air. **Remember:** **Air in = dose out**."
   ],
   [
    "Angle to insert needle into vial stopper? Into skin?",
    "**90 degrees** for both",
-   1
+   1,
+   "**In plain English:** Insert the needle at **90 degrees** both into the vial's rubber stopper and into the skin (straight in, not slanted). **Example:** Like pushing a thumbtack straight into a corkboard rather than at a slant. **Remember:** **90°** for the vial and the skin."
   ],
   [
    "Where do you read the dose on an insulin syringe?",
    "At the **needle-side (top) edge of the rubber plunger**",
-   1
+   1,
+   "**In plain English:** Read the dose at the **needle-side (top) edge of the black rubber plunger**, not the thumb-side edge. **Example:** Like reading a ruler at the leading edge of the object: the front edge of the plunger tells you the true amount. **Remember:** Read at the edge **closest to the needle**."
   ],
   [
    "How do you prime an insulin pen?",
    "Dial **2 units**, press button fully until dose returns to **0**; a drop should appear at the needle tip",
-   1
+   1,
+   "**In plain English:** **Priming** a pen checks that insulin flows: dial **2 units**, press the button fully until the dial returns to **0**, and look for a **drop at the needle tip**. **Example:** Like running a garden hose for a second until water comes out before you start watering. **Remember:** Prime = **2 units → 0 → see a drop**."
   ],
   [
    "Pen needle caps: which do you keep?",
    "Discard the small **inner** cap; keep the big **outer** cap (to remove the needle later)",
-   1
+   1,
+   "**In plain English:** A pen needle has two caps. **Throw away the small inner cap** and **keep the big outer cap**, because you'll use it later to safely unscrew and remove the needle. **Example:** Like keeping the outer box of a toothbrush head to remove and toss it cleanly later. **Remember:** Keep the **big outer** cap; toss the small inner one."
   ],
   [
    "How long to hold the needle in after injecting?",
    "**5 seconds**, then pull straight out",
-   1
+   1,
+   "**In plain English:** After pushing the dose in, **hold the needle in the skin for 5 seconds**, then pull straight out. This ensures the full dose gets in. **Example:** Like holding a glue stick in place a few seconds so it fully sticks before lifting. **Remember:** Count to **5** before pulling out."
   ],
   [
    "Pen needle disposal?",
    "Re-cap with the **big outer cap**, unscrew the needle, place in **sharps container**",
-   1
+   1,
+   "**In plain English:** To dispose of a pen needle: **re-cap it with the big outer cap**, **unscrew** it from the pen, and put it in a **sharps container**. **Example:** Like putting the lid back on a box cutter before tossing it, so no one gets poked. **Remember:** **Cap → unscrew → sharps**."
   ],
   [
    "Syringe size for < 30 units?",
    "**0.3 mL** (0.5- or 1-unit increments)",
-   1
+   1,
+   "**In plain English:** For doses **under 30 units**, use the smallest **0.3 mL** syringe (0.5- or 1-unit markings). Smaller barrels are easier to read accurately. **Example:** Measuring a teaspoon of vanilla with a teaspoon is more accurate than with a big measuring cup. **Remember:** **< 30 units → 0.3 mL**."
   ],
   [
    "Syringe size for 30–50 units?",
    "**0.5 mL** (1-unit increments)",
-   1
+   1,
+   "**In plain English:** For **30–50 units**, use a **0.5 mL** syringe with **1-unit** markings. It is the smallest barrel that still fits the dose. **Example:** Like picking the half-cup scoop when the recipe calls for a bit under half a cup. **Remember:** **30–50 units → 0.5 mL**."
   ],
   [
    "Syringe size for > 50 units?",
    "**1 mL** (2-unit increments)",
-   1
+   1,
+   "**In plain English:** For doses **over 50 units**, use a **1 mL** syringe, which is marked in **2-unit** increments. **Example:** Bigger dose, bigger syringe, like using a full cup measure when you need most of a cup. **Remember:** **> 50 units → 1 mL, 2-unit steps**."
   ],
   [
    "What does U-100 mean?",
    "**100 units per 1 mL**",
-   1
+   1,
+   "**In plain English:** **U-100** means there are **100 units of insulin in every 1 mL** of liquid. Most insulins are U-100. **Example:** Like a bag labeled \"100 candies per bag\": 1 mL holds 100 units, so 0.5 mL holds 50. **Remember:** **U-100 = 100 units/mL**."
   ],
   [
    "U-500 key facts?",
    "500 units/mL (**5×** U-100); needs **U-500 syringe**: 0.5 mL, up to **250 units**, **green cap**",
-   1
+   1,
+   "**In plain English:** **U-500** has **500 units per mL**, **5 times** stronger than U-100. It needs its own **U-500 syringe**: 0.5 mL, holds up to **250 units**, with a **green cap**. **Example:** Like espresso versus regular coffee: same drink, 5 times stronger, so you need a different measuring cup. **Remember:** U-500 = **5×**, **green cap**, max **250 units**."
   ],
   [
    "Who gets U-500?",
    "Extreme insulin resistance or **> 200 units/day**",
-   1
+   1,
+   "**In plain English:** U-500 is for people with **extreme insulin resistance** or who need **more than 200 units/day**. The concentrated form shrinks the injection volume. **Example:** Instead of drinking 5 big glasses of diluted juice, you take one small glass of concentrate. **Remember:** **> 200 units/day** → U-500."
   ],
   [
    "Needle length range? Gauge range?",
    "Length **4–12.7 mm**; gauge **28–31**",
-   0
+   0,
+   "**In plain English:** Insulin needle **length ranges from 4 to 12.7 mm** (how deep it goes), and **gauge** (how thick it is) ranges from **28 to 31**. **Example:** Like choosing between short and long sewing needles of slightly different thickness to fit the job. **Remember:** Length **4–12.7 mm**; gauge **28–31**."
   ],
   [
    "Higher needle gauge means?",
    "**Thinner** needle = more comfortable",
-   1
+   1,
+   "**In plain English:** Needle **gauge** measures thickness, and it runs backward: a **higher gauge number = thinner needle**, which is **more comfortable**. **Example:** A 31-gauge needle is thinner than a 28-gauge one, the same way higher-gauge wire is thinner wire. **Remember:** **Higher gauge = thinner = less pain**."
   ],
   [
    "Needles > 5 mm: technique options?",
    "**45° with 6 mm**, or **90° into pinched skin with 8 mm** – ensure subcutaneous",
-   1
+   1,
+   "**In plain English:** With needles **longer than 5 mm**, you must make sure insulin lands in the fatty layer, not muscle: inject at **45° with a 6 mm** needle, or **90° into pinched skin with an 8 mm** needle, depending on body fat. **Example:** Pinching the skin is like lifting a blanket off the mattress so the pin goes into the blanket, not the mattress. **Remember:** **6 mm → 45°**; **8 mm → 90° + pinch**."
   ],
   [
    "Insulin adverse effects?",
    "**Hypoglycemia**, weight gain, injection site pain, lipodystrophy, anaphylaxis/hypersensitivity, **hypokalemia**",
-   1
+   1,
+   "**In plain English:** Insulin's side effects: **hypoglycemia** (the big one), weight gain, injection-site pain, lipodystrophy, allergic reactions/anaphylaxis, and **hypokalemia** (low potassium). **Example:** Like a strong cleaning product: it works, but too much can cause problems, most importantly blood sugar dropping too low. **Remember:** Top concern = **low blood sugar**; also watch **low potassium**."
   ],
   [
    "When does insulin cause hypokalemia?",
    "Higher doses or **IV** administration",
-   0
+   0,
+   "**In plain English:** Insulin can lower blood **potassium** (**hypokalemia**), mainly with **higher doses** or **IV** insulin. **Example:** A hospitalized patient on an IV insulin drip is the classic setting where potassium needs to be watched. **Remember:** **IV or high dose → low K+**."
   ],
   [
    "Hypoglycemia threshold?",
    "BG **< 70 mg/dL**",
-   1
+   1,
+   "**In plain English:** **Hypoglycemia** means blood glucose is **below 70 mg/dL**. Signs include shaking, sweating, fast heartbeat, extreme hunger, dizziness, and confusion. **Example:** A fingerstick reads 62: that's under 70, so it counts as low. **Remember:** **< 70 = low**."
   ],
   [
    "15-15 Rule?",
    "15 g fast carbs → recheck in 15 min → repeat if < 70 → until ≥ 70 mg/dL",
-   1
+   1,
+   "**In plain English:** The **15-15 Rule** for low blood sugar: eat/drink **15 g of fast carbs**, **wait 15 minutes**, recheck. If still under 70, repeat until it is **at least 70 mg/dL**. **Example:** BG 60 → drink 4 oz juice → 15 min later 66 → another 15 g → 15 min later 75 → done. **Remember:** **15 grams, 15 minutes**, repeat until ≥ 70."
   ],
   [
    "Examples of 15 g simple carbs?",
    "½ banana; **4 oz juice/regular soda**; 1 tbsp sugar/honey/syrup; 1 tube glucose gel; **3–4 glucose tabs**",
-   1
+   1,
+   "**In plain English:** About **15 g of fast sugar** = ½ banana, **4 oz (½ cup) juice or regular soda**, 1 tbsp sugar/honey/syrup, 1 tube glucose gel, or **3–4 glucose tablets**. **Example:** Half a cup of apple juice from the fridge is a quick, easy 15 g. Diet soda won't work because it has no sugar. **Remember:** **4 oz juice = 15 g**; must be **regular**, not diet."
   ],
   [
    "Glucagon: indication, dose, route?",
    "Severe hypoglycemia, **unconscious/can't swallow**; **1 mg IM** given by another person",
-   1
+   1,
+   "**In plain English:** **Glucagon** is for **severe** low blood sugar when the person is **unconscious or can't swallow**. Someone else gives it: **1 mg IM** (into the muscle). **Example:** A spouse finds their partner passed out; you can't pour juice into an unconscious person's mouth, so they use the glucagon kit. **Remember:** Can't swallow → **glucagon 1 mg IM**."
   ],
   [
    "After giving glucagon?",
    "**Roll person onto side** (nausea/vomiting); check BG in 15 min; usually wakes within 15 min",
-   1
+   1,
+   "**In plain English:** Glucagon can cause severe **nausea and vomiting**, so **roll the person onto their side** afterward. Check BG in **15 minutes**; they usually wake up within 15 minutes. **Example:** Like the \"recovery position\" so if they vomit, it drains out instead of choking them. **Remember:** **Side, then 15 min check**."
   ],
   [
    "Opened stability: lispro, aspart, glargine?",
    "**28 days** each",
-   1
+   1,
+   "**In plain English:** Once opened, **lispro, aspart,** and **glargine** are each good for **28 days**. **Example:** Like a carton of milk that says \"use within X days of opening\": these three get 28 days, about a month. **Remember:** **28 days** for lispro, aspart, glargine."
   ],
   [
    "Opened stability: regular U-100?",
    "**31 days**",
-   1
+   1,
+   "**In plain English:** Once you open (puncture) a vial of **regular insulin (U-100)**, it is good for **31 days** per the lecture table. Best practice is to write the open date on it. **Example:** Just a bit longer than a month, like a 31-day month on the calendar: open it Oct 1, use through Oct 31. **Remember:** **R**egular = **31** (a full calendar month)."
   ],
   [
    "Opened stability: detemir?",
    "**42 days**",
-   1
+   1,
+   "**In plain English:** Once opened, **detemir** (brand Levemir) is good for **42 days**, longer than the 28 days for lispro, aspart and glargine. **Example:** Six weeks: open it on the 1st of the month and it's good until about the middle of the next month. **Remember:** Detemir = **42 days** (6 weeks)."
   ],
   [
    "Opened stability: degludec?",
    "**56 days**",
-   1
+   1,
+   "**In plain English:** Once opened, **degludec** lasts **56 days**, the longest of any insulin on the lecture's stability table. **Example:** Eight weeks, double glargine's 28 days; fitting, since degludec is also the ultra long-acting insulin. **Remember:** Ultra long-acting = ultra long shelf life: **56 days**."
   ],
   [
    "Unopened insulin storage?",
    "Refrigerator **36–46 °F**",
-   1
+   1,
+   "**In plain English:** **Unopened** insulin vials and pens are stored in the **refrigerator** at **36–46 °F** until you start using them. **Example:** Store the extra boxes on a fridge shelf next to the milk, not in the freezer and not on the counter. **Remember:** Unopened = **fridge, 36–46 °F**."
   ],
   [
    "Opened insulin storage?",
    "May be unrefrigerated **59–86 °F**",
-   1
+   1,
+   "**In plain English:** Once **opened**, a vial or pen **may be kept unrefrigerated** at **59–86 °F** (normal room temperature). **Example:** The pen you are using this week can sit in your kitchen drawer at room temperature. **Remember:** Opened = **room temp OK, 59–86 °F**."
   ],
   [
    "Where should insulin never be stored?",
    "Freezer, direct sunlight, car glove compartment (extreme heat/cold)",
-   0
+   0,
+   "**In plain English:** Never store insulin in the **freezer**, in **direct sunlight**, or in a **car glove compartment**. Extreme heat or cold can ruin it. **Example:** A hot car in summer is like an oven; a freezer is like a block of ice. Insulin hates both. **Remember:** No **freezer, sun, or glove box**."
   ],
   [
    "Tips to minimize injection pain?",
    "Room-temp insulin, thin/short needles, no big bubbles, let alcohol dry, breathe slowly, penetrate quickly, don't change direction, don't reuse needles, rotate sites",
-   0
+   0,
+   "**In plain English:** To make injections hurt less: use **room-temperature** insulin, thin short needles, no big bubbles, **let the alcohol dry**, breathe slowly, **go in quickly**, don't change needle direction, **don't reuse needles**, and rotate sites. **Example:** Like ripping off a bandage quickly instead of slowly; a quick, straight poke hurts less. **Remember:** Warm insulin, dry skin, **quick and straight**, **fresh needle**."
   ]
  ],
  "mcq": [
@@ -692,7 +760,8 @@ E1_DATA.push({
     2
    ],
    "w": "Novolog = insulin aspart (rapid-acting). Lispro is Humalog/Admelog, glulisine is Apidra, detemir is Levemir, regular is Humulin R/Novolin R.",
-   "src": "Brand-Generics docx"
+   "src": "Brand-Generics docx",
+   "simple": "**In plain English:** Novolog is the brand name for **insulin aspart**, a rapid-acting insulin. Pharmacists must translate brand names to generic quickly. **Example:** A patient hands you a Novolog script; like reading \"Kleenex\" and knowing it means tissue, you think \"aspart.\" **Remember:** Novolog = **aspart**. Lispro is Humalog/Admelog, glulisine is Apidra."
   },
   {
    "type": "single",
@@ -707,7 +776,8 @@ E1_DATA.push({
     0
    ],
    "w": "Basaglar (like Lantus and Semglee) is insulin glargine, long-acting. Detemir is Levemir; NPH is Humulin N/Novolin N; glulisine is Apidra.",
-   "src": "Brand-Generics docx"
+   "src": "Brand-Generics docx",
+   "simple": "**In plain English:** Basaglar is a brand of **insulin glargine**, a **long-acting** background insulin, just like Lantus and Semglee. **Example:** Same glargine, different box label, like store-brand and name-brand versions of the same product. **Remember:** **Bas**aglar sounds like **bas**al: long-acting glargine. Detemir is Levemir, a different molecule."
   },
   {
    "type": "multi",
@@ -724,7 +794,8 @@ E1_DATA.push({
     2
    ],
    "w": "Lispro = Humalog and Admelog. Novolog = aspart, Apidra = glulisine, Humulin R = regular insulin.",
-   "src": "Brand-Generics docx"
+   "src": "Brand-Generics docx",
+   "simple": "**In plain English:** Insulin lispro is sold as **Humalog** and **Admelog**. Novolog is aspart, Apidra is glulisine, Humulin R is regular insulin. **Example:** Two labels on the same rapid-acting drug, like one song released by two record labels. **Remember:** Huma**log** and Adme**log** = lispro. Watch out: Novo**log** is aspart."
   },
   {
    "type": "multi",
@@ -742,7 +813,8 @@ E1_DATA.push({
     3
    ],
    "w": "Glargine = Lantus, Basaglar, Semglee. Levemir is detemir (also long-acting, but a different molecule); Novolin N is NPH.",
-   "src": "Brand-Generics docx"
+   "src": "Brand-Generics docx",
+   "simple": "**In plain English:** Glargine has three brands: **Lantus, Semglee,** and **Basaglar**. Levemir is also long-acting but is a different drug (detemir), and Novolin N is NPH. **Example:** A patient switching glargine brands is like switching between brands of the same bottled water; the contents are the same. **Remember:** Glargine = \"**L-B-S**\": Lantus, Basaglar, Semglee."
   },
   {
    "type": "single",
@@ -757,7 +829,8 @@ E1_DATA.push({
     3
    ],
    "w": "Novolin R (and Humulin R) = regular insulin. Apidra is glulisine, Humulin N is NPH, Levemir is detemir.",
-   "src": "Brand-Generics docx"
+   "src": "Brand-Generics docx",
+   "simple": "**In plain English:** **Novolin R** is **regular insulin**. The \"R\" in the name means regular. The other pairs mismatch: Apidra is glulisine, Humulin N is NPH, Levemir is detemir. **Example:** Look at the letter on the box: Novolin **R** = Regular, Humulin **N** = NPH. **Remember:** Brand letter clue: **R = Regular, N = NPH**."
   },
   {
    "type": "single",
@@ -772,7 +845,8 @@ E1_DATA.push({
     1
    ],
    "w": "Humulin N = insulin NPH, intermediate-acting. Humalog (lispro) is rapid-acting; Lantus (glargine) is long-acting.",
-   "src": "Brand-Generics docx; p.6"
+   "src": "Brand-Generics docx; p.6",
+   "simple": "**In plain English:** **Humulin N** is insulin NPH, the **intermediate-acting** one. Humalog (lispro) is rapid-acting and Lantus (glargine) is long-acting. **Example:** Her three insulins are like three speeds: Humalog = sprint, Humulin N = jog, Lantus = all-day walk. **Remember:** **N = NPH = intermediate**."
   },
   {
    "type": "single",
@@ -787,7 +861,8 @@ E1_DATA.push({
     2
    ],
    "w": "Rapid-acting (lispro, aspart, glulisine): onset 5–10 min, peak 30–90 min. Regular: 30 min–1 hr onset, peak 2–3 hrs. NPH: 1–3 hrs, peak 4–12 hrs. Glargine: 1–2 hrs, no peak.",
-   "src": "Insulin_Administration p.6"
+   "src": "Insulin_Administration p.6",
+   "simple": "**In plain English:** Starting in **5–10 minutes** and peaking at **30–90 minutes** describes **rapid-acting** insulin, and **glulisine** is the rapid-acting choice here. **Example:** Regular takes 30 min–1 hr to start, NPH 1–3 hrs, and glargine never peaks, so only glulisine fits the \"minutes\" timeline. **Remember:** Minutes-fast = rapid-acting: **lispro, aspart, glulisine**."
   },
   {
    "type": "single",
@@ -802,7 +877,8 @@ E1_DATA.push({
     0
    ],
    "w": "Long-acting detemir and glargine: starts 1–2 hrs, no peaks. NPH peaks 4–12 hrs; aspart 30–90 min; regular 2–3 hrs.",
-   "src": "Insulin_Administration p.6"
+   "src": "Insulin_Administration p.6",
+   "simple": "**In plain English:** **Detemir** is long-acting and has **no peak**, giving a flat, steady background level. NPH, aspart, and regular all have peaks. **Example:** Like a fridge humming at the same level all day versus a blender that roars and stops. **Remember:** Long-acting (detemir, glargine) = **no peak**."
   },
   {
    "type": "single",
@@ -817,7 +893,8 @@ E1_DATA.push({
     1
    ],
    "w": "Humulin N = NPH: onset 1–3 hrs, peak 4–12 hrs. 30–90 min is rapid-acting, 2–3 hrs is regular, no peak is long-acting.",
-   "src": "Insulin_Administration p.6; docx"
+   "src": "Insulin_Administration p.6; docx",
+   "simple": "**In plain English:** Humulin N is NPH, which **peaks at 4–12 hours** after injection (onset 1–3 hrs). **Example:** Take NPH at breakfast and its strongest effect lands somewhere from late morning through evening. **Remember:** NPH peak = **4–12 hrs**. 30–90 min is rapid; 2–3 hrs is regular; no peak is long-acting."
   },
   {
    "type": "single",
@@ -832,7 +909,8 @@ E1_DATA.push({
     3
    ],
    "w": "Novolin R = regular (short-acting) → 30 minutes before a meal. 15 min before/immediately after is rapid-acting; 'eat within 4 hours' is NPH; no regard to meals is long-acting.",
-   "src": "Insulin_Administration p.8"
+   "src": "Insulin_Administration p.8",
+   "simple": "**In plain English:** Novolin R is **regular (short-acting)** insulin. It takes 30 min–1 hr to start, so it is given **30 minutes before a meal**. **Example:** Like leaving 30 minutes early for a reservation so you're there when the food arrives. **Remember:** **R**egular = **30** min before meals."
   },
   {
    "type": "single",
@@ -847,7 +925,8 @@ E1_DATA.push({
     2
    ],
    "w": "Rapid-acting (lispro = Humalog) is given 15 min before a meal OR immediately after a meal. 30 min before is regular; 'eat within 4 hours' applies to NPH.",
-   "src": "Insulin_Administration p.8"
+   "src": "Insulin_Administration p.8",
+   "simple": "**In plain English:** Humalog is lispro, a **rapid-acting** insulin, which can be given **15 minutes before a meal or immediately after**. He just finished, so injecting **now** is acceptable. **Example:** Forgot to pay for parking before the movie, but the lot lets you pay right after; rapid-acting insulin has that same flexibility. **Remember:** Rapid-acting = **before or right after** the meal."
   },
   {
    "type": "single",
@@ -862,7 +941,8 @@ E1_DATA.push({
     0
    ],
    "w": "NPH (Novolin N): without regard to meals, but should eat within 4 hours of administration. The other timings belong to regular and rapid-acting.",
-   "src": "Insulin_Administration p.8"
+   "src": "Insulin_Administration p.8",
+   "simple": "**In plain English:** Novolin N is NPH. It can be given **without regard to meals**, but he **should eat within 4 hours** because its effect builds over hours. **Example:** Take it at 7 am and plan to eat by about 11 am. **Remember:** NPH = flexible timing + **eat within 4 hours**."
   },
   {
    "type": "multi",
@@ -880,7 +960,8 @@ E1_DATA.push({
     3
    ],
    "w": "Long-acting (glargine, detemir) and ultra long-acting (degludec) are given without regard to meals. Aspart is 15 min before/immediately after; regular is 30 min before.",
-   "src": "Insulin_Administration p.8"
+   "src": "Insulin_Administration p.8",
+   "simple": "**In plain English:** **Glargine, detemir** (long-acting) and **degludec** (ultra long-acting) are background insulins given **without regard to meals**. Aspart and regular are mealtime insulins with timing rules. **Example:** Background insulin is like a steady streetlight that stays on regardless of when you walk by. **Remember:** Basal insulins = **no meal timing**."
   },
   {
    "type": "single",
@@ -895,7 +976,8 @@ E1_DATA.push({
     3
    ],
    "w": "Basal = background control; bolus = mealtime control. Goal is to mimic physiologic secretion.",
-   "src": "Insulin_Administration p.6"
+   "src": "Insulin_Administration p.6",
+   "simple": "**In plain English:** **Basal** insulin gives steady **background control** all day and night. Bolus insulin covers meals. Together they mimic a healthy pancreas. **Example:** Basal is the house's baseline heat; bolus is turning on a space heater when guests (meals) arrive. **Remember:** **B**asal = **B**ackground."
   },
   {
    "type": "single",
@@ -910,7 +992,8 @@ E1_DATA.push({
     1
    ],
    "w": "Absorption: abdomen > backs of arms > thighs > buttocks. Arms are second but not preferred for self-injection (hard to reach).",
-   "src": "Insulin_Administration p.9"
+   "src": "Insulin_Administration p.9",
+   "simple": "**In plain English:** Insulin is absorbed **fastest from the abdomen**, then backs of arms, then thighs, and slowest from the buttocks. **Example:** Like the express lane at the store: the belly is the quickest checkout, the buttocks the slowest line. **Remember:** Fastest = **abdomen**."
   },
   {
    "type": "order",
@@ -922,7 +1005,8 @@ E1_DATA.push({
     "Buttocks"
    ],
    "w": "Slide (bolded): abdomen > backs of the arms > thighs > buttocks.",
-   "src": "Insulin_Administration p.9"
+   "src": "Insulin_Administration p.9",
+   "simple": "**In plain English:** Absorption speed from fastest to slowest is **abdomen → backs of the arms → thighs → buttocks**. The arms are second but awkward for self-injection. **Example:** Think of a race: belly finishes first, arms second, thighs third, buttocks last. **Remember:** \"**A-A-T-B**\": Abdomen, Arms, Thighs, Buttocks."
   },
   {
    "type": "single",
@@ -937,7 +1021,8 @@ E1_DATA.push({
     2
    ],
    "w": "Repeated same-site injection causes lipodystrophy (lumps, thickened skin, impaired absorption); prevent by rotating sites ≥1 inch from the last injection.",
-   "src": "Insulin_Administration p.10"
+   "src": "Insulin_Administration p.10",
+   "simple": "**In plain English:** Lumpy, thick skin where he always injects is **lipodystrophy**, caused by using the **same spot** repeatedly. It also absorbs insulin poorly, explaining erratic glucose. The fix: **rotate sites at least 1 inch** from the last injection. **Example:** Like a well-worn trail in a lawn from walking the same path every day; switch paths and it heals. **Remember:** Same spot → lumps → **rotate ≥ 1 inch**."
   },
   {
    "type": "multi",
@@ -955,7 +1040,8 @@ E1_DATA.push({
     3
    ],
    "w": "Slides: avoid 2-inch radius of navel, avoid scars/moles/open skin, rotate ≥1 inch. Same-spot injection causes lipodystrophy; insulin goes into fatty (subcutaneous) tissue, not muscle.",
-   "src": "Insulin_Administration p.9–10"
+   "src": "Insulin_Administration p.9–10",
+   "simple": "**In plain English:** Good site counseling: **avoid 2 inches around the belly button**, **avoid scars/moles/open skin**, and **stay at least 1 inch** from the last shot. Insulin goes into fat (subcutaneous), not muscle, and same-spot injections cause lipodystrophy. **Example:** Picture a dartboard where the bullseye (navel) and its ring are off-limits, and every new dart lands at least an inch from the last. **Remember:** **2-inch navel zone, 1-inch rotation, into fat**."
   },
   {
    "type": "single",
@@ -970,7 +1056,8 @@ E1_DATA.push({
     0
    ],
    "w": "Intermediate-acting (NPH) and premixed insulins are cloudy and must be gently rolled. Rapid, short and long-acting are clear and are not mixed.",
-   "src": "Insulin_Administration p.12, 24"
+   "src": "Insulin_Administration p.12, 24",
+   "simple": "**In plain English:** **NPH** is cloudy, so it is **gently rolled** between the palms before drawing up. Glargine, lispro, and regular are clear and aren't mixed. **Example:** Like gently rolling a bottle of settled salad dressing to blend it. **Remember:** Cloudy (**NPH**, premixed) = roll it."
   },
   {
    "type": "single",
@@ -985,7 +1072,8 @@ E1_DATA.push({
     1
    ],
    "w": "Do not shake – it denatures the proteins and reduces efficacy. Humulin N (NPH) is cloudy and should be rolled, not shaken.",
-   "src": "Insulin_Administration p.12"
+   "src": "Insulin_Administration p.12",
+   "simple": "**In plain English:** Shaking **denatures** (damages the structure of) the insulin protein, which **reduces how well it works**. Humulin N is cloudy and should be rolled, not shaken. **Example:** Like whipping egg whites: shaking a protein changes its structure; you can't un-whip it. **Remember:** **Roll, don't shake**: shaking = damaged protein = weaker insulin."
   },
   {
    "type": "single",
@@ -1000,7 +1088,8 @@ E1_DATA.push({
     3
    ],
    "w": "When mixing NPH with a fast-acting insulin, draw NPH AFTER the fast-acting insulin – 'clear before cloudy'. Shaking is never correct.",
-   "src": "Insulin_Administration p.24"
+   "src": "Insulin_Administration p.24",
+   "simple": "**In plain English:** When mixing in one syringe, draw the **regular (clear) first**, then the **NPH (cloudy)** after it. Shaking either vial is never correct, and these two can share a syringe. **Example:** Like a simple house rule you follow every time: the clear one is poured first, the milky one comes second. **Remember:** \"**Clear before cloudy**.\""
   },
   {
    "type": "multi",
@@ -1018,7 +1107,8 @@ E1_DATA.push({
     3
    ],
    "w": "Rapid (aspart), short (regular) and long-acting (detemir) are clear → do not mix. NPH and premixed are cloudy → roll.",
-   "src": "Insulin_Administration p.12"
+   "src": "Insulin_Administration p.12",
+   "simple": "**In plain English:** **Aspart** (rapid), **regular** (short), and **detemir** (long) are all **clear** and are not rolled. NPH and premixed are cloudy and must be rolled. **Example:** Clear insulins look like water; only the \"milky\" ones need mixing. **Remember:** Only **NPH and premixed** are cloudy."
   },
   {
    "type": "order",
@@ -1034,7 +1124,8 @@ E1_DATA.push({
     "Remove needle and carefully recap"
    ],
    "w": "This is the 8-step sequence on the slide. Air is injected before inverting and withdrawing; bubbles are removed before recapping.",
-   "src": "Insulin_Administration p.12"
+   "src": "Insulin_Administration p.12",
+   "simple": "**In plain English:** Vial prep flows logically: **gather and check** → **roll if cloudy** → **wipe stopper** → **draw air = dose** → **inject air at 90°** → **flip and draw dose** → **tap out bubbles** → **recap**. **Example:** Like making a pour-over coffee: check supplies, prep, clean, then measure, then fix any issues before serving. **Remember:** Air goes **in before** you flip and draw; bubbles out **before** recapping."
   },
   {
    "type": "single",
@@ -1049,7 +1140,8 @@ E1_DATA.push({
     2
    ],
    "w": "Step 4: pull back the plunger to draw in air equal to your insulin dose, then inject it into the vial.",
-   "src": "Insulin_Administration p.12"
+   "src": "Insulin_Administration p.12",
+   "simple": "**In plain English:** Before drawing from a vial, pull back **air equal to the dose**, here 20 units' worth, and push that air into the vial. Then flip and draw the insulin. **Example:** Dose is 20 units, so pull the plunger to the 20 mark with air first, inject it, then withdraw 20 units of insulin. **Remember:** **Air in = dose out**."
   },
   {
    "type": "single",
@@ -1064,7 +1156,8 @@ E1_DATA.push({
     0
    ],
    "w": "Slide figure: CORRECT – measure at the needle-side edge of the rubber plunger; INCORRECT – do not measure at the other side.",
-   "src": "Insulin_Administration p.12"
+   "src": "Insulin_Administration p.12",
+   "simple": "**In plain English:** Read the dose at the **needle-side edge of the black rubber plunger**. The far (thumb) side would give a wrong reading. **Example:** Like reading a measuring tape at the front edge of the object, not the back. **Remember:** Read the edge **closest to the needle**."
   },
   {
    "type": "single",
@@ -1079,7 +1172,8 @@ E1_DATA.push({
     3
    ],
    "w": "Insulin needles are much more delicate compared to vaccine needles – be careful not to bend the needle while it's in the vial.",
-   "src": "Insulin_Administration p.12"
+   "src": "Insulin_Administration p.12",
+   "simple": "**In plain English:** **Insulin needles are more delicate than vaccine needles** and can **bend** while in the vial, so handle them carefully. **Example:** Like the difference between a sewing pin and a nail; the thin pin bends much more easily. **Remember:** Insulin needles = **delicate, can bend**."
   },
   {
    "type": "order",
@@ -1094,7 +1188,8 @@ E1_DATA.push({
     "Dial the prescribed dose"
    ],
    "w": "Seven steps per the slide; priming comes before dialing the actual dose.",
-   "src": "Insulin_Administration p.13"
+   "src": "Insulin_Administration p.13",
+   "simple": "**In plain English:** Pen prep order: **gather/check** → **roll if cloudy** → **wipe the seal** → **screw on needle** → **remove both needle caps (keep outer)** → **prime 2 units** → **dial the dose**. **Example:** Like getting a pen ready to write: check it, attach the tip, scribble a test line (prime), then write for real. **Remember:** **Prime before dialing** the real dose."
   },
   {
    "type": "single",
@@ -1109,7 +1204,8 @@ E1_DATA.push({
     1
    ],
    "w": "Prime by dialing 'two' units and pressing the injection button fully until the dose selector returns to 'zero'; a drop of insulin should appear.",
-   "src": "Insulin_Administration p.13"
+   "src": "Insulin_Administration p.13",
+   "simple": "**In plain English:** Priming checks that insulin flows: **dial 2 units**, press until the selector returns to **zero**, and look for a **drop at the tip**. **Example:** Like running a garden hose until water flows before watering the plants. **Remember:** **2 units → 0 → drop**."
   },
   {
    "type": "single",
@@ -1124,7 +1220,8 @@ E1_DATA.push({
     2
    ],
    "w": "Pull off both caps; dispose of the inner cap and keep the outer cap – it is used to re-cap and unscrew the needle after injecting.",
-   "src": "Insulin_Administration p.13–14"
+   "src": "Insulin_Administration p.13–14",
+   "simple": "**In plain English:** **Keep the big outer cap** and **discard the small inner cap**. The outer cap is used later to re-cap and unscrew the needle safely. **Example:** Like saving the lid of a sharp razor so you can cover it before tossing. **Remember:** Keep **big outer**, toss small inner."
   },
   {
    "type": "order",
@@ -1139,7 +1236,8 @@ E1_DATA.push({
     "Dispose of the used needle in a sharps container"
    ],
    "w": "Seven-step administration sequence from the slide.",
-   "src": "Insulin_Administration p.14"
+   "src": "Insulin_Administration p.14",
+   "simple": "**In plain English:** Giving the shot: **pick a site** → **clean it** → **pinch fatty skin** → **insert at 90°** → **push steadily** → **hold 5 seconds** and pull straight out → **sharps container**. **Example:** Like stamping a document: choose the spot, press firmly, hold a moment, then lift and put the stamp away safely. **Remember:** Clean, pinch, 90°, push, **hold 5**, dispose."
   },
   {
    "type": "single",
@@ -1154,7 +1252,8 @@ E1_DATA.push({
     0
    ],
    "w": "Leave the needle in the skin for 5 seconds to ensure the full dose is injected, then pull straight out.",
-   "src": "Insulin_Administration p.14"
+   "src": "Insulin_Administration p.14",
+   "simple": "**In plain English:** Leaking means the full dose didn't stay in. Holding the needle in the skin **for 5 seconds** after injecting makes sure the **whole dose** gets delivered. **Example:** Like holding a glue stick in place a few seconds so it fully sticks before lifting. **Remember:** Leaks → **count to 5** before pulling out."
   },
   {
    "type": "order",
@@ -1165,7 +1264,8 @@ E1_DATA.push({
     "Place the used needle in a sharps container"
    ],
    "w": "Pen: re-cap with big outer cap, then unscrew, then dispose in sharps.",
-   "src": "Insulin_Administration p.14"
+   "src": "Insulin_Administration p.14",
+   "simple": "**In plain English:** Pen needle disposal: **re-cap with the big outer cap**, then **unscrew** the needle, then put it in a **sharps container**. **Example:** Like capping a knife before you pack it away, so no one gets cut. **Remember:** **Cap → unscrew → sharps**."
   },
   {
    "type": "single",
@@ -1180,7 +1280,8 @@ E1_DATA.push({
     1
    ],
    "w": "< 30 units → 0.3 mL syringe (smallest appropriate barrel for accuracy). 0.5 mL is for 30–50 units, 1 mL for > 50 units; U-500 syringes are only for U-500 insulin.",
-   "src": "Insulin_Administration p.15"
+   "src": "Insulin_Administration p.15",
+   "simple": "**In plain English:** 22 units is **under 30 units**, so the **0.3 mL** syringe is best; the smallest barrel that fits is the most accurate. U-500 syringes are only for U-500 insulin. **Example:** Measure a teaspoon with a teaspoon, not a measuring cup. **Remember:** **< 30 units → 0.3 mL**."
   },
   {
    "type": "single",
@@ -1195,7 +1296,8 @@ E1_DATA.push({
     3
    ],
    "w": "> 50 units → 1 mL syringe, 2-unit increments. 0.5 mL (1-unit) is for 30–50 units; 0.3 mL is for < 30 units.",
-   "src": "Insulin_Administration p.15"
+   "src": "Insulin_Administration p.15",
+   "simple": "**In plain English:** 64 units is **over 50 units**, so use a **1 mL** syringe, which is marked in **2-unit** increments. **Example:** Bigger dose needs the bigger measuring tool: a full cup instead of a half cup. **Remember:** **> 50 units → 1 mL, 2-unit marks**."
   },
   {
    "type": "single",
@@ -1210,7 +1312,8 @@ E1_DATA.push({
     2
    ],
    "w": "30–50 units → 0.5 mL syringe. Use the smallest appropriate barrel for accuracy and readability.",
-   "src": "Insulin_Administration p.15"
+   "src": "Insulin_Administration p.15",
+   "simple": "**In plain English:** 40 units falls in the **30–50 unit** range, so pick the **0.5 mL** syringe, the smallest barrel that fits, for accuracy. **Example:** Like choosing a half-cup measure for something a bit under half a cup. **Remember:** **30–50 units → 0.5 mL**."
   },
   {
    "type": "fill",
@@ -1219,7 +1322,8 @@ E1_DATA.push({
    "tol": 0.001,
    "unit": "mL",
    "w": "U-100 = 100 units/mL → 35 units ÷ 100 units/mL = 0.35 mL.",
-   "src": "Insulin_Administration p.15"
+   "src": "Insulin_Administration p.15",
+   "simple": "**In plain English:** U-100 means **100 units in 1 mL**. Volume = dose ÷ concentration: **35 units ÷ 100 units/mL = 0.35 mL**. **Example:** If 100 candies fill 1 cup, then 35 candies fill 0.35 of a cup. **Remember:** U-100: just move the decimal two places: 35 → **0.35 mL**."
   },
   {
    "type": "fill",
@@ -1228,7 +1332,8 @@ E1_DATA.push({
    "tol": 0.001,
    "unit": "mL",
    "w": "U-500 = 500 units/mL → 150 ÷ 500 = 0.3 mL (the same dose of U-100 would be 1.5 mL – why U-500 reduces injection volume).",
-   "src": "Insulin_Administration p.16"
+   "src": "Insulin_Administration p.16",
+   "simple": "**In plain English:** U-500 means **500 units per mL**. Volume = **150 units ÷ 500 units/mL = 0.3 mL**. The same dose of U-100 would be 1.5 mL, which is why U-500 shrinks injection volume. **Example:** Concentrated juice: a small splash holds as much flavor as a big glass of the regular stuff. **Remember:** Dose ÷ 500 for U-500: 150 ÷ 500 = **0.3 mL**."
   },
   {
    "type": "fill",
@@ -1237,7 +1342,8 @@ E1_DATA.push({
    "tol": 0,
    "unit": "units",
    "w": "0.5 mL × 500 units/mL = 250 units; the slide states U-500 syringes deliver doses up to 250 units.",
-   "src": "Insulin_Administration p.16"
+   "src": "Insulin_Administration p.16",
+   "simple": "**In plain English:** A U-500 syringe holds **0.5 mL**, and each mL has **500 units**: **0.5 × 500 = 250 units** maximum. **Example:** If a full cup holds 500 candies, a half cup holds 250. **Remember:** U-500 syringe max = **250 units**."
   },
   {
    "type": "single",
@@ -1252,7 +1358,8 @@ E1_DATA.push({
     0
    ],
    "w": "Never administer U-500 insulin with a U-100 syringe or vice versa – can cause patient harm. U-500 requires its own syringe (0.5 mL, up to 250 units, green cap).",
-   "src": "Insulin_Administration p.16"
+   "src": "Insulin_Administration p.16",
+   "simple": "**In plain English:** **Stop**: U-500 insulin must be given with a **U-500 syringe** (green cap). Using a U-100 syringe with U-500 insulin, or vice versa, can **harm the patient**. **Example:** Like using a tablespoon when the recipe meant teaspoons; the measurement is completely off. **Remember:** **Match the syringe to the insulin**: U-500 ↔ green-cap U-500 syringe."
   },
   {
    "type": "multi",
@@ -1270,7 +1377,8 @@ E1_DATA.push({
     2
    ],
    "w": "U-500: 500 units/mL (5× U-100), specific 0.5 mL syringe with green cap, up to 250 units; for extreme insulin resistance or > 200 units/day; it REDUCES injection volume.",
-   "src": "Insulin_Administration p.16"
+   "src": "Insulin_Administration p.16",
+   "simple": "**In plain English:** U-500 is **5× more concentrated** than U-100, its syringe has a **green cap**, and it's used for people needing **more than 200 units/day**. Its syringe holds 0.5 mL (not 1 mL), and it **reduces** injection volume. **Example:** Like espresso: stronger, so you need less liquid for the same kick. **Remember:** U-500: **5×, green cap, > 200 units/day, smaller volume**."
   },
   {
    "type": "single",
@@ -1285,7 +1393,8 @@ E1_DATA.push({
     3
    ],
    "w": "Shorter needles are more comfortable and less likely to go IM; higher gauge = thinner = more comfortable. Longer needles are for obesity or leakage concerns.",
-   "src": "Insulin_Administration p.17, 19"
+   "src": "Insulin_Administration p.17, 19",
+   "simple": "**In plain English:** **Shorter** needles are more comfortable and less likely to hit muscle in a thin person. **Higher gauge** means **thinner**, which also hurts less. **Example:** Like choosing a short, thin sewing pin instead of a long, thick one. **Remember:** Less pain = **shorter + higher gauge**. Longer needles are for obesity or leakage."
   },
   {
    "type": "single",
@@ -1300,7 +1409,8 @@ E1_DATA.push({
     1
    ],
    "w": "For needles > 5 mm: 45° with a 6 mm needle, or 90° into pinched skin with an 8 mm needle, depending on body fat.",
-   "src": "Insulin_Administration p.17"
+   "src": "Insulin_Administration p.17",
+   "simple": "**In plain English:** With needles over 5 mm, make sure insulin stays in the fat layer. For an **8 mm** needle, inject at **90° into pinched skin**. (A 6 mm needle uses 45°.) **Example:** Pinching lifts the fat away from the muscle, like lifting a blanket off the mattress before pinning it. **Remember:** **8 mm → 90° + pinch**; 6 mm → 45°."
   },
   {
    "type": "multi",
@@ -1318,7 +1428,8 @@ E1_DATA.push({
     4
    ],
    "w": "Tips: room-temperature (not cold) insulin, thin short needles, no large bubbles, let alcohol dry, breathe slowly, penetrate quickly, don't change direction, don't reuse needles, rotate sites.",
-   "src": "Insulin_Administration p.19"
+   "src": "Insulin_Administration p.19",
+   "simple": "**In plain English:** Pain-reducing tips include **letting the alcohol dry**, **going in quickly**, and **not changing needle direction**. Cold insulin and reused (dull) needles make it hurt more. **Example:** Like ripping off a bandage fast and straight rather than slowly wiggling it. **Remember:** Room-temp insulin, dry skin, **quick and straight**, **fresh needle**."
   },
   {
    "type": "single",
@@ -1333,7 +1444,8 @@ E1_DATA.push({
     2
    ],
    "w": "Hypokalemia (low K+) happens with higher insulin doses or IV administration. Lipodystrophy and site pain relate to SC injection sites.",
-   "src": "Insulin_Administration p.20"
+   "src": "Insulin_Administration p.20",
+   "simple": "**In plain English:** Insulin can cause **hypokalemia** (low potassium), especially with **IV** or high doses. Muscle weakness in a patient on an IV insulin drip points to this. **Example:** The hospital IV drip is the classic place this shows up, not the injection site problems like lumps or pain. **Remember:** **IV insulin → low K+**."
   },
   {
    "type": "single",
@@ -1348,7 +1460,8 @@ E1_DATA.push({
     0
    ],
    "w": "BG < 70 with a conscious patient → 15-15 Rule: 15 g fast-acting carbs, recheck after 15 min, repeat until ≥ 70. Glucagon is for unconscious/unable-to-swallow patients. (Per lecture 15 g; note: ADA Standards say 15–20 g glucose.)",
-   "src": "Insulin_Administration p.21–22"
+   "src": "Insulin_Administration p.21–22",
+   "simple": "**In plain English:** BG 58 is **under 70**, so she is hypoglycemic. She is **alert and can swallow**, so use the **15-15 Rule**: 15 g fast carbs, recheck in 15 minutes. Glucagon is for unconscious patients. **Example:** She drinks 4 oz of juice, waits 15 minutes, and rechecks. **Remember:** Awake → **15 g, 15 min**. Unconscious → glucagon."
   },
   {
    "type": "order",
@@ -1360,7 +1473,8 @@ E1_DATA.push({
     "Repeat until blood sugar is at least 70 mg/dL"
    ],
    "w": "15-15 Rule per slide 21.",
-   "src": "Insulin_Administration p.21"
+   "src": "Insulin_Administration p.21",
+   "simple": "**In plain English:** The 15-15 Rule: **eat 15 g fast carbs** → **wait 15 min and check** → **if still under 70, take another 15 g** → **repeat until at least 70 mg/dL**. **Example:** Like topping off a gas tank in small amounts and checking the gauge each time until it's past the line. **Remember:** **15 g, 15 min, repeat until ≥ 70**."
   },
   {
    "type": "multi",
@@ -1379,7 +1493,8 @@ E1_DATA.push({
     4
    ],
    "w": "15 g: ½ banana, 4 oz juice or REGULAR soda (not diet), 1 tbsp sugar/honey/syrup, 1 tube glucose gel, 3–4 glucose tablets. Diet soda has no sugar.",
-   "src": "Insulin_Administration p.21"
+   "src": "Insulin_Administration p.21",
+   "simple": "**In plain English:** About **15 g** of fast sugar = **4 oz juice**, **3–4 glucose tablets**, **1 tbsp honey**, or **1 tube glucose gel**. **Diet** soda has **no sugar**, so it won't help. **Example:** Grabbing a diet soda for low blood sugar is like filling a gas tank with water; there's no fuel in it. **Remember:** Must be **real sugar**: juice or regular soda, not diet."
   },
   {
    "type": "fill",
@@ -1388,7 +1503,8 @@ E1_DATA.push({
    "tol": 0,
    "unit": "g",
    "w": "Two rounds of the 15-15 Rule (still < 70 after the first) = 2 × 15 g = 30 g; at 78 mg/dL (≥ 70) she stops.",
-   "src": "Insulin_Administration p.21"
+   "src": "Insulin_Administration p.21",
+   "simple": "**In plain English:** She was still under 70 after the first round (64), so she did a second round, then hit 78 and stopped. That's **2 rounds × 15 g = 30 g**. **Example:** Round 1: juice (15 g) → 64. Round 2: 15 g more → 78. Done. **Remember:** Count the rounds × **15 g**: 2 × 15 = **30 g**."
   },
   {
    "type": "fill",
@@ -1397,7 +1513,8 @@ E1_DATA.push({
    "tol": 0,
    "unit": "oz",
    "w": "4 oz juice = 15 g, so 30 g = 8 oz.",
-   "src": "Insulin_Administration p.21"
+   "src": "Insulin_Administration p.21",
+   "simple": "**In plain English:** The lecture says **4 oz of juice = 15 g** carbs. To get **30 g**, double it: **4 oz × 2 = 8 oz**. **Example:** Half a cup gives 15 g, so a full cup gives 30 g. **Remember:** **15 g per 4 oz** → 30 g = **8 oz**."
   },
   {
    "type": "single",
@@ -1412,7 +1529,8 @@ E1_DATA.push({
     1
    ],
    "w": "Glucagon: severe hypoglycemia when unconscious/unable to swallow; another person gives 1 mg IM; roll onto side (nausea/vomiting); check BG in 15 min; typically wakes within 15 min. Oral carbs are unsafe when unconscious. (Per lecture 1 mg IM kit; note: newer options such as 3 mg intranasal or ready-to-use autoinjectors also exist.)",
-   "src": "Insulin_Administration p.22"
+   "src": "Insulin_Administration p.22",
+   "simple": "**In plain English:** An **unconscious** person **can't safely swallow**, so no juice or tablets. Give **glucagon 1 mg IM**, **roll her onto her side** (it can cause vomiting), and **recheck BG in 15 minutes**. **Example:** Pouring juice into an unconscious person's mouth could make them choke; glucagon goes into the muscle instead. **Remember:** Unconscious → **glucagon 1 mg IM + side + 15 min recheck** (your lecture's version)."
   },
   {
    "type": "single",
@@ -1427,7 +1545,8 @@ E1_DATA.push({
     3
    ],
    "w": "Glucagon ADRs include severe nausea, vomiting and tachycardia; the slide stresses rolling the person onto their side after injection.",
-   "src": "Insulin_Administration p.22"
+   "src": "Insulin_Administration p.22",
+   "simple": "**In plain English:** Glucagon can cause **severe nausea and vomiting**. Rolling the person onto their side keeps them from choking if they vomit. **Example:** Like the recovery position for someone passed out: if they throw up, it drains out instead of being inhaled. **Remember:** Glucagon → **vomiting risk → roll to side**."
   },
   {
    "type": "single",
@@ -1442,7 +1561,8 @@ E1_DATA.push({
     2
    ],
    "w": "Levemir = detemir → 42 days after opening. Lispro/aspart/glargine 28 d, regular U-100 31 d, degludec 56 d. (FYI, not graded: Novo Nordisk discontinued Levemir in the US in 2024; the lecture/handout still list it.)",
-   "src": "Insulin_Administration p.23; docx"
+   "src": "Insulin_Administration p.23; docx",
+   "simple": "**In plain English:** Levemir is **detemir**, which is good for **42 days** after opening per the lecture. **Example:** Six weeks: open it on the 1st of the month, it's good until about mid-next month. **Remember:** Detemir = **42 days**. Lispro/aspart/glargine 28, regular 31, degludec 56."
   },
   {
    "type": "multi",
@@ -1460,7 +1580,8 @@ E1_DATA.push({
     3
    ],
    "w": "28 days: lispro, aspart, glargine. Regular U-100 = 31 days; degludec = 56 days; detemir = 42 days.",
-   "src": "Insulin_Administration p.23"
+   "src": "Insulin_Administration p.23",
+   "simple": "**In plain English:** **Lispro, aspart,** and **glargine** each last **28 days** after opening. Regular U-100 is 31 days and degludec is 56 days. **Example:** Like milk with a \"use within about a month\" label: these three get exactly 28 days. **Remember:** **28 days**: lispro, aspart, glargine."
   },
   {
    "type": "fill",
@@ -1469,7 +1590,8 @@ E1_DATA.push({
    "tol": 0,
    "unit": "days",
    "w": "Humulin R = regular insulin; regular (U-100) expires 31 days after opening per the lecture table. (FYI: 31 days matches the Humulin R U-100 vial label; Novolin R vial labeling allows 42 days – for the exam use the lecture's 31.)",
-   "src": "Insulin_Administration p.23"
+   "src": "Insulin_Administration p.23",
+   "simple": "**In plain English:** Humulin R is **regular insulin**, and the lecture table says opened regular (U-100) lasts **31 days**. **Example:** Open it on Oct 1 and it's good through about Oct 31, like a full calendar month. **Remember:** **R**egular = **31 days** (your lecture's version)."
   },
   {
    "type": "single",
@@ -1484,7 +1606,8 @@ E1_DATA.push({
     0
    ],
    "w": "Degludec 56 days > detemir 42 > regular 31 > glargine/lispro/aspart 28.",
-   "src": "Insulin_Administration p.23"
+   "src": "Insulin_Administration p.23",
+   "simple": "**In plain English:** **Degludec** lasts **56 days** after opening, the longest on the table (detemir 42, regular 31, glargine 28). **Example:** Fits its personality: the ultra long-acting insulin also has the ultra long in-use shelf life. **Remember:** Ultra long-acting **degludec = 56 days**."
   },
   {
    "type": "single",
@@ -1499,7 +1622,8 @@ E1_DATA.push({
     3
    ],
    "w": "Unopened vials/pens: refrigerator 36–46 °F. Opened: may be unrefrigerated 59–86 °F. Never freezer, direct sunlight or glove compartment.",
-   "src": "Insulin_Administration p.24"
+   "src": "Insulin_Administration p.24",
+   "simple": "**In plain English:** **Unopened** pens go in the **fridge at 36–46 °F**. The pen **in use** may stay **unrefrigerated at 59–86 °F**. Never the freezer or glove box. **Example:** Store the spare boxes next to the milk; keep this week's pen in a kitchen drawer. **Remember:** Unopened = **fridge**; opened = **room temp OK**."
   },
   {
    "type": "multi",
@@ -1518,7 +1642,8 @@ E1_DATA.push({
     4
    ],
    "w": "Slides: no freezer/sunlight/glove compartment, check expiration and never use beyond it, inspect for particles/discoloration, best practice is to date when opened.",
-   "src": "Insulin_Administration p.23–24"
+   "src": "Insulin_Administration p.23–24",
+   "simple": "**In plain English:** Good storage counseling: **never freeze**, **avoid sunlight**, **inspect for particles or discoloration**, and **date the vial/pen when opened**. Never use insulin past its expiration date, even if refrigerated. **Example:** Like groceries: check for anything odd, write the open date on it, and toss it when expired no matter where it was stored. **Remember:** **No freezer, no sun, inspect, date it**; expired = out."
   },
   {
    "type": "single",
@@ -1533,7 +1658,8 @@ E1_DATA.push({
     1
    ],
    "w": "'Use room temperature insulin' is listed under tips to minimize painful injections.",
-   "src": "Insulin_Administration p.19"
+   "src": "Insulin_Administration p.19",
+   "simple": "**In plain English:** Using **room-temperature insulin** is one of the lecture's tips to **minimize painful injections**. Cold insulin stings more. **Example:** Like jumping into a cold pool versus a warm one; the cold shock is less comfortable. **Remember:** **Room temp = less pain**."
   },
   {
    "type": "single",
@@ -1548,7 +1674,8 @@ E1_DATA.push({
     2
    ],
    "w": "Insulin is produced by pancreatic beta cells; glucagon (its counterpart in the negative feedback system) raises blood sugar by stimulating glycogen breakdown in the liver.",
-   "src": "Insulin_Administration p.3"
+   "src": "Insulin_Administration p.3",
+   "simple": "**In plain English:** Insulin is made by the **beta cells of the pancreas**. It helps tissues like muscle pull in and use glucose, lowering blood sugar. **Example:** Think of beta cells as the factory, and insulin as the key that unlocks muscle cells so sugar can get in. **Remember:** **Beta cells → insulin**."
   }
  ]
 });

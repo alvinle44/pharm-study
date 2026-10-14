@@ -392,312 +392,374 @@ E1_DATA.push({
   [
    "How many people in the US have ≥1 major chronic condition (CDC 2023)?",
    ">194 million; CDC: **6 in 10 adults** live with a chronic disease",
-   0
+   0,
+   "**In plain English:** Chronic conditions are long-lasting health problems like diabetes or high blood pressure. More than **194 million** people in the US have at least one, and the CDC says about **6 in 10 adults** live with one. **Example:** Picture a room of 10 adults at a family reunion: roughly 6 of them are managing some ongoing condition. **Remember:** Two numbers: **>194 million** people, **6 in 10** adults. That huge group is why adherence matters so much."
   ],
   [
    "Medication nonadherence is associated with what 3 outcomes?",
    "**Poorer health outcomes, more hospital admissions, higher costs**",
-   0
+   0,
+   "**In plain English:** When people don't take their meds the way they were told, three bad things follow: they get **sicker (poorer health outcomes)**, they land in the **hospital more**, and everything **costs more**. **Example:** Skipping blood pressure pills is like skipping oil changes: the car breaks down, ends up in the shop, and the repair bill is way bigger. **Remember:** Worse health, more hospital, more money. Nonadherence never saves money."
   ],
   [
    "Cost of morbidity/mortality from nonoptimized Rx therapy (2016)?",
    "**$528.4 billion** = **16%** of U.S. health care spending",
-   0
+   0,
+   "**In plain English:** When medicines aren't working as well as they could (wrong drug, wrong dose, not taken right), people get sick or die from it. In 2016 that problem cost about **$528.4 billion**, which was **16%** of all US health care spending. **Example:** Think of $100 spent on health care: about $16 of it went to cleaning up problems from medication therapy that wasn't optimized. **Remember:** **$528.4 billion** (billion, not million) = **16%** of spending."
   ],
   [
    "Definition of medication nonadherence (per lecture)?",
    "Patients **fail to take their medications as directed** — quite common",
-   0
+   0,
+   "**In plain English:** Nonadherence simply means the patient **doesn't take the medicine as directed**: skipping doses, taking it at the wrong time, stopping early, and so on. Your lecture stresses it's **quite common**. **Example:** Your doctor says one pill twice a day, but you only remember the morning one. That's nonadherence even though you're taking some of it. **Remember:** Key words: **'as directed.'** Anything off the directions counts."
   ],
   [
    "Return on investment of improving adherence?",
    "**Every $1 spent saves $7** in total health care costs",
-   1
+   1,
+   "**In plain English:** Money spent helping patients take their meds correctly pays for itself many times over. For every **$1** spent improving adherence, about **$7** is saved in total health care costs. **Example:** Spending a dollar on a pill organizer and counseling can prevent a hospital stay, like a $1 smoke detector saving a whole house. **Remember:** Put in **$1**, save **$7**. Don't flip it, and don't confuse it with the 16% figure."
   ],
   [
    "Two named obstacles to adherence (besides cost)?",
    "**Health literacy** and **language barriers**",
-   1
+   1,
+   "**In plain English:** Besides cost, the lecture names two big obstacles: **health literacy** (how well someone can read and understand health info) and **language barriers** (not fluent in the language the instructions are written in). **Example:** An older man who reads Cantonese but not English gets a label saying 'take BID with food.' Even if he wants to adhere, he can't follow what he can't understand. **Remember:** Can't read it or can't understand the language means can't follow it: **health literacy + language**."
   ],
   [
    "Pacific's 'solution' — two barrier categories?",
    "**Cost** and **Complexity**",
-   1
+   1,
+   "**In plain English:** Pacific sorts adherence problems into two buckets: **Cost** (the patient can't afford it) and **Complexity** (the regimen is too confusing to follow). **Example:** Like a gym membership that fails because either it's too expensive or the workout plan is too confusing to follow. **Remember:** Two C's: **Cost** and **Complexity**. Figure out which bucket the problem is in, then pick the matching fix."
   ],
   [
    "Cost-barrier solutions?",
    "**Part D plan optimization**; Medication Affordability: **Patient Assistance Programs, Discount Programs, Drug coupons**",
-   1
+   1,
+   "**In plain English:** If cost is the barrier, fix the money side: **Part D plan optimization** (find the patient a cheaper Medicare drug plan) and **medication affordability** tools: **Patient Assistance Programs, Discount Programs, and Drug coupons**. **Example:** A patient stops her statin because the copay jumped. You compare Part D plans to find a cheaper one, or find a coupon or assistance program. **Remember:** Cost fixes are all about money: **plan optimization + PAPs, discounts, coupons**."
   ],
   [
    "Complexity-barrier solutions?",
    "**Meducation®**, **Medication Action Plan**, **Prescriber Communication Form**",
-   1
+   1,
+   "**In plain English:** If the regimen is too confusing, simplify it: **Meducation®** (easy-to-read instructions and calendars), a **Medication Action Plan**, and the **Prescriber Communication Form** (to ask the prescriber to change or simplify therapy). **Example:** A patient on 9 meds who mixes up the times gets a picture-based calendar in her language, plus a note to her doctor about simplifying. **Remember:** Complexity fixes are about understanding and simplifying, not money: **Meducation, Action Plan, Prescriber Form**."
   ],
   [
    "Personalized Plan Finder displays claims data from how far back?",
    "**Past 12 months** and/or most recently updated drug list",
-   0
+   0,
+   "**In plain English:** A personalized Medicare Plan Finder search shows the patient's pharmacy claims (what was actually filled) from the **past 12 months** and/or their most recently updated drug list. **Example:** Like a bank statement showing a year of purchases: it shows what was filled, which you then compare against what's in the patient's bag. **Remember:** **12 months** of claims data. Think one full year of fills."
   ],
   [
    "Plan Finder Section 6 — 4 steps?",
    "1 Alphabetize → 2 Verify vs claims/drug list → 3 Confirm current; identify stopped/changed/added → 4 Update drug list",
-   1
+   1,
+   "**In plain English:** To get the drug list right in Section 6: (1) put the meds in **alphabetical order**, (2) **verify** each against claims/the existing drug list, (3) **confirm** which are current and spot any stopped, changed or added, (4) **update** the drug list. **Example:** Like checking a grocery receipt: sort items, match each to the receipt, note what's missing or new, then fix the list. **Remember:** **A-V-C-U**: Alphabetize, Verify, Confirm, Update."
   ],
   [
    "Section 6 item 1 asks for?",
    "**Total number of current PRESCRIPTION drugs**",
-   1
+   1,
+   "**In plain English:** Item 1 is simply a count of the **current prescription drugs** the patient takes. OTC products are counted somewhere else (14b). **Example:** A patient has 8 prescription bottles plus a multivitamin. Item 1 = 8; the multivitamin doesn't count here. **Remember:** Item 1 = **Rx only**. OTC goes to 14b."
   ],
   [
    "Section 6 item 2 asks for?",
    "Estimated **annual** cost (yearly drug **+ premium**) of their **CURRENT** plan for **2027**",
-   0
+   0,
+   "**In plain English:** Item 2 is the **estimated yearly cost** of the patient's **current** (or assigned) plan for **2027**, including both the drug costs **and** the premiums. **Example:** Like totaling a phone plan for a year: the monthly fee plus what you pay for usage, not just one or the other. **Remember:** **Annual = drugs + premium**, for the **CURRENT plan, 2027**, not some cheaper alternative."
   ],
   [
    "Question 14b asks for?",
    "**Total number of NON-PRESCRIPTION drugs** taken",
-   1
+   1,
+   "**In plain English:** Question 14b is a count of all the **non-prescription (OTC)** products the patient takes, like vitamins, aspirin, probiotics or sleep aids. **Example:** Patient takes aspirin, a probiotic and melatonin, plus prescribed lisinopril. 14b = 3; lisinopril belongs in the Rx count. **Remember:** **14b = OTC count**; item 1 = Rx count. Don't mix them."
   ],
   [
    "What do you give a patient using or considering an OTC product in a listed category?",
    "The **appropriate OTC handout** + the **OTC cover sheet**",
-   1
+   1,
+   "**In plain English:** If a patient is using **or even just thinking about** an OTC product in a listed category, give them the matching **OTC handout** plus the **OTC cover sheet**. **Example:** A woman says she's considering an OTC sleep aid. Even though she hasn't started, she gets the Sleep Aids handout and the cover sheet. **Remember:** Using **or considering** means handout **+** cover sheet. Two pieces of paper."
   ],
   [
    "Who makes Meducation®?",
    "**First Databank (fdb)**",
-   0
+   0,
+   "**In plain English:** Meducation® is a software tool made by **First Databank (fdb)**, a drug-information company. Pacific uses it to make medication instructions simpler for older adults. **Example:** Like a recipe app that turns a complicated cookbook into simple step cards, made by one specific company. **Remember:** Meducation is made by **First Databank (fdb)**."
   ],
   [
    "Meducation reading level?",
    "**5–8th grade**",
-   1
+   1,
+   "**In plain English:** Meducation writes instructions at a **5th–8th grade reading level** so people with limited health literacy can understand them. **Example:** Instead of 'administer orally twice daily,' it says something like 'take 1 pill by mouth in the morning and at night.' **Remember:** **5–8th grade**: simple enough for a middle schooler."
   ],
   [
    "Meducation font options?",
    "**6 font sizes**, up to **18-point**",
-   0
+   0,
+   "**In plain English:** Meducation gives **6 font size choices**, going up to **18-point** font, so people with poor eyesight can read their instructions. **Example:** Like turning up the text size on your grandma's phone so she doesn't need her glasses. **Remember:** **6 sizes, up to 18-pt**."
   ],
   [
    "How many meds and languages does Meducation cover?",
    "**5,000+ medications**, **33 languages**",
-   0
+   0,
+   "**In plain English:** Meducation has detailed instructions for **more than 5,000 medications**, and everything is available in **33 languages** (like Spanish, Vietnamese, Tagalog, Punjabi). **Example:** A Vietnamese-speaking patient can get her whole calendar printed in Vietnamese. **Remember:** **5,000+ meds, 33 languages**."
   ],
   [
    "Purpose of Meducation pictograms?",
    "Depict usage to **reduce dosing errors**",
-   0
+   0,
+   "**In plain English:** Pictograms are little pictures showing how and when to take a medicine. They exist to **reduce dosing errors**. **Example:** A sun icon for morning and a moon for bedtime: even someone who can't read well knows when to take the pill. **Remember:** Pictures mean fewer mistakes: **pictograms reduce dosing errors**."
   ],
   [
    "Purpose of Meducation visual spacing?",
    "Reduce **cognitive overload**",
-   0
+   0,
+   "**In plain English:** Visual spacing means leaving white space between items so the page isn't crowded. It **reduces cognitive overload** (too much info at once overwhelming the brain). **Example:** A cluttered page of tiny text is like a messy desk; spacing things out is like a clean desk where you can find what you need. **Remember:** **Spacing = less cognitive overload**."
   ],
   [
    "What do Meducation videos show?",
    "Multilingual demos of proper use of difficult devices/meds (e.g., **inhalers, injectables**)",
-   0
+   0,
+   "**In plain English:** Meducation links to **multilingual videos** showing how to properly use tricky meds and devices, like **inhalers and injectables**. **Example:** A patient with a new inhaler watches a short video in her own language showing exactly how to breathe in the dose. **Remember:** Videos are for **hard-to-use devices** (inhalers, injectables)."
   ],
   [
    "Meducation icon: yellow ⚠?",
    "**View FDA Med Guide**",
-   0
+   0,
+   "**In plain English:** In Meducation's medication list, the **yellow warning triangle** icon means you can **view the FDA Med Guide** for that drug (the official FDA patient handout). **Example:** Like a yellow caution sign on the road telling you there's important safety info to read here. **Remember:** **Yellow ⚠ = FDA Med Guide**."
   ],
   [
    "Meducation: what is PMI?",
    "**Personal Med Instructions** (drug monograph)",
-   0
+   0,
+   "**In plain English:** **PMI** stands for **Personal Med Instructions**: the patient-friendly drug monograph explaining what the drug is for, how to take it, cautions and side effects. **Example:** Like a one-page instruction card for one medicine, e.g., the Advair Diskus sheet with pictures and a QR code. **Remember:** **PMI = Personal Med Instructions**."
   ],
   [
    "Meducation: 'Blue SIG' / 'Blue Drug' means?",
    "SIG not recognized / medicine not recognized",
-   0
+   0,
+   "**In plain English:** Blue text in Meducation's list is a warning that something wasn't recognized. **Blue SIG** = the directions (SIG) weren't recognized; **Blue Drug** = the medicine itself wasn't recognized. **Example:** Like spell-check underlining a word it doesn't know: blue tells you Meducation couldn't match what you entered. **Remember:** **Blue = not recognized**. SIG means directions; Drug means the medicine."
   ],
   [
    "Where on the drug monograph is the device demonstration?",
    "**QR code** — \"A demonstration is available online for this medicine\"",
-   1
+   1,
+   "**In plain English:** On the printed drug monograph, a **QR code** links to an online demonstration of how to use the medicine. **Example:** A patient with a new Advair Diskus scans the QR code with her phone and watches how to use it. **Remember:** Demonstration = **QR code** on the monograph."
   ],
   [
    "How are PRN meds shown on the Meducation calendar?",
    "Separate **AS NEEDED** section with reason & instructions (not in time columns)",
-   0
+   0,
+   "**In plain English:** PRN means 'as needed.' Meducation puts these meds in a **separate AS NEEDED section** with the reason and instructions, not in the time-of-day columns. **Example:** Ventolin for asthma attacks isn't scheduled at 8 am; it shows up in the As Needed box: every 4 hours, 2 puffs each time. **Remember:** PRN means **its own AS NEEDED section**, not Morning/Noon/Evening/Bedtime."
   ],
   [
    "Calendar time columns?",
    "**Morning, Noon, Evening, Bedtime**",
-   0
+   0,
+   "**In plain English:** The calendar breaks the day into four columns: **Morning, Noon, Evening, Bedtime**, and lists which meds to take in each. **Example:** Like a school schedule with four periods; each pill sits in the period you take it. **Remember:** **M-N-E-B**: Morning, Noon, Evening, Bedtime."
   ],
   [
    "The calendar ID (e.g., Y253RLJP) is recorded where?",
    "In the **Medicare Healthcare Passport** (as the meducation password) and **by the Medicare student**",
-   1
+   1,
+   "**In plain English:** The ID in the calendar's upper right (e.g., Y253RLJP) acts as the Meducation password. It's recorded in the **Medicare Healthcare Passport** and also recorded **by the Medicare student**. **Example:** Like a confirmation number: it goes on the patient's paperwork and the Medicare student writes it down too. **Remember:** Calendar ID goes in the **Passport + Medicare student**. It is NOT the Passport ID# (like 26-4235)."
   ],
   [
    "Meducation: which meds must you enter?",
    "**BOTH prescription AND OTC**",
-   1
+   1,
+   "**In plain English:** Enter **both prescription and OTC meds** into Meducation, because OTCs affect the patient too and belong on the calendar. **Example:** A patient's daily aspirin and multivitamin go on the calendar right alongside her prescriptions. **Remember:** **Rx AND OTC**: the whole picture."
   ],
   [
    "Meducation: what formulation details need care?",
    "**Capsule vs tablet**, **ER vs IR**, dose, salt form",
-   1
+   1,
+   "**In plain English:** Many drugs come in similar-looking versions, so pick carefully: **capsule vs tablet**, **ER (extended-release) vs IR (immediate-release)**, the right dose and the right salt form. **Example:** Metformin ER 500 mg and plain metformin 500 mg sound the same but are taken differently; choosing the wrong one puts wrong directions on the calendar. **Remember:** Check **formulation, ER vs IR, dose, salt form**. If in doubt, ask."
   ],
   [
    "Why NOT use 'Select an order string'?",
    "It **bypasses important steps**",
-   1
+   1,
+   "**In plain English:** The 'Select an order string' shortcut is off-limits because it **bypasses important steps** in building the entry correctly. **Example:** Like skipping steps in IKEA instructions to finish faster: it looks done but something's missing. **Remember:** **Do NOT** use order strings; they skip steps."
   ],
   [
    "What if information is unclear in Meducation?",
    "**Do NOT add/assume** — ask patient/MTM student; don't interrupt the intervention",
-   1
+   1,
+   "**In plain English:** If you're unsure about something, **don't add it or guess**. Ask the patient or MTM student, but don't stop or interrupt the intervention; work with the Medicare student when appropriate. **Example:** A patient isn't sure if her thyroid pill is morning or bedtime. You don't assume morning; you check quietly without derailing the session. **Remember:** **Don't assume, ask** (without interrupting)."
   ],
   [
    "How to start a NEW patient in Meducation?",
    "Upper right → **'New'**. Do **NOT Clear meds** or **Load** patients (overrides info)",
-   1
+   1,
+   "**In plain English:** To start a new patient, click **'New'** in the upper right corner. Do **not** use 'Clear meds' or 'Load' a patient, because either one **overrides information**. **Example:** Like opening a fresh document instead of erasing someone else's file: 'New' keeps other patients' records safe. **Remember:** New patient means **'New'**. Never Clear or Load."
   ],
   [
    "Medicare Healthcare Passport is described as?",
    "The patient's **roadmap**",
-   1
+   1,
+   "**In plain English:** The Medicare Healthcare Passport is the patient's **roadmap** through the event. It lists who they'll see, the Meducation password, the website and the hotline. **Example:** Like a travel itinerary that follows you through an airport, showing each gate you need to visit. **Remember:** Passport = **roadmap**."
   ],
   [
    "Passport 4-digit code means?",
    "Patient scheduled for **Part D and/or MTM services**",
-   1
+   1,
+   "**In plain English:** A **4-digit** passport code (e.g., 26-**4235**) means the patient is scheduled for **Part D and/or MTM services** (MTM = medication therapy management, a full med review). **Example:** More digits, more services: the 4-digit patient is booked for the bigger appointment. **Remember:** **4 digits = Part D/MTM**."
   ],
   [
    "Passport 3-digit code means?",
    "Patient attending for **screenings/services only**",
-   1
+   1,
+   "**In plain English:** A **3-digit** passport code (e.g., 26-**167**) means the patient came for **screenings/services only**. Keep notes clear and legible since the passport travels with them. **Example:** Like a walk-in visitor who only came for a blood pressure check, not the full appointment. **Remember:** **3 digits = screenings only**; 4 digits = Part D/MTM."
   ],
   [
    "Who reviews your Meducation record at Medicare events?",
    "A **pharmacist**, during their **MTM review**",
-   1
+   1,
+   "**In plain English:** A **pharmacist** reviews your Meducation record during **their MTM review** with the patient, so your entries get checked before reaching the patient. **Example:** Like a teacher checking your work before it gets handed out. **Remember:** **Pharmacist, during MTM review**."
   ],
   [
    "Medication assessment program used at events?",
    "**HomeMeds**",
-   1
+   1,
+   "**In plain English:** **HomeMeds** is the medication assessment program used at the events. At in-person events you enter the patient's meds directly into it. **Example:** Think of it as a separate safety-screening database where the meds are also logged. **Remember:** Med assessment program = **HomeMeds**."
   ],
   [
    "How many calendar copies to print at in-person events?",
    "**ONE** (drug monographs if patient needs/wants)",
-   1
+   1,
+   "**In plain English:** At in-person events, print **just ONE** copy of the calendar for the patient. You can also print individual drug monographs if the patient needs or wants them. **Example:** One clean copy for the patient's fridge, not a stack of duplicates. **Remember:** **One calendar copy**; monographs optional."
   ],
   [
    "Meducation process at Medicare events (order)?",
    "Create calendar → pharmacist check-off → give password to Medicare student → record in Passport",
-   1
+   1,
+   "**In plain English:** The Meducation flow is: **create** the calendar, get it **checked off by a pharmacist**, **give the password** to the Medicare student, then **record the password** in the Healthcare Passport. **Example:** Like a homework flow: write it, teacher checks it, hand in the code, log it in the record. **Remember:** **Create, Check, Give, Record**. The pharmacist check comes before anything goes out."
   ],
   [
    "Virtual event — what happens to the calendar?",
    "**SAVE to patient's OneDrive folder** (or ensure Medicare student does)",
-   1
+   1,
+   "**In plain English:** At a virtual event there's no one to hand paper to, so **save the calendar to the patient's OneDrive folder** (or make sure the Medicare student does). **Example:** Like emailing a file to a remote coworker instead of printing it. **Remember:** **Virtual = OneDrive**; in-person = print + HomeMeds."
   ],
   [
    "Prescriber Communication Form: basis of findings?",
    "Patient's **self-reported** conditions & meds; sent **with patient permission**",
-   0
+   0,
+   "**In plain English:** The form sends findings to the prescriber **on the patient's behalf, with their permission**, and it's based on what the patient **self-reports** about their conditions and meds. **Example:** A patient tells you her meds and conditions; with her OK, you send your concerns to her doctor. **Remember:** **Self-reported + with permission**."
   ],
   [
    "Prescriber Communication Form: prescriber response options?",
    "**Yes / No / Will resolve through another route**; fax back to 209-932-4009",
-   0
+   0,
+   "**In plain English:** The prescriber answers with one of three choices: **Yes**, **No**, or **Will resolve through another route**, then **faxes it back to 209-932-4009** for documentation. **Example:** A doctor who plans to handle it at the next visit checks 'another route' and faxes the form back. **Remember:** **Yes / No / Another route**, then fax back."
   ],
   [
    "Prescriber Communication Form: who signs?",
    "**Patient**, **Student Pharmacist**, **Pharmacist Preceptor**",
-   0
+   0,
+   "**In plain English:** Three people sign: the **Patient**, the **Student Pharmacist** (print and sign), and the **Pharmacist Preceptor** (print and sign). The prescriber only checks a response box. **Example:** Like a permission slip signed by the student, the student's helper, and the supervising teacher. **Remember:** **Patient + Student + Preceptor**."
   ],
   [
    "Vaccine Admin Form: allergy box rule?",
    "**DO NOT leave blank if none**",
-   1
+   1,
+   "**In plain English:** On the Vaccine Administration Form, the 'Allergies and Reaction' box must **never be left blank**. If the patient has none, write that. **Example:** A blank box could mean 'no allergies' or 'forgot to ask'; writing 'none' removes the guessing. **Remember:** Blank is ambiguous. **Write 'none.'**"
   ],
   [
    "Vaccine Admin Form: zip code rule?",
    "**Must match Medicare bill**",
-   1
+   1,
+   "**In plain English:** The patient's **zip code must match their Medicare bill**, so billing for the vaccine goes through correctly. It's one of the demographic fields at the top of the form. **Example:** Like a credit card purchase getting declined because the billing zip doesn't match. **Remember:** **Zip = Medicare bill**."
   ],
   [
    "Vaccine Admin Form: location choices?",
    "**FAST PASS** or **WAITING**",
-   0
+   0,
+   "**In plain English:** At the top of the form you circle where the patient is: **FAST PASS** or **WAITING**. **Example:** Like an amusement park: some guests have a fast pass, others are in the regular line. **Remember:** **Fast Pass or Waiting**."
   ],
   [
    "Lot documentation columns on Vaccine Admin Form?",
    "**NDC, Lot #, Manufacturer, Exp. Date**, + **VIS Date**",
-   1
+   1,
+   "**In plain English:** For every vaccine given, document the product details: **NDC, Lot #, Manufacturer, Expiration date**, plus the **VIS date** (the date on the Vaccine Information Statement handed out). **Example:** Like recording a car's VIN and model so it can be traced if there's a recall. **Remember:** **NDC, Lot, Manufacturer, Exp + VIS date**."
   ],
   [
    "'Successful Billing??' column rule?",
    "**Leave blank if not billed**",
-   0
+   0,
+   "**In plain English:** The 'Successful Billing??' column gets filled only if the vaccine was billed. **If it wasn't billed, leave it blank.** **Example:** Like a 'paid' stamp you only put on invoices that were actually paid. **Remember:** **Not billed means blank**."
   ],
   [
    "Hep B (Engerix-B) dose on form?",
    "**1 mL IM deltoid**, 3-dose series",
-   1
+   1,
+   "**In plain English:** Hep B (Engerix-B) on the form is **1 mL**, given **IM in the deltoid** (a shot into the shoulder muscle), as a **3-dose series**. **Example:** Most vaccines on the form are 0.5 mL; Hep B is the odd one at a full 1 mL. **Remember:** Hep B = **1 mL × 3 doses**."
   ],
   [
    "COVID-19 dose volumes on form?",
    "**Spikevax 0.5 mL** or **Comirnaty 0.3 mL**",
-   1
+   1,
+   "**In plain English:** Two COVID-19 products with different volumes: **Spikevax 0.5 mL** or **Comirnaty 0.3 mL**, both IM deltoid. **Example:** Two brands of the same thing with different serving sizes, so check which bottle you grabbed. **Remember:** **Comirnaty is the smaller 0.3 mL**; Spikevax 0.5 mL."
   ],
   [
    "Screening Q2 food allergies specifically named?",
    "**Eggs or gelatin** (plus meds, a vaccine, latex)",
-   1
+   1,
+   "**In plain English:** Screening Q2 asks about allergies, specifically naming the foods **eggs or gelatin**, plus medications, a vaccine, or **latex**. **Example:** A patient who breaks out after eating Jell-O (gelatin) gets flagged under Q2. **Remember:** Q2 food allergies = **eggs + gelatin**."
   ],
   [
    "Screening Q6 items?",
    "Immunocompromise/immunosuppressants, **no spleen, cochlear implant, CSF leak, smoking**",
-   1
+   1,
+   "**In plain English:** Screening Q6 covers things that raise infection risk: **immunocompromising conditions or immunosuppressant drugs, no spleen, cochlear implant, CSF leak (spinal fluid leak), or smoking**. **Example:** A smoker with a cochlear implant would say yes to Q6. **Remember:** Q6 = **weak immunity + spleen, cochlear implant, CSF leak, smoking**. Latex is Q2; Guillain-Barré is Q4."
   ],
   [
    "Hep B screening Q8: YES vs NO billing?",
    "YES → circle reason, bill **Medicare Part B**; NO → bill **Part D** (may need authorization)",
-   1
+   1,
+   "**In plain English:** For Hep B: if the patient **has a risk factor (YES)**, circle it and bill **Medicare Part B**. If **NO**, bill **Part D** (which may need insurance authorization). **Example:** A 70-year-old with diabetes (a listed risk factor) says yes, so you circle diabetes and bill Part B. **Remember:** **Yes = B** (risk = B)."
   ],
   [
    "California registry rule?",
    "CA law requires entering any vaccine given into the **state immunization registry**; check box **ONLY IF patient declines**",
-   1
+   1,
+   "**In plain English:** California law requires every vaccine given to be entered in the **state immunization registry**. Read this to the patient and **check the box only if they decline**. **Example:** Like a default auto-save: it happens unless the patient specifically opts out. **Remember:** Registry is the default; **box = decline only**."
   ],
   [
    "Vaccination card contents?",
    "**Patient info · vaccines received · series status · reminders**",
-   1
+   1,
+   "**In plain English:** The vaccination card records **patient information, vaccines received, series status, and reminders** for upcoming doses. Rule: 'If you document it, document it correctly.' **Example:** Like a passport stamp page plus a reminder note: what you got, how far along you are, and what's next. **Remember:** **Info, received, series status, reminders**."
   ],
   [
    "Vaccine Menu: flu SD vs HD?",
    "**SD <65**, **HD ≥65**; both annual",
-   0
+   0,
+   "**In plain English:** Flu shot choice is by age: **Standard Dose (SD)** for under 65, **High Dose (HD)** for **65 or older**. Both are **every year**. **Example:** A 63-year-old gets SD; her 66-year-old husband gets HD. **Remember:** **65 is the line**: under = SD, 65+ = HD. Annual."
   ],
   [
    "Vaccine Menu: Shingrix?",
    "2-shot series, after age **50**, 2nd shot in **2–6 months**, lifetime",
-   0
+   0,
+   "**In plain English:** Shingrix is a **2-shot series** given after **age 50**, with the **second shot 2–6 months** later, and (per your lecture's menu) it's good for a lifetime. **Example:** Get dose one in March; dose two lands sometime between May and September. **Remember:** **2 shots, 2–6 months apart, 50+**."
   ],
   [
    "Vaccine Menu: RSV?",
    "**≥75**, or **50–74** with risk factors; **only one dose**",
-   0
+   0,
+   "**In plain English:** Per the menu, RSV is for adults **75 or older**, or **50–74 with risk factors** (like heart or lung disease). **Only one dose** is recommended. **Example:** A 79-year-old who got his RSV vaccine last year doesn't need another one. **Remember:** RSV = **one and done**."
   ],
   [
    "Meducation homework requirements?",
    "Calendar saved under **Optimize**, **English + another language**, password; due Wed 9/30 6 pm; 10 pts, must be **perfect**",
-   1
+   1,
+   "**In plain English:** The homework: build the calendar, save it under **'Optimize'**, upload it in **English and another language** plus your password to Canvas by **Wed 9/30, 6 pm**. It's 10 points and must be **perfect** or you're remediated. **Example:** Like a pass/fail driving test: one mistake means a redo with a new patient case. **Remember:** **Optimize, 2 languages, password, perfect**."
   ],
   [
    "MHFA 3 steps?",
    "**Recognize → Respond → Connect**",
-   0
+   0,
+   "**In plain English:** Mental Health First Aid has 3 steps: **Recognize** signs of a mental health or substance use challenge, **Respond** by listening without judgment and offering initial support, then **Connect** them to professional care. **Example:** Like first aid for a cut: notice the injury, stop the bleeding, then get them to a doctor. **Remember:** **Recognize, Respond, Connect**: notice, help, hand off."
   ]
  ],
  "mcq": [
@@ -714,7 +776,8 @@ E1_DATA.push({
     2
    ],
    "w": "The slide states (underlined) that every $ spent improving adherence saves $7 in total health care costs. 16 is the % of U.S. spending tied to nonoptimized therapy, not the ROI; the reversed ratio is wrong.",
-   "src": "Adherence notes p.8"
+   "src": "Adherence notes p.8",
+   "simple": "**In plain English:** Spending money to help patients take their meds correctly pays back: every **$1** spent saves **$7** in total health care costs. **Example:** Paying $1 for a reminder call that keeps a patient out of the ER, which would cost far more. **Remember:** **$1 in, $7 saved**. 16 is a percentage from a different stat, and the reverse ratio is backward."
   },
   {
    "type": "single",
@@ -729,7 +792,8 @@ E1_DATA.push({
     0
    ],
    "w": "$528.4 billion = 16% of U.S. health care spending (2016). 194 million is the number of people with ≥1 chronic condition; 6/10 is the proportion of adults with chronic disease; 'million' is the wrong magnitude.",
-   "src": "Adherence notes p.3"
+   "src": "Adherence notes p.3",
+   "simple": "**In plain English:** In 2016, problems from medication therapy that wasn't optimized (wrong drugs, doses, not taken right) cost about **$528.4 billion**, roughly **16%** of US health care spending. **Example:** Out of every $100 spent on health care, about $16 went to fixing medication-related problems. **Remember:** **Billion, not million**. 194 million is the number of people with chronic conditions, a different stat."
   },
   {
    "type": "multi",
@@ -747,7 +811,8 @@ E1_DATA.push({
     2
    ],
    "w": "The slide lists poorer health outcomes, more hospital admissions and higher costs. Nonadherence raises, not lowers, spending, and it does not reduce chronic disease.",
-   "src": "Adherence notes p.3"
+   "src": "Adherence notes p.3",
+   "simple": "**In plain English:** Not taking meds as directed leads to **poorer health outcomes**, **more hospital admissions**, and **higher costs**. It never lowers spending or reduces disease. **Example:** Skipping insulin leads to a diabetes emergency, an ER trip and a big bill: all three outcomes at once. **Remember:** Nonadherence is **bad, bad, bad**: worse health, more hospital, more cost."
   },
   {
    "type": "single",
@@ -762,7 +827,8 @@ E1_DATA.push({
     3
    ],
    "w": "The lecture specifically names health literacy and language barriers as obstacles to adherence; his issues are reading ability and language. Cost is a separate bucket and nothing suggests interactions or prescriber issues.",
-   "src": "Adherence notes p.8"
+   "src": "Adherence notes p.8",
+   "simple": "**In plain English:** This patient's problem isn't money; it's that he can't easily read the instructions (**health literacy**) and they're not in his language (**language barrier**). Those are the two obstacles the lecture names. **Example:** Handing someone an instruction manual in a language they don't read: no matter how motivated, they can't follow it. **Remember:** Reading trouble + different language = **health literacy and language barriers**."
   },
   {
    "type": "single",
@@ -777,7 +843,8 @@ E1_DATA.push({
     1
    ],
    "w": "Copay/affordability is a COST barrier; cost solutions are Part D plan optimization and medication affordability (patient assistance programs, discount programs, drug coupons). Meducation, the Medication Action Plan and the Prescriber Communication Form are listed under COMPLEXITY.",
-   "src": "Adherence notes p.9"
+   "src": "Adherence notes p.9",
+   "simple": "**In plain English:** She stopped because the copay got too expensive, so it's a **cost** problem. Cost fixes are **Part D plan optimization** and **medication affordability programs**. Meducation and the other forms address complexity, not money. **Example:** If your gym is too pricey, a better workout plan won't help; you need a cheaper membership. **Remember:** Money problem means **cost bucket**: plan optimization + affordability."
   },
   {
    "type": "multi",
@@ -796,7 +863,8 @@ E1_DATA.push({
     3
    ],
    "w": "Complexity: Meducation®, Medication Action Plan, Prescriber Communication Form. Drug coupons, patient assistance programs and Part D plan optimization are COST solutions.",
-   "src": "Adherence notes p.9"
+   "src": "Adherence notes p.9",
+   "simple": "**In plain English:** Complexity fixes help patients understand and simplify their regimen: **Meducation®**, the **Medication Action Plan**, and the **Prescriber Communication Form**. Coupons, assistance programs and plan optimization are money fixes. **Example:** Confused about 9 pills? A picture calendar and a note to the doctor help; a coupon doesn't. **Remember:** **Complexity = Meducation, Action Plan, Prescriber Form**."
   },
   {
    "type": "multi",
@@ -814,7 +882,8 @@ E1_DATA.push({
     2
    ],
    "w": "Medication Affordability = Patient Assistance Programs, Discount Programs and Drug coupons. Medication Action Plan and Meducation are complexity solutions.",
-   "src": "Adherence notes p.9"
+   "src": "Adherence notes p.9",
+   "simple": "**In plain English:** Under 'Medication Affordability' on the cost side are three money-saving tools: **Patient Assistance Programs**, **Discount Programs**, and **Drug coupons**. **Example:** Like saving on groceries with assistance programs, store discounts and coupons. **Remember:** Affordability = **PAPs, discounts, coupons**. Meducation and the Action Plan are complexity tools."
   },
   {
    "type": "order",
@@ -826,7 +895,8 @@ E1_DATA.push({
     "Update the drug list so it accurately reflects current medications"
    ],
    "w": "Section 6 lists: 1) alphabetize, 2) verify against claims/drug list, 3) confirm current and identify stopped/changed/added, 4) update the drug list.",
-   "src": "Adherence notes p.6"
+   "src": "Adherence notes p.6",
+   "simple": "**In plain English:** Section 6 goes in a logical order: **alphabetize** the meds, **verify** each against claims/drug list, **confirm** which are current and note stopped/changed/added, then **update** the drug list. **Example:** Like reconciling a receipt: sort it, check each item, flag differences, fix the list. **Remember:** **A-V-C-U**: Alphabetize, Verify, Confirm, Update. You can't update until you've confirmed."
   },
   {
    "type": "single",
@@ -841,7 +911,8 @@ E1_DATA.push({
     2
    ],
    "w": "Section 6 states a personalized search displays pharmacy claims data from the past 12 months and/or the most recently updated drug list. The other options are not described.",
-   "src": "Adherence notes p.6"
+   "src": "Adherence notes p.6",
+   "simple": "**In plain English:** A personalized Plan Finder search pulls in the patient's **pharmacy claims from the past 12 months** and/or their most recently updated drug list, not just what they say aloud. **Example:** Like a year of bank statements showing what was actually bought, which you then compare to the bag of bottles. **Remember:** **12 months** of claims, not 30 days."
   },
   {
    "type": "fill",
@@ -850,7 +921,8 @@ E1_DATA.push({
    "tol": 0,
    "unit": "drugs",
    "w": "Item 1 counts only current PRESCRIPTION drugs: 8 (the 7 oral Rx meds + Ozempic). Loratadine and the multivitamin are non-prescription and go in question 14b.",
-   "src": "Adherence notes p.6, 39"
+   "src": "Adherence notes p.6, 39",
+   "simple": "**In plain English:** Item 1 counts only **prescription** drugs. Count them: Farxiga, metformin, spironolactone, carvedilol, Eliquis, sacubitril/valsartan, atorvastatin = 7, plus Ozempic = **8**. Loratadine and the multivitamin are OTC. **Example:** Sorting laundry: only the prescription shirts go in this pile; the OTC socks go in the 14b pile. **Remember:** **Rx only = 8**. OTCs go to 14b."
   },
   {
    "type": "fill",
@@ -859,7 +931,8 @@ E1_DATA.push({
    "tol": 0,
    "unit": "drugs",
    "w": "14b counts NON-prescription products only: aspirin, probiotic and the sleep aid = 3. Lisinopril is a prescription drug and belongs in the Section 6 prescription count.",
-   "src": "Adherence notes p.7"
+   "src": "Adherence notes p.7",
+   "simple": "**In plain English:** 14b counts only **non-prescription** products. Aspirin 81 mg + probiotic + melatonin = **3**. Lisinopril is a prescription, so it doesn't count here. **Example:** Three OTC items from the store shelf count; the one from behind the pharmacy counter doesn't. **Remember:** **OTC only = 3**. Rx goes in Section 6."
   },
   {
    "type": "single",
@@ -874,7 +947,8 @@ E1_DATA.push({
     1
    ],
    "w": "The green note says if the patient is currently using OR considering an OTC product in a listed category, provide the appropriate OTC handout and also include the OTC cover sheet. Handouts are not limited to current users.",
-   "src": "Adherence notes p.7"
+   "src": "Adherence notes p.7",
+   "simple": "**In plain English:** The rule covers patients **currently using or just considering** an OTC product: give the **matching OTC handout plus the OTC cover sheet**. **Example:** She's only thinking about a sleep aid, so she still gets the Sleep Aids handout and cover sheet. **Remember:** **Considering counts**: handout + cover sheet."
   },
   {
    "type": "multi",
@@ -894,7 +968,8 @@ E1_DATA.push({
     4
    ],
    "w": "14a categories include Heartburn & GERD, Memory loss, Wound Care and Probiotics (among others). Antibiotics and insulin are not on the OTC category list.",
-   "src": "Adherence notes p.7"
+   "src": "Adherence notes p.7",
+   "simple": "**In plain English:** Question 14a lists OTC categories like **Heartburn & GERD, Memory loss, Wound Care, Probiotics**, and more. Antibiotics and insulin aren't on the OTC list. **Example:** A patient taking an OTC heartburn tablet and a probiotic fits two listed categories. **Remember:** 14a is a set list of OTC categories; **antibiotics and insulin are not on it**."
   },
   {
    "type": "single",
@@ -909,7 +984,8 @@ E1_DATA.push({
     3
    ],
    "w": "Item 2: Estimated Annual Cost (yearly drug AND premium cost) in Plan Finder of their CURRENT plan (or assigned plan) for 2027 — not an alternative plan and not drug or premium alone.",
-   "src": "Adherence notes p.6"
+   "src": "Adherence notes p.6",
+   "simple": "**In plain English:** Item 2 is the estimated **annual** cost of the patient's **current** (or assigned) plan for **2027**, including **both drug costs and premiums**. **Example:** Like adding up a full year of a phone plan: monthly fees plus usage charges for the plan you actually have. **Remember:** **Drugs + premium, current plan, 2027**."
   },
   {
    "type": "single",
@@ -924,7 +1000,8 @@ E1_DATA.push({
     0
    ],
    "w": "Meducation instructions are at a 5–8th grade reading level to address health literacy.",
-   "src": "Adherence notes p.12"
+   "src": "Adherence notes p.12",
+   "simple": "**In plain English:** Meducation writes at a **5th–8th grade** reading level so people with limited health literacy (trouble reading or understanding health info) can follow it. **Example:** Directions a middle schooler could understand: 'take 1 pill in the morning with food.' **Remember:** **5–8th grade**."
   },
   {
    "type": "multi",
@@ -944,7 +1021,8 @@ E1_DATA.push({
     4
    ],
    "w": "Lecture features: 6 font sizes (up to 18 pt), 33 languages, pictograms to reduce dosing errors, Medication Calendar, visual spacing, multilingual videos. Refill sync and plan enrollment are not Meducation features.",
-   "src": "Adherence notes p.12"
+   "src": "Adherence notes p.12",
+   "simple": "**In plain English:** Meducation helps her vision and language problems with **6 font sizes up to 18-pt**, **33 languages**, **pictograms** to cut dosing errors, and a **Medication Calendar** to simplify the regimen. It doesn't do refills or plan enrollment. **Example:** Big print, her own language, pictures, and one simple calendar on the fridge. **Remember:** Meducation is about **understanding**: fonts, languages, pictures, calendar. Not refills or enrollment."
   },
   {
    "type": "fill",
@@ -953,7 +1031,8 @@ E1_DATA.push({
    "tol": 0,
    "unit": "languages",
    "w": "The slide states all Meducation materials are available in 33 languages.",
-   "src": "Adherence notes p.12, 20"
+   "src": "Adherence notes p.12, 20",
+   "simple": "**In plain English:** All Meducation instructions and summaries are available in **33 languages**, such as Spanish, Vietnamese, Tagalog and Punjabi, which tackles the language barrier to adherence. **Example:** A Punjabi-speaking patient can take home his calendar printed in Punjabi. **Remember:** **33 languages**."
   },
   {
    "type": "single",
@@ -968,7 +1047,8 @@ E1_DATA.push({
     2
    ],
    "w": "The monograph includes a QR code (red-boxed in notes) stating 'A demonstration is available online for this medicine.' Meducation links to multilingual videos for difficult devices like inhalers.",
-   "src": "Adherence notes p.16, 12"
+   "src": "Adherence notes p.16, 12",
+   "simple": "**In plain English:** The printed drug monograph has a **QR code** that links to an **online demonstration** of how to use the medicine. **Example:** She scans the code on her Advair sheet with her phone and watches a short how-to video. **Remember:** Demo = **QR code** on the monograph."
   },
   {
    "type": "single",
@@ -983,7 +1063,8 @@ E1_DATA.push({
     0
    ],
    "w": "Legend: 'Blue Drug: Medicine not recognized' (Blue SIG = SIG not recognized). PRN is shown in the Category column; the yellow ⚠ icon = FDA Med Guide; the play icon = demonstration.",
-   "src": "Adherence notes p.14"
+   "src": "Adherence notes p.14",
+   "simple": "**In plain English:** In Meducation, **blue text means 'not recognized.'** A blue drug name means the **medicine itself isn't recognized** by the system. **Example:** Like spell-check flagging a word: you need to fix or find the correct entry. **Remember:** **Blue Drug = medicine not recognized**; Blue SIG = directions not recognized."
   },
   {
    "type": "single",
@@ -998,7 +1079,8 @@ E1_DATA.push({
     3
    ],
    "w": "The calendar shows Ventolin under 'AS NEEDED: Medicine you should use as needed' with reason (asthma attacks) and instructions (every 4 hours, 2 puffs) rather than in the time-of-day columns.",
-   "src": "Adherence notes p.17–19"
+   "src": "Adherence notes p.17–19",
+   "simple": "**In plain English:** 'As needed' (PRN) meds don't get scheduled times, so Meducation puts them in a **separate AS NEEDED section** with the reason and instructions. **Example:** Ventolin for asthma attacks shows up in the As Needed box: every 4 hours, 2 puffs each time. **Remember:** PRN means its **own section**, not the time columns."
   },
   {
    "type": "fill",
@@ -1007,7 +1089,8 @@ E1_DATA.push({
    "tol": 0,
    "unit": "days",
    "w": "1 puff BID = 2 puffs/day; 60 actuations ÷ 2 = 30 days.",
-   "src": "Adherence notes p.15, 19"
+   "src": "Adherence notes p.15, 19",
+   "simple": "**In plain English:** Find puffs per day, then divide. 1 puff morning + 1 puff evening = **2 puffs/day**. **60 ÷ 2 = 30 days**. **Example:** Like a 60-slice loaf where you eat 2 slices a day: it lasts 30 days. **Remember:** Total doses ÷ daily use = **30 days**."
   },
   {
    "type": "fill",
@@ -1016,7 +1099,8 @@ E1_DATA.push({
    "tol": 0,
    "unit": "puffs",
    "w": "Every 4 hours = 6 doses/24 h × 2 puffs = 12 puffs.",
-   "src": "Adherence notes p.19"
+   "src": "Adherence notes p.19",
+   "simple": "**In plain English:** Every 4 hours in a 24-hour day = **24 ÷ 4 = 6 doses**. Each dose is 2 puffs: **6 × 2 = 12 puffs**. **Example:** Like an alarm going off every 4 hours all day and night: 6 alarms, 2 puffs each. **Remember:** **6 doses × 2 puffs = 12**."
   },
   {
    "type": "single",
@@ -1031,7 +1115,8 @@ E1_DATA.push({
     1
    ],
    "w": "The slide says Do NOT use 'Select an order string' as this bypasses important steps. Scrolling for salt form, entering OTCs and selecting 'New' are all required behaviors.",
-   "src": "Adherence notes p.24"
+   "src": "Adherence notes p.24",
+   "simple": "**In plain English:** The 'Select an order string' shortcut is **forbidden** because it **bypasses important steps**. Scrolling for salt form, entering OTCs and clicking 'New' are all things you should do. **Example:** Like skipping steps in a recipe to save time: the dish comes out wrong. **Remember:** Order string means **don't**; it skips steps."
   },
   {
    "type": "single",
@@ -1046,7 +1131,8 @@ E1_DATA.push({
     2
    ],
    "w": "Be careful with formulations (capsule vs tablet) and ER vs IR; scroll to find the appropriate dose/salt form, and if in doubt, ASK. Picking IR assumes wrong info; order strings bypass steps; omitting the med is inaccurate.",
-   "src": "Adherence notes p.24"
+   "src": "Adherence notes p.24",
+   "simple": "**In plain English:** ER (extended-release) and IR (immediate-release) are different products even at the same strength. **Scroll carefully for the right formulation**, and if unsure, **ask the Medicare students**. **Example:** Grabbing 'regular' when the bottle says 'ER' is like buying the wrong size battery because the brand matched. **Remember:** **Match ER vs IR exactly**; if in doubt, ask."
   },
   {
    "type": "single",
@@ -1061,7 +1147,8 @@ E1_DATA.push({
     1
    ],
    "w": "Do NOT add information you are uncertain of (don't assume). Ask the patient/MTM student; do not stop/interrupt the intervention but work with the Medicare student when appropriate.",
-   "src": "Adherence notes p.25"
+   "src": "Adherence notes p.25",
+   "simple": "**In plain English:** Never guess. **Don't add info you're unsure of**. Ask the patient or MTM student, and work with the Medicare student **without stopping the intervention**. **Example:** Rather than assuming 'morning' for her thyroid pill, you quietly confirm during the session. **Remember:** **Don't assume, don't interrupt, ask**."
   },
   {
    "type": "multi",
@@ -1078,7 +1165,8 @@ E1_DATA.push({
     3
    ],
    "w": "For new patients select 'New'. Do NOT Clear meds or Load patients — both override information. Enter BOTH Rx and OTC meds. Never assume uncertain info.",
-   "src": "Adherence notes p.24–25"
+   "src": "Adherence notes p.24–25",
+   "simple": "**In plain English:** For a new patient, click **'New'** and enter **both prescription and OTC meds**. 'Clear Meds' and 'Load' are off-limits because they **override information**, and you never assume missing doses. **Example:** Open a fresh file for each patient instead of erasing or reopening someone else's. **Remember:** **New + Rx & OTC**. Never Clear, Load or assume."
   },
   {
    "type": "order",
@@ -1090,7 +1178,8 @@ E1_DATA.push({
     "Record the Meducation password in the Healthcare Passport"
    ],
    "w": "Flowchart: Create calendar → pharmacist check-off → give password to Medicare student → record password in Healthcare Passport.",
-   "src": "Adherence notes p.27"
+   "src": "Adherence notes p.27",
+   "simple": "**In plain English:** The order is: **create** the calendar, the **pharmacist checks it off**, **give the password** to the Medicare student, **record the password** in the Healthcare Passport. **Example:** Like homework: write it, teacher approves, hand in the code, log it. **Remember:** **Create, Check, Give, Record**. Pharmacist approval comes before handing anything off."
   },
   {
    "type": "single",
@@ -1105,7 +1194,8 @@ E1_DATA.push({
     3
    ],
    "w": "The red-boxed ID is the Meducation password: 'This will be recorded in the Medicare Passport / This will also be recorded by the Medicare student.' The Passport ID# is a different number (e.g., 26-4235).",
-   "src": "Adherence notes p.22–23"
+   "src": "Adherence notes p.22–23",
+   "simple": "**In plain English:** The ID at the top right of the calendar is the **Meducation password**. It's **recorded in the Medicare Healthcare Passport** and also by the **Medicare student**. **Example:** Like a confirmation code that goes on the patient's itinerary and gets logged by staff. **Remember:** Calendar ID goes in the **Passport + Medicare student**. It's not the Passport ID# (e.g., 26-4235)."
   },
   {
    "type": "single",
@@ -1120,7 +1210,8 @@ E1_DATA.push({
     0
    ],
    "w": "In-person: print a copy for the patient (ONE copy) and enter into HomeMeds. Saving to OneDrive is the VIRTUAL-event process.",
-   "src": "Adherence notes p.26, 28"
+   "src": "Adherence notes p.26, 28",
+   "simple": "**In plain English:** In person, there's a patient to hand paper to, so **print ONE copy** of the calendar and **enter the meds into HomeMeds**. OneDrive is for virtual events. **Example:** One clean calendar goes home with the patient; the meds also go into HomeMeds. **Remember:** **In-person = print 1 + HomeMeds**."
   },
   {
    "type": "single",
@@ -1135,7 +1226,8 @@ E1_DATA.push({
     2
    ],
    "w": "Virtual events: SAVE Calendar to the patient's OneDrive Folder (or ensure the Medicare student does). Printing/HomeMeds are the in-person steps.",
-   "src": "Adherence notes p.28"
+   "src": "Adherence notes p.28",
+   "simple": "**In plain English:** At a virtual event you can't hand over paper, so **save the calendar to the patient's OneDrive folder** (or make sure the Medicare student does). **Example:** Like sharing a file to a cloud folder with a remote friend instead of printing it. **Remember:** **Virtual = OneDrive**."
   },
   {
    "type": "single",
@@ -1150,7 +1242,8 @@ E1_DATA.push({
     0
    ],
    "w": "Key points: a pharmacist will review your Meducation record during their MTM review.",
-   "src": "Adherence notes p.26"
+   "src": "Adherence notes p.26",
+   "simple": "**In plain English:** Your Meducation record is checked by a **pharmacist during their MTM review** (medication therapy management, the full med review with the patient). **Example:** Like a supervisor reviewing your report during the client meeting. **Remember:** **Pharmacist, during MTM**."
   },
   {
    "type": "single",
@@ -1165,7 +1258,8 @@ E1_DATA.push({
     3
    ],
    "w": "4-digit code = scheduled for Part D and/or MTM services; use the passport to move the patient through the event. A 3-digit code (e.g., 26-167) = screenings/services only.",
-   "src": "Adherence notes p.32"
+   "src": "Adherence notes p.32",
+   "simple": "**In plain English:** A **4-digit** passport code (like 26-**4235**) means the patient is scheduled for **Part D and/or MTM services**. Use the passport to guide them through the event. **Example:** More digits, more services: they're booked for the full appointment. **Remember:** **4 digits = Part D/MTM**; 3 digits = screenings only."
   },
   {
    "type": "single",
@@ -1180,7 +1274,8 @@ E1_DATA.push({
     1
    ],
    "w": "3-digit code = screenings/services only; keep documentation clear and legible as the passport travels with the patient. MTM/Part D is the 4-digit code.",
-   "src": "Adherence notes p.32"
+   "src": "Adherence notes p.32",
+   "simple": "**In plain English:** A **3-digit** code (like 26-**167**) means **screenings/services only**. Write clearly and legibly because the **passport travels with the patient**. **Example:** A walk-in visitor for a quick check; the next station reads your notes, so they must be legible. **Remember:** **3 digits = screenings only + clear writing**."
   },
   {
    "type": "multi",
@@ -1197,7 +1292,8 @@ E1_DATA.push({
     1
    ],
    "w": "Both 'Cheaper therapeutic alternative available' and 'Medication non-adherence' are listed issues matching the findings. No duplication, drug-disease interaction or ADR was described.",
-   "src": "Adherence notes p.29"
+   "src": "Adherence notes p.29",
+   "simple": "**In plain English:** Check the boxes that match what you actually found: a **cheaper therapeutic alternative available** and **medication non-adherence** (missing doses). Nothing suggested duplication, drug-disease interaction or an adverse reaction. **Example:** Like filling out a car inspection form: only check the problems you saw. **Remember:** **Check what you found**: cheaper option + nonadherence."
   },
   {
    "type": "single",
@@ -1212,7 +1308,8 @@ E1_DATA.push({
     2
    ],
    "w": "The recommendation section lists Cost savings alternative with Current medication (Cost/year: $) and Alternative medication (Cost/year: $).",
-   "src": "Adherence notes p.29"
+   "src": "Adherence notes p.29",
+   "simple": "**In plain English:** A 'Cost savings alternative' recommendation lists the **current medication** and the **alternative medication**, each with its **cost per year**, so the prescriber can see the savings. **Example:** Like comparing two phone plans side by side with yearly prices. **Remember:** **Current vs alternative, both with cost/year**."
   },
   {
    "type": "single",
@@ -1227,7 +1324,8 @@ E1_DATA.push({
     1
    ],
    "w": "Response options are Yes, No, or Will resolve through another route; the prescriber checks a box and faxes the form back to 209-932-4009 for documentation.",
-   "src": "Adherence notes p.29"
+   "src": "Adherence notes p.29",
+   "simple": "**In plain English:** The prescriber can answer **Yes, No, or Will resolve through another route**. Planning to handle it at the next visit means **'another route,'** then **fax it back to 209-932-4009**. **Example:** Like replying 'I'll handle it in person' instead of yes or no. **Remember:** Not yes, not no, means **another route + fax back**."
   },
   {
    "type": "multi",
@@ -1245,7 +1343,8 @@ E1_DATA.push({
     2
    ],
    "w": "The footer lists Patient Signature, Student Pharmacist (print/sign) and Pharmacist Preceptor (print/sign). The prescriber only checks a response box; no Medicare student signature line exists.",
-   "src": "Adherence notes p.29"
+   "src": "Adherence notes p.29",
+   "simple": "**In plain English:** The bottom of the form needs the **Patient**, the **Student Pharmacist** (print and sign), and the **Pharmacist Preceptor** (print and sign). The prescriber just checks a response box, and there's no Medicare student line. **Example:** Like a permission slip signed by the patient, the student, and the supervising pharmacist. **Remember:** **Patient + Student + Preceptor**."
   },
   {
    "type": "single",
@@ -1260,7 +1359,8 @@ E1_DATA.push({
     3
    ],
    "w": "The form has a field 'Patient MRN# (if applicable e.g., Kaiser Permanente)'.",
-   "src": "Adherence notes p.29"
+   "src": "Adherence notes p.29",
+   "simple": "**In plain English:** The form has a field for the **Patient MRN#** (medical record number) **if applicable**, with Kaiser Permanente given as the example. **Example:** Kaiser uses its own record numbers, like a membership number at a store. **Remember:** Kaiser means **MRN#**."
   },
   {
    "type": "single",
@@ -1275,7 +1375,8 @@ E1_DATA.push({
     0
    ],
    "w": "The red-boxed field states: Allergies and Reaction (DO NOT leave blank if none). Documenting 'none' is required.",
-   "src": "Adherence notes p.31"
+   "src": "Adherence notes p.31",
+   "simple": "**In plain English:** The 'Allergies and Reaction' box **must not be left blank**. If the patient has no allergies, **write that he has none**. **Example:** A blank box could mean 'no allergies' or 'nobody asked'; writing 'none' proves you asked. **Remember:** **Never blank; write 'none.'**"
   },
   {
    "type": "single",
@@ -1290,7 +1391,8 @@ E1_DATA.push({
     2
    ],
    "w": "The form labels 'Zip Code (Must match Medicare bill)'. Email is optional.",
-   "src": "Adherence notes p.31"
+   "src": "Adherence notes p.31",
+   "simple": "**In plain English:** The **zip code** must **match the patient's Medicare bill** so vaccine billing goes through. Other fields like email are optional, but this one has a strict rule. **Example:** Like a card being declined because the billing zip doesn't match. **Remember:** **Zip = Medicare bill**."
   },
   {
    "type": "multi",
@@ -1309,7 +1411,8 @@ E1_DATA.push({
     3
    ],
    "w": "The consent paragraph covers receiving the VIS, understanding risks/benefits and no guarantee of effectiveness, side effects, payment info correctness, privacy practices review, and authorizing Proveri Pharmacy Services. It does not commit the patient to a series.",
-   "src": "Adherence notes p.31"
+   "src": "Adherence notes p.31",
+   "simple": "**In plain English:** By signing, the patient confirms they **got the CDC VIS**, understand there's **no guarantee the vaccine works**, **reviewed the privacy notice**, and **authorize Proveri Pharmacy Services** to release info and request payment. It doesn't commit them to finishing a series. **Example:** Like signing a consent form: I read the info, I understand the risks, you can bill my insurance. **Remember:** **VIS, no guarantee, privacy, Proveri**. Not a series promise."
   },
   {
    "type": "multi",
@@ -1330,7 +1433,8 @@ E1_DATA.push({
     4
    ],
    "w": "Columns include 'NDC, Lot #, Manufacturer, Exp. Date' and 'VIS Date' (plus initials, billing, route, site, dosage, series #, registry entry, Qualtrics). The Part D plan name is not a table column.",
-   "src": "Adherence notes p.33"
+   "src": "Adherence notes p.33",
+   "simple": "**In plain English:** The vaccine table needs product tracking info: **NDC, Lot #, Manufacturer, Expiration date**, and **VIS date**. The Part D plan name isn't a column there. **Example:** Like recording a product's barcode, batch number, maker and expiration date in case of a recall. **Remember:** **NDC, Lot, Mfr, Exp, VIS date**."
   },
   {
    "type": "single",
@@ -1345,7 +1449,8 @@ E1_DATA.push({
     0
    ],
    "w": "The form lists COVID-19: Spikevax 0.5 mL or Comirnaty 0.3 mL, IM, deltoid. 0.5 mL is Spikevax; 1 mL is Engerix-B; all listed vaccines are IM.",
-   "src": "Adherence notes p.33"
+   "src": "Adherence notes p.33",
+   "simple": "**In plain English:** The form lists two COVID products: **Comirnaty 0.3 mL** and Spikevax 0.5 mL, both **IM deltoid**. Since she got Comirnaty, document **0.3 mL IM deltoid**. **Example:** Same drink, two brands, different cup sizes; record the one you poured. **Remember:** **Comirnaty = 0.3 mL IM**. 1 mL is Hep B."
   },
   {
    "type": "fill",
@@ -1354,7 +1459,8 @@ E1_DATA.push({
    "tol": 0,
    "unit": "mL",
    "w": "Engerix-B is 1 mL IM per dose and the form's '# in series' shows 1–2–3 (3 doses): 3 × 1 mL = 3 mL.",
-   "src": "Adherence notes p.33, 37"
+   "src": "Adherence notes p.33, 37",
+   "simple": "**In plain English:** Engerix-B is **1 mL per dose**, and the series is **3 doses**. **3 × 1 mL = 3 mL** total. **Example:** Like three 1-cup servings of soup: 3 cups total. **Remember:** **1 mL × 3 = 3 mL**."
   },
   {
    "type": "fill",
@@ -1363,7 +1469,8 @@ E1_DATA.push({
    "tol": 0,
    "unit": "mL",
    "w": "Influenza 0.5 mL + Prevnar 20 0.5 mL + Boostrix 0.5 mL = 1.5 mL.",
-   "src": "Adherence notes p.33"
+   "src": "Adherence notes p.33",
+   "simple": "**In plain English:** Per the form, each of these is **0.5 mL**: flu 0.5 + Prevnar 20 0.5 + Boostrix 0.5 = **1.5 mL**. **Example:** Three half-cups of water make one and a half cups. **Remember:** **3 × 0.5 = 1.5 mL**."
   },
   {
    "type": "single",
@@ -1378,7 +1485,8 @@ E1_DATA.push({
     3
    ],
    "w": "Q8: If YES, circle the reason and bill Medicare Part B. If NO, bill Medicare Part D (may require insurance authorization). Diabetes is a listed risk factor, not a contraindication.",
-   "src": "Adherence notes p.34"
+   "src": "Adherence notes p.34",
+   "simple": "**In plain English:** Diabetes is a listed Hep B **risk factor**, so a YES on Q8 means **circle diabetes and bill Medicare Part B**. NO would mean Part D, which may need authorization. **Example:** Like a different insurance billing route for someone who qualifies by risk. **Remember:** **Risk factor YES = Part B**. Diabetes is a reason to vaccinate, not a contraindication."
   },
   {
    "type": "multi",
@@ -1398,7 +1506,8 @@ E1_DATA.push({
     3
    ],
    "w": "Q6: immunocompromising conditions/immunosuppressants, no spleen, cochlear implant, CSF leak, or smoking. Latex allergy is Q2; Guillain-Barré is Q4.",
-   "src": "Adherence notes p.34"
+   "src": "Adherence notes p.34",
+   "simple": "**In plain English:** Q6 asks about things that weaken infection defenses: immune problems or immunosuppressants, **no spleen, cochlear implant, CSF leak (spinal fluid leak), and smoking**. Latex is Q2; Guillain-Barré is Q4. **Example:** A smoker without a spleen would check two boxes under Q6. **Remember:** **Q6 = spleen, cochlear, CSF, smoking**."
   },
   {
    "type": "single",
@@ -1413,7 +1522,8 @@ E1_DATA.push({
     1
    ],
    "w": "Q2 specifically names food allergies to eggs or gelatin, plus medications, a vaccine, or latex, and asks to list allergies and reactions.",
-   "src": "Adherence notes p.34"
+   "src": "Adherence notes p.34",
+   "simple": "**In plain English:** A gelatin allergy is caught by **Q2**, which asks about food allergies (**eggs or gelatin**), medications, a vaccine, or latex. **Example:** A patient who reacts to Jell-O (gelatin) would answer yes on Q2 and list the reaction. **Remember:** Gelatin/eggs = **Q2**."
   },
   {
    "type": "single",
@@ -1428,7 +1538,8 @@ E1_DATA.push({
     2
    ],
    "w": "The form instructs: Please read to patient — California law requires us to enter any vaccine administered in the California state immunization registry; 'Check here ONLY IF patient declines.'",
-   "src": "Adherence notes p.35"
+   "src": "Adherence notes p.35",
+   "simple": "**In plain English:** **Read the statement** that California law requires registry entry, and **check the box ONLY IF the patient declines**. You don't skip reading it or refuse to vaccinate. **Example:** Like an auto-enrollment where you tell them it's the default and mark the opt-out if they say no. **Remember:** Read it, then **box only if declining**."
   },
   {
    "type": "single",
@@ -1443,7 +1554,8 @@ E1_DATA.push({
     1
    ],
    "w": "The form states 'Please notify my physician for me. We can only do this with complete contact information.'",
-   "src": "Adherence notes p.35"
+   "src": "Adherence notes p.35",
+   "simple": "**In plain English:** The clinic can notify her physician, but **only with complete contact information** for that doctor. Without it, the request can't be completed. **Example:** Like trying to mail a letter: without a full address, it can't be delivered. **Remember:** **Complete contact info required**."
   },
   {
    "type": "multi",
@@ -1462,7 +1574,8 @@ E1_DATA.push({
     3
    ],
    "w": "Slide: 'If you document it, document it correctly' — Patient information · vaccines received · series status · reminders. Premium cost is not on the card.",
-   "src": "Adherence notes p.36"
+   "src": "Adherence notes p.36",
+   "simple": "**In plain English:** The vaccination card records **patient information, vaccines received, series status, and reminders**. Rule: 'If you document it, document it correctly.' Cost info isn't on it. **Example:** Like a stamp card showing what you got, how far along you are, and what's due next. **Remember:** **Info, received, series, reminders**."
   },
   {
    "type": "single",
@@ -1477,7 +1590,8 @@ E1_DATA.push({
     3
    ],
    "w": "Vaccine Menu: Standard Dose (SD) = under 65; High Dose (HD) = 65 years or older. Both require annual vaccination.",
-   "src": "Adherence notes p.37"
+   "src": "Adherence notes p.37",
+   "simple": "**In plain English:** The menu splits flu shots by age: **Standard Dose for under 65**, High Dose for **65+**. She's 63, so **Standard Dose (SD)**. **Example:** Like a senior discount that starts at 65: at 63, she's not there yet. **Remember:** **Under 65 = SD**."
   },
   {
    "type": "single",
@@ -1492,7 +1606,8 @@ E1_DATA.push({
     0
    ],
    "w": "Vaccine Menu: RSV recommended for ≥75 or 50–74 with risk factors; only one dose is recommended. 2–6 months describes Shingrix; every 10 years describes Tdap.",
-   "src": "Adherence notes p.37"
+   "src": "Adherence notes p.37",
+   "simple": "**In plain English:** Per the Vaccine Menu, RSV is **only one dose**. Annual is flu/COVID, 2–6 months is Shingrix, every 10 years is Tdap. **Example:** He already got his one RSV shot last year, so he's done. **Remember:** RSV = **one and done**."
   },
   {
    "type": "single",
@@ -1507,7 +1622,8 @@ E1_DATA.push({
     2
    ],
    "w": "Shingrix is a 2-shot series given after age 50; need the second shot in 2–6 months, and it is good for a lifetime.",
-   "src": "Adherence notes p.37"
+   "src": "Adherence notes p.37",
+   "simple": "**In plain English:** Shingrix is a **2-shot series** for people over 50; the **second dose is due 2–6 months** after the first. **Example:** First dose today in October; second dose between December and April. **Remember:** **Shingrix: 2 shots, 2–6 months apart**."
   },
   {
    "type": "fill",
@@ -1516,7 +1632,8 @@ E1_DATA.push({
    "tol": 0,
    "unit": "tablets/day",
    "w": "1 + 2 + 1 + 2 + 2 + 2 + 1 = 11 tablets/day. Ozempic is a weekly SQ injection, not a tablet.",
-   "src": "Adherence notes p.39"
+   "src": "Adherence notes p.39",
+   "simple": "**In plain English:** Count tablets per day; BID means twice daily. Farxiga 1 + metformin 2 + spironolactone 1 + carvedilol 2 + Eliquis 2 + sacubitril/valsartan 2 + atorvastatin 1 = **11**. Ozempic is a weekly injection, so it's excluded. **Example:** Like counting snacks from a daily list; the weekly treat isn't a daily item. **Remember:** **BID = 2**; total **11 tablets/day**, no Ozempic."
   },
   {
    "type": "single",
@@ -1531,7 +1648,8 @@ E1_DATA.push({
     0
    ],
    "w": "Homework: create the calendar, save under 'Optimize', upload English + another-language calendars and your Meducation password to Canvas; due Wednesday 9/30 at 6 pm. It is worth 10 points and must be perfect or remediation is required.",
-   "src": "Adherence notes p.40–41"
+   "src": "Adherence notes p.40–41",
+   "simple": "**In plain English:** The homework requires the calendar saved under **'Optimize'**, uploaded to Canvas in **English AND another language**, with your **Meducation password**, by **Wed 9/30 at 6 pm**. **Example:** Like submitting an essay in two languages plus your login code before the deadline. **Remember:** **Optimize, 2 languages, password, 9/30 6 pm**."
   },
   {
    "type": "single",
@@ -1546,7 +1664,8 @@ E1_DATA.push({
     3
    ],
    "w": "Must be completed PERFECTLY; otherwise remediation with a new patient case. If assigned as the 3rd student at a Medicare table and remediation is needed, you are reassigned to a different station.",
-   "src": "Adherence notes p.41"
+   "src": "Adherence notes p.41",
+   "simple": "**In plain English:** The homework must be **perfect**; any error means **remediation with a new patient case**. If you're the **3rd student at a Medicare table** needing remediation, you're **reassigned to a different station**. **Example:** Like a pass/fail test: one mistake means a redo, and you get moved to a different station. **Remember:** **Not perfect = remediation + new station (if 3rd student)**."
   },
   {
    "type": "order",
@@ -1557,7 +1676,8 @@ E1_DATA.push({
     "Connect — help the person reach appropriate professional care and other support"
    ],
    "w": "MHFA framework: Recognize → Respond → Connect.",
-   "src": "Adherence notes p.43"
+   "src": "Adherence notes p.43",
+   "simple": "**In plain English:** Mental Health First Aid follows three steps: **Recognize** the signs, **Respond** by listening without judgment and giving initial support (even in a crisis), then **Connect** the person to professional help. **Example:** Like spotting someone who fell, helping them sit up, then calling for medical help. **Remember:** **Recognize, Respond, Connect**: notice, help, hand off."
   }
  ]
 });

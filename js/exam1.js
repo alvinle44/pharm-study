@@ -17,7 +17,7 @@ const e1topic = id => E1_DATA.find(t=>t.id===id);
 // so adding, removing or reordering content never scrambles saved progress.
 function e1Hash(str){ let h=5381; for(let i=0;i<str.length;i++) h=((h<<5)+h+str.charCodeAt(i))|0; return (h>>>0).toString(36); }
 function e1Qs(id){ const t=e1topic(id); const base=t.mcq.map((q,i)=>({...q, key:id+"|"+(q.id||e1Hash(q.q)), topic:id})); const g=(e1s().gen[id]||[]).map((q,i)=>({...q, key:id+"|g"+q.gid, topic:id, ai:1})); return base.concat(g); }
-function e1Cards(id){ return e1topic(id).cards.map(([f,b,s])=>({key:"e1|"+id+"|"+e1Hash(f), f, b, s})); }
+function e1Cards(id){ return e1topic(id).cards.map(([f,b,s,simple])=>({key:"e1|"+id+"|"+e1Hash(f), f, b, s, simple})); }
 function e1Mastery(id){
   const cs=e1Cards(id), cst=cs.reduce((a,c)=>a+cardStrength(c.key),0)/Math.max(1,cs.length);
   const qs=e1Qs(id), st=e1s().qs, right=qs.filter(q=>st[q.key]&&st[q.key].last).length;
@@ -60,7 +60,7 @@ function e1QHTML(q, done, showWhy){
   }
   const ok=done&&e1Correct(q);
   return `<span class="lbl">${TYPE_LABEL[q.type]}</span>${body}
-    ${done&&showWhy?`<div class="note ${ok?"ok":""}"><b>${ok?"Correct.":"Not quite."}</b> ${ok?"":"<br>Answer: "+md(e1KeyText(q))+"<br>"}${md(q.w||"")}${q.src?`<div class="hint" style="margin-top:4px">Source: ${esc(q.src)}</div>`:""}${q.type==="multi"?`<div class="hint" style="margin-top:4px">Scored all-or-nothing (the safe assumption for NAPLEX-style select-all).</div>`:""}</div>${ok?"":e1CauseChips(q.key)}`:""}`;
+    ${done&&showWhy?`<div class="note ${ok?"ok":""}"><b>${ok?"Correct.":"Not quite."}</b> ${ok?"":"<br>Answer: "+md(e1KeyText(q))+"<br>"}${md(q.w||"")}${q.src?`<div class="hint" style="margin-top:4px">Source: ${esc(q.src)}</div>`:""}${q.type==="multi"?`<div class="hint" style="margin-top:4px">Scored all-or-nothing (the safe assumption for NAPLEX-style select-all).</div>`:""}${e1SimpleBtn("q",q.key)}</div>${ok?"":e1CauseChips(q.key)}`:""}`;
 }
 
 // ---------- shell ----------
@@ -146,7 +146,7 @@ function e1CardsView(card,t){
   if(!q.deck.length){ card.innerHTML=head+`<div class="done"><span class="big">${q.done?"Done":"Nothing due"}</span><p class="hint">${q.done?q.done+" reviewed.":"Tick 'Include cards not due' to cram."}</p></div>`; return; }
   const c=q.deck[0];
   card.innerHTML=head+`<div class="row left"><span class="pill g">${q.done} done</span><span class="pill b">${q.again} again</span><span class="pill w">${q.deck.length} left</span></div>
-    <div class="flash"><span class="from">${c.s?'<span class="star">★</span> emphasized':esc(t.name)}</span><span class="q xq">${md(c.f)}</span>${q.show?`<div class="ans">${md(c.b)}</div>`:""}</div>
+    <div class="flash"><span class="from">${c.s?'<span class="star">★</span> emphasized':esc(t.name)}</span><span class="q xq">${md(c.f)}</span>${q.show?`<div class="ans">${md(c.b)}${e1SimpleBtn("c",c.key)}</div>`:""}</div>
     ${q.show?`<div class="grades"><button class="again" data-e1g="0">Again<br><small>${ivl(c.key,0)}</small></button><button class="hard" data-e1g="3">Hard<br><small>${ivl(c.key,3)}</small></button><button class="good" data-e1g="4">Good<br><small>${ivl(c.key,4)}</small></button><button class="easy" data-e1g="5">Easy<br><small>${ivl(c.key,5)}</small></button></div>`
       :`<div class="row"><button class="primary" id="e1show">Show answer</button></div>`}`;
 }
@@ -174,7 +174,7 @@ function e1Quiz(card,t){
   const z=e1q;
   if(z.i>=z.list.length){
     card.innerHTML=`<div class="rx"><h2>${esc(t.name)} · results</h2></div><div class="done"><span class="big">${z.right}/${z.list.length}</span>
-      ${z.wrong.length?`<div class="weak"><span class="lbl">Review</span>${z.wrong.map(q=>`<div class="rev"><b>${md(q.q)}</b><div>✓ ${md(e1KeyText(q))}</div><div class="hint">${md(q.w||"")}</div></div>`).join("")}</div>`:""}
+      ${z.wrong.length?`<div class="weak"><span class="lbl">Review</span>${z.wrong.map(q=>`<div class="rev"><b>${md(q.q)}</b><div>✓ ${md(e1KeyText(q))}</div><div class="hint">${md(q.w||"")}</div>${e1SimpleBtn("q",q.key)}</div>`).join("")}</div>`:""}
       <div class="row"><button id="e1back">Back</button>${z.wrong.length?`<button class="primary" data-e1q="missed">Retry missed</button>`:""}</div></div>`;
     return;
   }
@@ -253,7 +253,7 @@ function e1ExamResults(card){
     <div class="prog">${Object.entries(by).map(([id,[a,n]])=>`<div class="prow"><div class="top"><b>${esc(e1topic(id).name)}</b><span class="num">${a}/${n}</span></div>${bar(a/n*100)}</div>`).join("")}</div>
     ${ch.wr+ch.rw+ch.ww?`<div class="note">During second looks you changed ${ch.wr+ch.rw+ch.ww} answer(s): <b>${ch.wr} wrong→right</b>, ${ch.rw} right→wrong, ${ch.ww} wrong→wrong.</div>`:""}
     ${conf.length?`<div class="hint">Accuracy by confidence: ${conf.map(([c,a,n])=>`${["","Guess","Unsure","Sure"][c]} ${a}/${n}`).join(" · ")}${conf.find(c=>c[0]===3&&c[2]&&c[1]/c[2]<0.8)?" — some 'Sure' answers were wrong; read those explanations closely.":""}</div>`:""}
-    ${wrong.length?`<h3>Review what you missed (${wrong.length})</h3><p class="hint">Tag why you missed each one. The Overview tab tracks your top causes, and the Error log set lets you retry them.</p>${wrong.map(q=>`<div class="rev"><b>${md(q.q)}</b><div class="hint">${esc(e1topic(q.topic).name)}</div><div>Your answer: ${md(e1YourText(q))}</div><div>✓ ${md(e1KeyText(q))}</div><div class="hint">${md(q.w||"")}</div>${e1CauseChips(q.key)}</div>`).join("")}`:"<p>Perfect score.</p>"}
+    ${wrong.length?`<h3>Review what you missed (${wrong.length})</h3><p class="hint">Tag why you missed each one. The Overview tab tracks your top causes, and the Error log set lets you retry them.</p>${wrong.map(q=>`<div class="rev"><b>${md(q.q)}</b><div class="hint">${esc(e1topic(q.topic).name)}</div><div>Your answer: ${md(e1YourText(q))}</div><div>✓ ${md(e1KeyText(q))}</div><div class="hint">${md(q.w||"")}</div>${e1SimpleBtn("q",q.key)}${e1CauseChips(q.key)}</div>`).join("")}`:"<p>Perfect score.</p>"}
     <div class="row"><button id="e1xnew">New exam</button><button class="primary" data-e1t="home">Back to overview</button></div>`;
 }
 function e1YourText(q){
@@ -284,11 +284,78 @@ Reply with only a JSON array like:
   }catch(e){ e1genBusy=false; renderE1(); const o=document.getElementById("e1genout"); if(o) o.innerHTML=`<p class="hint">${e&&e.code==="not_granted"?"Claude access wasn't allowed.":"Couldn't generate questions. Try again."}</p>`; if(e&&["not_granted","sampling_disabled"].includes(e.code)) sample=null; }
 }
 
+// ---------- explain simply + ask ChatGPT ----------
+function e1SimpleBtn(kind,key){ return `<div class="row left e1simrow"><button type="button" class="ghost e1simbtn" data-e1simple="${kind}~${esc(key)}">💡 Explain simply</button></div>`; }
+function e1FindItem(ref){
+  const i=ref.indexOf("~"), kind=ref.slice(0,i), key=ref.slice(i+1);
+  for(const t of E1_DATA){
+    if(kind==="c"){ const c=e1Cards(t.id).find(c=>c.key===key); if(c) return {kind, t, c}; }
+    else { const q=e1Qs(t.id).find(q=>q.key===key); if(q) return {kind, t, q}; }
+  }
+  return null;
+}
+const e1Plain = s => String(s||"").replace(/\*\*/g,"").replace(/\s+/g," ").trim();
+function e1GptPrompt(it){
+  let body;
+  if(it.kind==="c") body=`Flashcard question: ${e1Plain(it.c.f)}\nAnswer from my lecture: ${e1Plain(it.c.b)}`;
+  else { const q=it.q;
+    const ans = q.type==="order" ? q.o.map((o,i)=>(i+1)+". "+e1Plain(o)).join("  ") : q.type==="fill" ? q.n+(q.unit?" "+q.unit:"") : q.a.map(i=>e1Plain(q.o[i])).join("; ");
+    body=`Exam question: ${e1Plain(q.q)}\n`+(q.type==="single"||q.type==="multi"?`Options: ${q.o.map(e1Plain).join(" | ")}\n`:"")+`Correct answer${q.type==="multi"?"s":""} (per my lecture): ${ans}\nMy lecture's explanation: ${e1Plain(q.w)}`; }
+  let p=`I'm a pharmacy (PharmD) student studying for an exam on "${it.t.name}". Explain this to me in very simple, everyday words with a real-life example, then give me a quick memory trick. Stick to my lecture's answer below even if newer guidelines differ (you can mention the difference in one line at the end).\n\n${body}`;
+  return p.length>3500 ? p.slice(0,3500)+"…" : p;
+}
+function e1AskGPT(it){
+  const prompt=e1GptPrompt(it), url="https://chatgpt.com/?q="+encodeURIComponent(prompt);
+  try{ navigator.clipboard && navigator.clipboard.writeText(prompt).catch(()=>{}); }catch(e){}
+  const wide = window.matchMedia("(min-width: 900px) and (pointer: fine)").matches;
+  let w=null;
+  if(wide){
+    const W=Math.max(420, Math.round(screen.availWidth*0.36)), H=screen.availHeight;
+    const L=(screen.availLeft||0)+screen.availWidth-W, T=screen.availTop||0;
+    w=window.open(url, "pharmChatGPT", `popup=yes,width=${W},height=${H},left=${L},top=${T}`);
+    if(w){ try{ w.focus(); }catch(e){} toast("Opened ChatGPT on the side · question also copied"); }
+    else toast("Popup blocked: allow popups for this site, or paste — the question is copied");
+  } else {
+    w=window.open(url, "_blank");
+    toast("Question copied — if ChatGPT opens empty, tap the box and paste");
+  }
+}
+let e1SimCur=null;
+function e1OpenSimple(ref){
+  const it=e1FindItem(ref); if(!it) return toast("Couldn't find that item");
+  e1SimCur=it;
+  const text = it.kind==="c" ? it.c.simple : it.q.simple;
+  const title = it.kind==="c" ? it.c.f : it.q.q;
+  let m=document.getElementById("e1sim");
+  if(!m){ m=document.createElement("div"); m.id="e1sim"; m.setAttribute("role","dialog"); m.setAttribute("aria-modal","true"); document.body.appendChild(m);
+    m.addEventListener("click", e=>{ if(e.target===m||e.target.closest("[data-simclose]")){ m.hidden=true; document.body.classList.remove("e1simopen"); }
+      if(e.target.closest("[data-simgpt]")&&e1SimCur) e1AskGPT(e1SimCur); });
+    document.addEventListener("keydown", e=>{ if(e.key==="Escape"&&!m.hidden){ m.hidden=true; document.body.classList.remove("e1simopen"); } }); }
+  m.innerHTML=`<div class="e1simbox card"><div class="rx"><h2>💡 Explained simply</h2><button type="button" class="ghost" data-simclose aria-label="Close">✕</button></div>
+    <div class="e1simq">${md(title.length>220?title.slice(0,220)+"…":title)}</div>
+    ${text?`<div class="e1simtxt">${md(text).replace(/<b>(In plain English:|Example:|Remember:)<\/b>/g,'</p><p><b>$1</b>').replace(/^<\/p>/,"")}</div>`:`<p class="hint">No built-in explanation for this one yet — ask ChatGPT below.</p>`}
+    <div class="row"><button type="button" class="primary" data-simgpt>Still confused? Ask ChatGPT ↗</button><button type="button" class="ghost" data-simclose>Close</button></div>
+    <p class="hint">ChatGPT opens with this question already filled in (uses your own ChatGPT account). It's also copied, so you can paste it if the box is empty.</p></div>`;
+  m.hidden=false; document.body.classList.add("e1simopen");
+}
+(function(){ const st=document.createElement("style"); st.textContent=`
+#e1sim{position:fixed;inset:0;z-index:1000;background:rgba(0,0,0,.45);display:flex;align-items:flex-end;justify-content:center;padding:12px}
+#e1sim[hidden]{display:none!important}
+#e1sim .e1simbox{width:min(560px,100%);max-height:85vh;overflow:auto;margin:0;border-radius:16px;overflow-wrap:anywhere}
+@media (min-width:700px){#e1sim{align-items:center}}
+#e1sim .e1simq{font-size:.9em;opacity:.75;margin:4px 0 10px;padding-bottom:8px;border-bottom:1px solid rgba(127,127,127,.25)}
+#e1sim .e1simtxt{line-height:1.55}
+#e1sim .e1simtxt p{margin:0 0 10px}
+body.e1simopen{overflow:hidden}
+.e1simrow{margin-top:8px}
+#toast{z-index:1001}`; document.head.appendChild(st); })();
+
 // ---------- events ----------
 function e1Cur(){ if(e1q&&e1q.id==="mix"&&e1s().tab==="exam") return e1q.list[e1q.i]; return e1s().tab==="exam" ? (e1x&&e1x.list[e1x.i]) : (e1q&&e1q.list[e1q.i]); }
 document.addEventListener("click", e=>{
   const t=e.target.closest("button"); if(!t||state.section!=="e1") return;
   const d=t.dataset, x=e1s();
+  if(d.e1simple){ e1OpenSimple(d.e1simple); return; }
   if(d.e1t){ if(x.tab==="exam"&&e1x&&e1x.i<e1x.list.length&&d.e1t!=="exam"){ /* leaving an exam abandons it */ if(e1x.timerId) clearInterval(e1x.timerId); e1x=null; } x.tab=d.e1t; e1q=null; e1c=null; save(); renderE1(); window.scrollTo(0,0); return; }
   if(d.e1m){ x.tool=d.e1m; e1q=null; e1c=null; save(); renderE1(); return; }
   if(d.e1q){ e1StartQuiz(x.tab, d.e1q); renderE1(); return; }
